@@ -1,0 +1,48 @@
+Angela_Vincent.txt	{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+{{Infobox person
+| name          = Angela Vincent
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    =  {{bya|1942}}
+| birth_place   = 
+| death_date    = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place   = 
+| nationality   = 
+| other_names   = 
+| occupation    = [[Professor]]
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Angela Vincent''' (born 1942) is a professor at [[Somerville College, Oxford|Somerville College]] of [[University of Oxford|Oxford University]]. She is the head of a research group, which is located in the West Wing within the John Radcliffe Hospital, and works on a wide range of [[biology|biological]] disciplines encompassing [[molecular biology]], [[biochemistry]], cellular [[immunology]] and intracellular [[neurophysiology]]. The group's research is focused on autoimmune and [[genetic disorder]]s of the neuromuscular junction, peripheral nerves and more recently the exciting field of central nervous system diseases. The principal autoimmune diseases studied are [[myasthenia gravis]], the [[Lambert-Eaton myasthenic syndrome]], [[limbic encephalitis]], other types of [[autoimmune encephalitis]] and acquired [[neuromyotonia]].
+
+Her contributions are mainly on the roles of antibodies directed against [[ion channels]], proteins complexed to ion channels, such as LGI1, CASPR2 and Contactin-2, within [[neurons]], [[glia]] and the [[nerve]]-[[muscle]] junction in the pathogenesis of above-mentioned diseases.
+
+She has demonstrated that transfer of these [[antibody|antibodies]] across the [[placenta]] from the [[pregnant]] [[woman]] to the [[fetus]] [[in utero]] can cause developmental abnormalities. She has also worked on the principal gene [[mutation]]s causing neuromuscular diseases.
+
+In 2009 she presented the [[Leslie Oliver Oration]] at [[Queen's Hospital]].<ref>[http://www.bhrhospitals.nhs.uk/neuro/neuro4ha.php?id=1034 The Second Leslie Oliver Oration]</ref> In 2011, she was made a FRS.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://web.archive.org/web/20110107002838/http://www.neuroscience.ox.ac.uk:80/directory/angela-vincent Angela Vincent – Neuroscience]
+* [https://web.archive.org/web/20080502162057/http://www.imm.ox.ac.uk:80/pages/research/neurosciences/vincent.htm WIMM]
+
+{{FRS 2011}}
+{{Authority control}}
+
+{{DEFAULTSORT:Vincent, Angela}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:British biologists]]
+[[Category:British women scientists]]
+[[Category:English neuroscientists]]
+[[Category:Fellows of Somerville College, Oxford]]
+[[Category:Female Fellows of the Royal Society]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Fellows of the Royal Society]]

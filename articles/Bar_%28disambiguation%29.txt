@@ -1,0 +1,112 @@
+Bar_%28disambiguation%29.txt	{{Wiktionary|Bar|bar|-bar|BAR}}
+A '''[[bar]]''' is a retail establishment that serves alcoholic beverages; also the counter at which drinks are served.
+
+'''Bar''' or '''BAR''' may also refer to:
+{{TOC right}}
+==Science and technology==
+* [[Bar (river morphology)]], a deposit of sediment in a river
+* [[Bar (tropical cyclone)]]
+* [[Bar (unit)]], a unit of pressure
+* [[BAR domain]], a protein domain
+* [[Shoal]], a landform composed of sand, silt, or pebbles
+
+===Computing===
+* [[Bar (computer science)]], a placeholder in programming or documentation
+* [[Base Address Register]], in computer PCI configuration space
+* [[Bennett acceptance ratio]], an algorithm for calculating free energy differences
+
+==Law==
+* [[Bar (law)]], the division of a courtroom between working and public areas; the process of qualifying to practice law; or the legal profession
+* [[Bar association]], a professional body of lawyers
+* [[Bar examination]], a test for lawyers
+
+==Media and entertainment==
+* [[Bar (dance)]]
+* [[Bar (music)]], a segment in musical notation
+* [[The Bar (painting)|''The Bar'' (painting)]], by John Brack
+* [[The Bar (radio network)]]
+* [[The Bar (TV series)|''The Bar'' (TV series)]]
+* ''[[Bay Area Reporter]]'', a newspaper
+* ''[[Biblical Archaeology Review]]'', a journal
+* ''The Bar'', a 1906 book by [[Margery Williams]]
+
+==Places==
+* [[Bar, Montenegro]]
+** [[Bar Municipality]], Montenegro
+* [[Bar, Rajasthan]], India; See [[National Highway 162 (India)]]
+* [[Bar, Rutog County]], Tibet, China
+* [[Bar, Vinnytsia Oblast]], Ukraine
+* [[Bár]], Hungary
+* [[Bar Region]] in Punjab, Pakistan
+* [[City bars]], former entrances to the City of London
+
+===France===
+* [[Bar (river)]]
+* [[Bar, Corrèze]]
+* [[Bar-le-Duc]], formerly known as Bar, Meuse
+** [[Duchy of Bar]], part of the Holy Roman Empire
+
+===Iran===
+* [[Bar, Bushehr]]
+* [[Bar, Hormozgan]]
+* [[Bar, Razavi Khorasan]]
+
+==Language==
+* [[Bar (diacritic)]], a line through a letter or other grapheme
+* [[Vertical bar]], a punctuation symbol
+* [[Bavarian language]] (ISO 639-3 code)
+* Bar, a notation used in [[X-bar theory]] in linguistics
+
+==Transportation==
+* [[Bangor and Aroostook Railroad]], a U.S. rail company
+* [[British American Racing]], a Formula One constructor
+* [[California Bureau of Automotive Repair]]
+* [[Barstow station]], (station code)
+* [[Qionghai Bo'ao Airport]] (IATA code)
+
+==Firearms==
+* [[M1918 Browning Automatic Rifle]], a family of American rifles and guns
+* [[Browning BAR]], a rifle produced in Belgium and Japan
+
+==People==
+* Bar, a [[patronymic]] prefix in Aramaic
+
+===Given name===
+* [[Bar Botzer]] (born 1994), Israeli tennis player
+* [[Bar Refaeli]] (born 1985), Israeli model
+* [[Bar Timor]] (born 1992), Israeli basketball player
+
+===Surname===
+* [[Alon Bar]] (born 1966), Israeli/American filmmaker
+* [[Amos Bar]] (1931–2011), Israeli author, teacher, and editor
+* [[Ellen Bar]], New York City Ballet soloist
+* [[Haim Bar]] (born 1954), Israeli footballer
+* [[Israel Bar]] (1912–1966), convicted of espionage by Israel in 1961
+* [[Jacques Bar]] (1912–2009), French film producer
+* [[Moshe Bar (investor)]] (born 1971), Israeli technologist, author, investor and entrepreneur
+* [[Moshe Bar (neuroscientist)]], neuroscientist, associate professor in psychiatry and radiology, and director of the Cognitive Neuroscience laboratory at Harvard Medical School
+* [[Noma Bar]] (born 1973), graphic designer
+* [[Sergiu Bar]] (born 1980), Romanian footballer
+* [[Shirley Temple Bar]], drag queen from Dublin, Ireland
+* [[Shlomo Bar]] (born 1943), Israeli musician, composer, and social activist
+* [[Walter Bar]] (born 1938), Swiss fencer
+* [[Zvi Bar]] (born 1935), Israeli politician
+
+==Other uses==
+* [[Dessert bar]], a type of cookie
+* [[British Archaeological Reports]], published by BAR Publishing
+* [[Bar (heraldry)]]
+* [[Bar Confederation]], an 18th-century Polish association
+* [[Medal bar]]
+* Bar, a [[mobile phone form factor#Bar|mobile phone form factor]]
+* Bar, a type of [[gatehouse]]
+* [[Chin-up bar]]
+
+==See also==
+* [[Candy bar]]
+* [[Barr (disambiguation)]]
+* [[Barre (disambiguation)]]
+* [[Bars (disambiguation)]]
+* [[Bär (disambiguation)]]
+
+{{Disambiguation|geo|surname}}

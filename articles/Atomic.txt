@@ -1,0 +1,36 @@
+Atomic.txt	{{wiktionary|atomic|atomically|atómico}}
+
+'''Atomic''' may refer to:
+
+* Of or relating to the [[atom]], the smallest particle of a chemical element that retains its chemical properties
+* [[Atomic Age]], also known as the "Atomic Era"
+* [[Atomic (magazine)|''Atomic'' (magazine)]], an Australian computing and technology magazine
+* [[Atomic Skis]], an Austrian ski producer
+* [[Atomic (band)]], a Norwegian jazz quintet
+* [[Atomic (EP)|''Atomic'' (EP)]], a 2013 extended play by {{not a typo|Labrinth}}
+* [[Atomic (Lit album)|''Atomic'' (Lit album)]], a 2001 album by Lit
+* [[Atomic (song)|"Atomic" (song)]], a 1979 song by Blondie
+* "Atomic", a song by Tiger Army from ''[[Tiger Army III: Ghost Tigers Rise]]''
+* [[Atom (order theory)]], in mathematics
+* ''[[Atomic, Living in Dread and Promise]]'', a 2015 documentary by Mark Cousins
+** [[Atomic (Mogwai album)|''Atomic'' (Mogwai album)]], a 2016 soundtrack by Mogwai to the above documentary
+*The "Atomic Kid" Buddy Wayne, American professional wrestler from [[NWA All Star Wrestling|All Star Wrestling]]
+
+== See also ==
+* [[Atom (disambiguation)]]
+* [[Atomicity (database systems)]]
+* [[Nuclear (disambiguation)]]
+* [[Atomism]], philosophy about the basic building blocks of reality
+* [[Atomic formula]], a formula without subformulas
+* [[Atomic number]], the number of protons found in the nucleus of an atom
+* "[[Atomic Dog]]", a 1982 song written and performed by George Clinton
+* [[Atomic Kitten]], an English all-female pop group
+* [[Atomic Rooster]], a British progressive rock band
+* [[Atomic chess]], a chess variant
+* [[Atomic coffee machine]], a 1950s stovetop coffee machine
+* [[Atomic operation]], in computer science
+* [[Atomic TV]], a channel launched in 1997 in Poland
+* [[Nuclear power]]
+* [[Nuclear weapon]]
+
+{{disambiguation}}

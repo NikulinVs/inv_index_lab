@@ -1,0 +1,59 @@
+Alarums_and_Excursions.txt	{{refimprove|date=May 2013}}
+'''''Alarums and Excursions''''' ('''''A&E''''') is an [[amateur press association]] started in June 1975 by [[Lee Gold]] (at the request of [[Bruce Pelz]], who felt that discussion of ''[[Dungeons & Dragons]]'' was taking up too much space in APA-L, the APA of Los Angeles's SF Fandom, usually collated at the [[Los Angeles Science Fantasy Society]]).<ref>[http://www.arielarchives.com/Brett/magazines/alarumsandexcursions.html Bretts RPG Magazine and Zine Index] {{webarchive |url=https://web.archive.org/web/20061024220743/http://www.arielarchives.com/Brett/magazines/alarumsandexcursions.html |date=October 24, 2006 }}, entry on Alarums & Excursions, retrieved September 2007</ref> It was the first publication to focus solely on [[role-playing game]]s.
+
+Each issue is a collection of contributions from different authors, often featuring game design discussions, rules variants, write-ups of game sessions, reviews, and comments on others contributions. It was a four-time winner of the [[Charles Roberts Award|Charles Roberts]]/[[Origins Award]], winning "Best Amateur Adventure Gaming Magazine" in 1984,<ref>{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1980s/The1984OriginsAwards/tabid/3227/Default.aspx|title=The 1984 Origins Awards - Presented ad Origins 1985|publisher=GAMA|archiveurl=https://web.archive.org/web/20141007022304/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1980s/The1984OriginsAwards/tabid/3227/Default.aspx|archivedate=7 October 2014|access-date=22 April 2016}}</ref> "Best Amateur Game Magazine" in 1999,<ref>{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1990s/The1999OriginsAwards/tabid/3243/Default.aspx|title=The 1999 Origins Awards - Presented ad Origins 2000|publisher=GAMA|archiveurl=https://web.archive.org/web/20141006174818/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1990s/The1999OriginsAwards/tabid/3243/Default.aspx|archivedate=6 October 2014|access-date=22 April 2016}}</ref> and "Best Amateur Game Periodical" in 2000<ref name = "hbdhyg">{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe2000s/The2000OriginsAwards/tabid/3245/Default.aspx|title=The 2000 Origins Awards - Presented ad Origins 2001|publisher=GAMA|archiveurl=https://web.archive.org/web/20141007005721/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe2000s/The2000OriginsAwards/tabid/3245/Default.aspx|archivedate=7 October 2014|access-date=22 April 2016}}</ref> and 2001.<ref name = "hbdhyg"/>
+
+Although game reports and social reactions are common parts of many ''A&E'' contributions, it has also, over the years, become a testing ground for new ideas on the development of the RPG as a genre and an art form. The idea that role-playing games ''are'' an art form took strong root in this zine, and left a lasting impression on many of the RPG professionals who contributed.
+
+The July 2013 collation of ''Alarums and Excursions'' was #466.
+
+Over the years, contributors have included: {{div col|4}}
+* [[Wilf K. Backhaus]]
+* [[Greg Costikyan]]
+* [[John M. Ford]]
+* [[E. Gary Gygax]]
+* [[David A. Hargrave]]
+* [[Rob Heinsoo]]
+* [[John Eric Holmes]]
+* [[Robin Laws]]
+* [[Steve Marsh (role-playing game designer)|Steve Marsh]]
+* [[Phil McGregor]]
+* Dave Nalle
+* [[Mark Rein·Hagen]]
+* [[John T. Sapienza, Jr.]]
+* [[Edward E. Simbalist]]
+* [[Jonathan Tweet]]
+* [[Erick Wujcik]]
+* [[John Nephew]]
+* [[Spike Y Jones]]
+* [[Doc Cross]]
+* [[Scott Bennie]]
+* [[Ken Rolston]]
+* [[Nicole Lindroos]]
+* [[Terry K. Amthor]]
+* [[Wes Ives]]
+{{div col end}}
+
+The role-playing game ''[[Over the Edge (role-playing game)|Over the Edge]]'' was inspired by discussions in ''A&E''.<ref>{{Cite book|author=Shannon Appelcline|title=Designers & Dragons: The '90s|publisher=Evil Hat Productions|year=2014|edition=2|volume=3|ISBN=978-1-61317-084-7|p=55}}</ref>
+
+"''Alarums and excursions''" is a stage direction for the moving of soldiers across a stage, used in [[Elizabethan drama]].<ref>{{Cite web|url=http://www.m-w.com/dictionary/alarums+and+excursions|title=alarums and excursions|work=Merriam-Webster Online Dictionary}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conchord.org/xeno/aande.html Alarums and Excursions page]
+
+{{WargameMag}}
+
+{{DEFAULTSORT:Alarums And Excursions}}
+[[Category:Role-playing game magazines]]
+[[Category:Origins Award winners]]
+[[Category:Charles S. Roberts Award winners]]
+[[Category:Science fiction organizations]]
+[[Category:Organizations established in 1975]]
+[[Category:Magazines established in 1975]]
+
+
+{{rpg-stub}}
+{{hobby-mag-stub}}

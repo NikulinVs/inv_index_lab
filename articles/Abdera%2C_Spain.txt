@@ -1,0 +1,57 @@
+Abdera%2C_Spain.txt	{{Infobox ancient site
+  |name = Abdera
+  |native_name = 
+  |alternate_name = 
+  |image = 
+  |alt = 
+  |caption = 
+  |map_type = Spain
+  |map_alt = 
+  |map_size = 250
+  |location = [[Spain]]
+  |region = [[Andalusia]]
+  |coordinates = {{coord|36|45|N|3|01|W|region:ES_type:city|display=inline,title}}
+  |type = 
+  |part_of = 
+  |length = 
+  |width = 
+  |area = 
+  |height = 
+  |builder = 
+  |material = 
+  |built = 
+  |abandoned = 
+  |epochs = 
+  |cultures = 
+  |dependency_of = 
+  |occupants = 
+  |event = 
+  |excavations = 
+  |archaeologists = 
+  |condition = 
+  |ownership = 
+  |management = 
+  |public_access = 
+  |website = 
+  |notes = 
+}}
+'''Abdera''' ({{lang|grc|τὰ Ἄβδηρα}}, [[Strabo]]; {{lang|grc|Ἄβδαρα}}, [[Ptolemy|Ptol.]]; {{lang|grc|τὸ Ἄβδηρον}}, Ephor. ap. [[Stephanus of Byzantium|Steph. B.]]) was an ancient seaport town on the south coast of [[Spain]], between Malaca (now [[Málaga]]) and [[Carthago Nova]] (now [[Cartagena, Spain|Cartagena]]), in the district inhabited by the [[Bastuli]].<ref name="EB1911">{{EB1911|inline=1|wstitle=Abdera (Spain)|display=Abdera|volume=1|page=33}}</ref>
+
+It was founded by the [[Carthage|Carthaginians]] as a trading station, and after a period of decline became under the Romans one of the more important towns in the province of [[Hispania Baetica]]. It was situated on a hill above the modern [[Adra, Spain|Adra]].<ref name="EB1911"/>
+
+Of its coins, the most ancient bear the [[Phoenicia]]n inscription ''abdrt'' with the head of [[Melkart]] and a [[tuna|tunny-fish]]; those of [[Tiberius]] (who seems to have made the place a [[Colonia (Roman)|colonia]]) show the chief temple of the town with two erect tunny fish in the form of columns.<ref name="EB1911"/> Earlier Roman coins were bilingual: Latin inscriptions on one side, stating the name of the emperor and the town and a Phoenician ethnic on the other side, simply stating the name of the town (''<nowiki/>'bdrt'').{{Citation needed|date=April 2016}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{Cite DGRG|title=Abdera|volume=1|page=2|url=https://archive.org/stream/dictionarygreek01smitgoog#page/n17/mode/1up}}
+
+{{Phoenician cities and colonies navbox|state=autocollapse}}
+
+[[Category:Archaeological sites in Spain]]
+[[Category:Phoenician colonies in Spain]]
+[[Category:Former populated places in Spain]]
+
+
+{{andalusia-geo-stub}}

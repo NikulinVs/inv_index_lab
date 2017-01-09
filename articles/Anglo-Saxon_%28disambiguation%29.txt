@@ -1,0 +1,15 @@
+Anglo-Saxon_%28disambiguation%29.txt	{{Wiktionary|Anglo-Saxon}}
+
+'''Anglo-Saxon''' may refer to:  
+* [[Anglo-Saxon economy]], modern macroeconomic term
+* [[Anglo-Saxon world]], modern societies based on or influenced by English customs
+* [[Anglo-Saxons]], Germanic tribes that settled down in Britain and founded England
+** [[Anglo-Saxon England]], their history
+** [[Old English]], their language
+* {{SS|Anglo Saxon}}, one of various ships
+* [[White Anglo-Saxon Protestant]], an ethnicity
+
+==See also==
+* [[Anglo]]
+
+{{disambiguation}}

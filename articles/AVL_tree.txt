@@ -1,0 +1,158 @@
+AVL_tree.txt	{{refimprove|date=July 2016}}
+{{Infobox data structure
+|name=AVL tree
+|type=tree
+|invented_by=[[Georgy Adelson-Velsky]] and [[Evgenii Landis]]
+|invented_year=1962
+|
+|space_avg={{math|O(''n'')}}
+|space_worst={{math|O(''n'')}}
+|search_avg={{math|O(log ''n'')}}<ref name="wiscurl">{{cite web | url=http://pages.cs.wisc.edu/~ealexand/cs367/NOTES/AVL-Trees/index.html | title=AVL Trees | author=Eric Alexander}}</ref>
+|search_worst={{math|O(log ''n'')}}<ref name="wiscurl"/>
+|insert_avg={{math|O(log ''n'')}}<ref name="wiscurl"/>
+|insert_worst={{math|O(log ''n'')}}<ref name="wiscurl"/>
+|delete_avg={{math|O(log ''n'')}}<ref name="wiscurl"/>
+|delete_worst={{math|O(log ''n'')}}<ref name="wiscurl"/>
+}}
+[[Image:AVL-tree-wBalance_K.svg|thumb|right|262px|Fig. 1: AVL tree with balance factors (green)]]
+
+In [[computer science]], an '''AVL tree''' is a [[self-balancing binary search tree]]. It was the first such [[data structure]] to be invented.<ref>[[Robert Sedgewick (computer scientist)|Robert Sedgewick]], ''Algorithms'', Addison-Wesley, 1983, ISBN 0-201-06672-6, page 199, chapter 15: Balanced Trees.</ref> In an AVL tree, the [[tree height|heights]] of the two [[child node|child]] subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take {{math|[[big O notation|O]](log ''n'')}} time in both the average and worst cases, where {{math|''n''}} is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more [[tree rotation]]s.
+
+The AVL tree is named after its two [[Soviet Union|Soviet]] inventors, [[Georgy Adelson-Velsky]] and [[Evgenii Landis]], who published it in their 1962 paper "An algorithm for the organization of information".<ref>{{cite journal|last=Georgy Adelson-Velsky|first=G.|author2=Evgenii Landis|year=1962|title=An algorithm for the organization of information|journal=[[Proceedings of the USSR Academy of Sciences]]|volume=146|pages=263–266|language=ru}} English translation by Myron J. Ricci in ''Soviet Math. Doklady'', 3:1259–1263, 1962.</ref>
+
+AVL trees are often compared with [[red–black tree]]s because both support the same set of operations and take {{math|O(log ''n'')}} time for the basic operations.  For lookup-intensive applications, AVL trees are faster than red–black trees because they are more strictly balanced.<ref>{{cite web|last = Pfaff|first = Ben|title = Performance Analysis of BSTs in System Software| publisher = [[Stanford university|Stanford University]]|date=June 2004|url = http://www.stanford.edu/~blp/papers/libavl.pdf|format = PDF}}</ref> Similar to red–black trees, AVL trees are height-balanced. Both are in general not [[Weight-balanced tree|weight-balanced]] nor μ-balanced for any <span class="frac nowrap">μ&le;<sup>1</sup>&frasl;<sub>2</sub></span>;<ref>[http://cs.stackexchange.com/questions/421/avl-trees-are-not-weight-balanced AVL trees are not weight-balanced? (meaning: AVL trees are not μ-balanced?)] <br>Thereby: A Binary Tree is called <math>\mu</math>-balanced, with <math>0 \le\mu\leq\tfrac12</math>, if for every node <math>N</math>, the inequality
+: <math>\tfrac12-\mu\le\tfrac{|N_l|}{|N|+1}\le \tfrac12+\mu</math>
+holds and <math>\mu</math> is minimal with this property. <math>|N|</math> is the number of nodes below the tree with <math>N</math> as root (including the root) and <math>N_l</math> is the left child node of <math>N</math>.</ref> that is, sibling nodes can have hugely differing numbers of descendants.
+
+==Definition==
+
+===Balance factor===
+In a [[binary tree]] the ''balance factor'' of a node N is defined to be the height difference
+:{{math|BalanceFactor(}}N{{math|) :&#61; –Height(LeftSubtree(}}N{{math|)) + Height(RightSubtree(}}N{{math|))}} <ref>{{cite book|last=Knuth|first=Donald E.|title=Sorting and searching|year=2000|publisher=Addison-Wesley|location=Boston [u.a.]|isbn=0-201-89685-0|pages=459|edition=2. ed., 6. printing, newly updated and rev.}}</ref>
+of its two child subtrees. A binary tree is defined to be an ''AVL tree'' if the [[Invariant (computer science)|invariant]]
+:{{math|BalanceFactor(}}N{{math|) &isin; {–1,0,+1}}}
+holds for every node N in the tree.
+
+A node N with {{math|BalanceFactor(}}N{{math|) < 0}} is called "left-heavy", one with {{math|BalanceFactor(}}N{{math|) > 0}} is called "right-heavy", and one with {{math|BalanceFactor(}}N{{math|) &#61; 0}} is sometimes simply called "balanced".
+
+;Remark
+In the sequel, because there is a one-to-one correspondence between nodes and the subtrees rooted by them, we sometimes leave it to the context whether the name of an object stands for the node or the subtree.
+
+===Properties===
+Balance factors can be kept up-to-date by knowing the previous balance factors and the change in height – it is not necessary to know the absolute height. For holding the AVL balance information, two bits per node are sufficient.<ref>More precisely: if the AVL balance information is kept in the child nodes – with meaning "when going upward there is an additional increment in height", this can be done with one bit. Nevertheless, the modifying operations can be programmed more efficiently if the balance information can be checked with one test.</ref>
+
+The height {{math|''h''}} of an AVL tree with {{math|''n''}} nodes lies in the interval:<ref>{{cite book|last=Knuth|first=Donald E.|title=Sorting and searching|year=2000|publisher=Addison-Wesley|location=Boston [u.a.]|isbn=0-201-89685-0|pages=460|edition=2. ed., 6. printing, newly updated and rev.}}</ref>
+:{{math|log<sub>2</sub>(''n''+1)  &le;  ''h''  <  ''c'' log<sub>2</sub>(''n''+2)+''b''}} 
+with the [[golden ratio]] {{math|&phi; :&#61; (1+}}<span class="nowrap">&radic;<span style="border-top:1px solid; padding:0 0.1em;">{{math|5}}</span>{{math|) &frasl;<sub>2</sub> &asymp; 1.618}},  {{math|''c'' :&#61; <sup>1</sup>&frasl; log<sub>2</sub> &phi; &asymp; 1.44}}</span>, &nbsp;and&nbsp; {{math|''b'' :&#61; <sup>''c''</sup>&frasl;<sub>2</sub> log<sub>2</sub> 5 – 2 &asymp; –0.328}}.
+This is because an AVL tree of height {{math|''h''}} contains at least {{math|''F''<sub>''h''+2</sub> – 1}} nodes where {{math|&#123;''F''<sub>''h''</sub>&#125;}} is the [[Fibonacci number|Fibonacci sequence]] with the seed values {{math|''F''<sub>''1''</sub> &#61; 1}}, {{math|''F''<sub>''2''</sub> &#61; 1}}.
+
+==Operations==
+Read-only operations of an AVL tree involve carrying out the same actions as would be carried out on an unbalanced [[binary search tree]], but modifications have to observe and restore the height balance of the subtrees.
+
+===Searching===
+{{refimprove section|date=July 2016}}
+Searching for a specific key in an AVL tree can be done the same way as that of a normal unbalanced [[Binary search tree#Searching|binary search tree]]. In order for search to work effectively it has to employ a comparison function which establishes a [[total order]] (or at least a [[Weak ordering#Total preorders|total preorder]]) on the set of keys. The number of comparisons required for successful search is limited by the height {{math|''h''}} and for unsuccessful search is very close to {{math|''h''}}, so both are in {{math|O(log ''n'')}}.
+
+===Traversal===
+{{refimprove section|date=July 2016}}
+Once a node has been found in an AVL tree, the ''next'' or ''previous'' node can be accessed in [[amortized complexity|amortized]] constant time. Some instances of exploring these "nearby" nodes require traversing up to {{math|''h'' &prop; log(''n'')}} links (particularly when navigating from the rightmost leaf of the root’s left subtree to the root or from the root to the leftmost leaf of the root’s right subtree; in the AVL tree of figure 1, moving from node P to the ''next but one'' node Q takes 3 steps). However, exploring all {{math|''n''}} nodes of the tree in this manner would visit each link exactly twice: one downward visit to enter the subtree rooted by that node, another visit upward to leave that node’s subtree after having explored it. And since there are {{math|''n''−1}} links in any tree, the amortized cost is found to be {{math|2×(''n''−1)/''n''}}, or approximately 2.
+
+===Insert===
+{{Multiple issues|section=yes|
+{{Expand section|date=November 2016|small=no}}
+{{refimprove section|date=November 2016}}
+}}
+When inserting an element into an AVL tree, you initially follow the same process as inserting into a Binary Search Tree. Once this has been completed, you verify that the tree maintains the AVL property. If it does not, then you perform tree rotations going upwards from the inserted node to rectify this.
+
+===Delete===
+{{Multiple issues|section=yes|
+{{Expand section|date=November 2016|small=no}}
+{{refimprove section|date=November 2016}}
+}}
+When deleting an element from an AVL tree, swap the desired element with the minimum element in the right subtree, or maximum element in the left subtree. Once this has been completed delete the element from the new position (the process may need to be repeated). If the element is now a leaf node, remove it completely. Make sure to perform rotations to maintain the AVL property.
+
+===Set operations and bulk operations===
+In addition to the single-element insert, delete and lookup operations, several set operations have been defined on AVL trees: [[Union (set theory)|union]], [[Intersection (set theory)|intersection]] and [[set difference]]. Then fast ''bulk'' operations on insertions or deletions can be implemented based on these set functions. These set operations rely on two helper operations, ''Split'' and ''Join''. With the new operations, the implementation of AVL trees can be more efficient and highly-parallelizable.<ref name="join-based">{{citation
+ | last1 = Blelloch | first1 = Guy E.
+ | last2 = Ferizovic | first2 = Daniel
+ | last3 = Sun | first3 = Yihan
+ | contribution = Just Join for Parallel Ordered Sets
+ | doi = 10.1145/2935764.2935768
+ | isbn = 978-1-4503-4210-0
+ | pages = 253–264
+ | publisher = ACM
+ | title = [[Symposium on Parallel Algorithms and Architectures|Proc. 28th ACM Symp. Parallel Algorithms and Architectures (SPAA 2016)]]
+ | year = 2016}}.</ref>
+
+*''Join'': The function ''Join'' is on two AVL trees {{math|''t''<sub>1</sub>}} and {{math|''t''<sub>2</sub>}} and a key {{mvar|k}} and will return a tree containing all elements in {{math|''t''<sub>1</sub>}}, {{math|''t''<sub>2</sub>}} as well as {{mvar|k}}. It requires {{mvar|k}} to be greater than all keys in {{math|''t''<sub>1</sub>}} and smaller than all keys in {{math|''t''<sub>2</sub>}}. If the two trees differ by height at most one, ''Join'' simply create a new node with left subtree {{math|''t''<sub>1</sub>}}, root {{mvar|k}} and right subtree {{math|''t''<sub>2</sub>}}. Otherwise, suppose that {{math|''t''<sub>1</sub>}} is higher than {{math|''t''<sub>2</sub>}} for more than one (the other case is symmetric). ''Join'' follows the right spine of {{math|''t''<sub>1</sub>}} until a node {{mvar|c}} which is balanced with {{math|''t''<sub>2</sub>}}. At this point a new node with left child {{mvar|c}}, root {{mvar| k}} and right child {{math|''t''<sub>1</sub>}} is created to replace c. The new node satisfies the AVL invariant, and its height is one greater than {{mvar|c}}. The increase in height can increase the height of its ancestors, possibly invalidating the AVL invariant of those nodes. This can be fixed either with a double rotation if invalid at the parent or a single left rotation if invalid higher in the tree, in both cases restoring the height for any further ancestor nodes. ''Join'' will therefore require at most two rotations. The cost of this function is the difference of the heights between the two input trees.
+*''Split'': To split an AVL tree into two smaller trees, those smaller than key ''x'', and those larger than key ''x'', first draw a path from the root by inserting ''x'' into the AVL. After this insertion, all values less than ''x'' will be found  on the left of the path, and all values greater than ''x'' will be found on the right. By applying ''Join'', all the subtrees on the left side are merged bottom-up using keys on the path as intermediate nodes from bottom to top to form the left tree, and the right part is asymmetric. The cost of ''Split'' is order of <math>O(n)</math>, the height of the tree.
+
+The union of two AVLs {{math|''t''<sub>1</sub>}} and {{math|''t''<sub>2</sub>}} representing sets {{mvar|A}} and {{mvar|B}}, is an AVL {{mvar|''t''}} that represents {{math|''A'' ∪ ''B''}}. The following recursive function computes this union:
+
+ '''function''' union(t<sub>1</sub>, t<sub>2</sub>):
+     '''if''' t<sub>1</sub> = nil:
+         '''return''' t<sub>2</sub>
+     '''if''' t<sub>2</sub> = nil:
+         '''return''' t<sub>1</sub>
+     t<sub><</sub>, t<sub>></sub> ← split t<sub>2</sub> on t<sub>1</sub>.root
+     '''return''' join(t<sub>1</sub>.root,union(left(t<sub>1</sub>), t<sub><</sub>),union(right(t<sub>1</sub>), t<sub>></sub>))
+
+Here, ''Split'' is presumed to return two trees: one holding the keys less its input key, one holding the greater keys. (The algorithm is [[persistent data structure|non-destructive]], but an in-place destructive version exists as well.)
+
+The algorithm for intersection or difference is similar, but requires the ''Join2'' helper routine that is the same as ''Join'' but without the middle key. Based on the new functions for union, intersection or difference, either one key or multiple keys can be inserted to or deleted from the AVL tree. Since ''Split'' calls ''Join'' but does not deal with the balancing criteria of AVL trees directly, such an implementation is usually called the "join-based" implementation.
+
+The complexity of each of union, intersection and difference is <math>O\left(m \log \left({n\over m}+1\right)\right)</math> for AVLs of sizes <math>m</math> and <math>n(\ge m)</math>. More importantly, since the recursive calls to union, intersection or difference are independent of each other, they can be executed [[parallel programming|in parallel]] with a [[Analysis of parallel algorithms|parallel depth]] <math>O(\log m\log n)</math>.<ref name="join-based"/> When <math>m=1</math>, the join-based implementation has the same computational DAG as single-element insertion and deletion.
+
+==Comparison to other structures==
+Both AVL trees and red–black trees are self-balancing binary search trees and they are related mathematically. Indeed, every AVL tree can be colored red–black.{{Citation needed|This seems like a nontrivial claim, probably proved somewhere (possibly as an exercise).|date=September 2016}} The operations to balance the trees are different; both AVL trees and red-black require {{math|O(1)}} rotations in the worst case, while both also require {{math|O(log ''n'')}} other updates (to colors or heights) in the worst case (though only {{math|O(1)}} [[amortized complexity|amortized]]). AVL trees require storing 2 bits (or one [[ternary number system|trit]]) of information in each node, while red-black trees require just one bit per node. The bigger difference between the two data structures is their height limit.
+
+For a tree of size {{math|''n'' &ge; 1}}
+*an AVL tree’s height is at most
+*:<math>
+\begin{array}{ll}
+h & \leqq \; c \log_2 (n + d) + b \\
+& < \; c \log_2 (n + 2) + b
+\end{array}
+</math>
+:where <math>\varphi := \tfrac{1+\sqrt 5}2 \approx 1.618</math>&nbsp; the [[golden ratio]], <math>c := \tfrac 1{\log_2 \varphi} \approx 1.44,</math> &nbsp; <math>b := \tfrac{c}2 \log_2 5 - 2 \approx \; -0.328,</math> and&nbsp; <math>d:=1+\tfrac{1}{\varphi^4\sqrt{5}} \approx 1.07</math>.
+*a red–black tree’s height is at most 
+*:<math>
+\begin{array}{ll}
+h & \leqq \; 2\log_2(n+1)
+\end{array}
+</math> <ref>[[Red–black tree#Proof of asymptotic bounds]]</ref>
+
+AVL trees are more rigidly balanced than red–black trees, leading to faster retrieval but slower insertion and deletion.
+
+==See also==
+*[[tree data structure|Trees]]
+*[[Tree rotation]]
+*[[Red–black tree]]
+*[[Splay tree]]
+*[[Scapegoat tree]]
+*[[B-tree]]
+*[[T-tree]]
+*[[List of data structures]]
+
+==References==
+<references />
+
+==Further reading==
+* [[Donald Knuth]]. ''[[The Art of Computer Programming]]'', Volume 3: ''Sorting and Searching'', Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 458–475 of section 6.2.3: Balanced Trees.
+
+==External links==
+{{Wikibooks|Algorithm Implementation|Trees/AVL tree|AVL tree}}
+{{Commons category|AVL-trees}}
+*{{DADS|AVL Tree|avltree}}
+*[https://www.cs.usfca.edu/~galles/visualization/AVLtree.html AVL tree demonstration] (HTML5/Canvas)
+*[http://www.qmatica.com/DataStructures/Trees/AVL/AVLTree.html AVL tree demonstration] (requires Flash)
+*[http://www.strille.net/works/media_technology_projects/avl-tree_2001/ AVL tree demonstration] (requires Java)
+
+{{CS-Trees}}
+{{Data structures}}
+
+{{DEFAULTSORT:AVL Tree}}
+[[Category:1962 in computer science]]
+[[Category:Binary trees]]
+[[Category:Soviet inventions]]
+[[Category:Search trees]]

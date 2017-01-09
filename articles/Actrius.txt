@@ -1,0 +1,67 @@
+Actrius.txt	{{refimprove|date=December 2015}}
+{{Use dmy dates|date=June 2013}}
+{{Infobox film
+| name           = Actresses
+| image          = Actrius film poster.jpg
+| alt            = 
+| caption        = Catalan language film poster
+| film name      = ([[Catalan language|Catalan]]: '''''Actrius''''')
+| director       = [[Ventura Pons]]
+| producer       = Ventura Pons
+| writer         = [[Josep Maria Benet i Jornet]]
+| screenplay     = Ventura Pons
+| story          = 
+| based on       = {{based on|(stage play) ''E.R.''|Josep Maria Benet i Jornet}}
+| starring       = {{ubl|[[Núria Espert]]|[[Rosa Maria Sardà]]|[[Anna Lizaran]]|[[Mercè Pons]]}}
+| narrator       = <!-- or: |narrators = -->
+| music          = Carles Cases
+| cinematography = Tomàs Pladevall
+| editing        = Pere Abadal
+| production companies = {{ubl|[[Canal+|Canal+ España]]|Els Films de la Rambla S.A.|[[Generalitat de Catalunya|Generalitat de Catalunya - Departament de Cultura]]|[[Televisión Española]]}}
+| distributor    = [[Buena Vista International]]
+| released       = {{film date|df=yes|1997|1|17|[[Spain]]}}
+| runtime        = 100 minutes
+| country        = Spain
+| language       = Catalan
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+
+'''''Actresses''''' ([[Catalan language|Catalan]]: '''''Actrius''''') is a 1997 [[Catalan language]] Spanish drama film produced and directed by [[Ventura Pons]] and based on the award-winning stage play ''E.R.'' by [[Josep Maria Benet i Jornet]]. The film has no male actors, with all roles played by females.<ref name="El Pais">{{cite news|last1=Torres|first1=Rosanna|title='E. R', de Benet i Jornet, es llevada al cine y al teatro|url=http://elpais.com/diario/1996/10/15/cultura/845330405_850215.html|accessdate=21 December 2015|language=Spanish|publisher=[[El Pais]]|date=15 October 1996}}</ref>  The film was produced in 1996.<ref name="Daily Mail">{{cite news|last1=Tooky|first1=Christopher|title=Ripe for a siesta.|url=https://www.highbeam.com/doc/1G1-109798413.html|accessdate=21 December 2015|agency=[[Highbeam]]|publisher=[[Daily Mail]]|date=16 April 1999}}</ref>
+
+==Synopsis==
+In order to prepare herself to play a role commemorating the life of legendary actress Empar Ribera, young actress ([[Mercè Pons]]) interviews three established actresses who had been the Ribera's pupils: the international diva Glòria Marc ([[Núria Espert]]), the television star Assumpta Roca ([[Rosa Maria Sardà]]), and dubbing director Maria Caminal ([[Anna Lizaran]]).<ref name=SFF>{{cite web | url=http://www.stockholmfilmfestival.se/en/festival/1997/film/actrius | title=Actrius | publisher=[[Stockholm International Film Festival]] | date=1997 | accessdate=21 December 2015 }}</ref>
+
+==Cast==
+* [[Núria Espert]] as Glòria Marc
+* [[Rosa Maria Sardà]] as Assumpta Roca
+* [[Anna Lizaran]] as Maria Caminal
+* [[Mercè Pons]] as Estudiant
+
+==Recognition==
+
+===Screenings===
+''Actrius'' screened in 2001 at the [[Grauman's Egyptian Theatre]] in an [[American Cinematheque]] retrospective of the works of its director. The film had first screened at the same location in 1998.<ref name="LA Times">{{cite news|last1=THomas|first1=Kevin|title=Sometimes, the World Gets in the Way|url=http://articles.latimes.com/2001/mar/01/entertainment/ca-31570|accessdate=21 December 2015|publisher=[[Los Angeles Times]]|date=1 March 2001}}</ref> It was also shown at the 1997 [[Stockholm International Film Festival]].<ref name=SFF />
+
+===Reception===
+In ''Movie - Film - Review'', ''[[Daily Mail]]'' staffer Christopher Tookey wrote that though the actresses were "competent in roles that may have some reference to their own careers", the film "is visually unimaginative, never escapes its stage origins, and is almost totally lacking in revelation or surprising incident".<ref name=Tookey/>  Noting that there were "occasional, refreshing moments of intergenerational bitchiness", they did not "justify comparisons to ''[[All About Eve]]''", and were "insufficiently different to deserve critical parallels with ''[[Rashomon]]''".<ref name=Tookey/> He also wrote that ''[[The Guardian]]'' called the film a "slow, stuffy chamber-piece", and that ''[[The Evening Standard]]'' stated the film's "best moments exhibit the bitchy tantrums seething beneath the threesome's composed veneers".<ref name=Tookey>{{cite web|last1=Tookey|first1=Chris|title=review: Actresses / Actrius / Actrices|url=http://www.movie-film-review.com/devFilm.asp?ID=12423|publisher=Movie - Film - Review|accessdate=21 December 2015}}</ref>  [[MRQE]] wrote "This cinematic adaptation of a theatrical work is true to the original, but does not stray far from a theatrical rendering of the story."<ref name=MRQE>{{cite web|last1=staff|title=Actrius (1997)|url=http://www.mrqe.com/movie_reviews/actrius-m100030469|publisher=[[MRQE]]|accessdate=21 December 2015}}</ref>
+
+===Awards and nominations===
+* 1997, won 'Best Catalan Film' at [[Butaca Awards]] for [[Ventura Pons]]
+* 1997, won 'Best Catalan Film Actress' at Butaca Awards, shared by [[Núria Espert]], [[Rosa Maria Sardà]], [[Anna Lizaran]], and [[Mercè Pons]]
+* 1998, nominated for 'Best Screenplay' at [[Goya Awards]], shared by [[Josep Maria Benet i Jornet]] and Ventura Pons
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0115462|Actresses}}
+* {{official website|https://web.archive.org/web/20090217140746/http://venturapons.com/filmografia/actrices.html}} [[Wayback Machine|as archived February 17, 2009]] (Spanish)
+
+[[Category:1997 films]]
+[[Category:1990s drama films]]
+[[Category:Spanish films]]
+[[Category:Catalan-language films]]
+[[Category:Films set in Barcelona]]
+[[Category:Barcelona in fiction]]
+[[Category:Films directed by Ventura Pons]]

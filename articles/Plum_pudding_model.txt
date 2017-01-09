@@ -1,0 +1,124 @@
+Plum_pudding_model.txt	{{multiple image
+ | direction =
+ | image1 = PlumPuddingModel ManyCorpuscles.png 
+ | width1 = 195
+ | alt1 =
+ | caption1 = The plum pudding model of the atom.
+ }}
+[[File:Helium atom QM.svg|right|thumb|250px|The current model of the sub-atomic structure involves a dense nucleus surrounded by a probabilistic "cloud" of electrons]]
+The '''plum pudding model''' is one of several [[Scientific modelling|scientific models]] of the [[atom]]. First proposed by [[J. J. Thomson]] in 1904<ref>{{cite web |date=27 August 2009 |title=Plum Pudding Model - Universe Today |publisher=Universe Today |url=http://www.universetoday.com/38326/plum-pudding-model/ |accessdate=19 December 2015}}</ref> soon after the discovery of the [[electron]], but before the discovery of the [[atomic nucleus]], the model represented an attempt to consolidate the known properties of atoms at the time: 1) electrons are negatively-charged particles and 2) atoms are neutrally-charged.
+
+==Overview==
+In this model, atoms were known to consist of negatively charged electrons. Though Thomson called them "corpuscles," they were more commonly called "electrons" as [[G. J. Stoney]] proposed in 1894.<ref>
+{{cite journal
+ |last1=Stoney |first1=G. J.
+ |year=1894
+ |title=Of the 'Electron' or Atom of Electricity
+ |journal=[[Philosophical Magazine]] |series=5
+ |doi=10.1080/14786449408620653
+ |volume=38 |issue=233 |pages=418–420
+ |url=http://www.chemteam.info/Chem-History/Stoney-1894.html
+}}</ref> At the time, atoms were known to be neutrally charged. To account for this, Thomson knew atoms must also have a source of positive charge to balance the negative charge of the electrons. He considered three plausible models that would satisfy the known properties of atoms at the time:
+
+# Each negatively-charged electron was paired with a positively-charged particle that followed it everywhere within the atom.
+# Negatively-charged electrons orbited a central region of positive charge having the same magnitude as all the electrons.
+# The negative electrons occupied a region of space that itself was a uniform positive charge (often considered as a kind of "soup" or "cloud" of positive charge).
+
+Thomson chose the third possibility as the most likely structure of atoms. Thomson published his proposed model in the March 1904 edition of the ''[[Philosophical Magazine]]'', the leading British science journal of the day.  In Thomson's view:
+<blockquote>... the atoms of the elements consist of a number of negatively electrified corpuscles enclosed in a sphere of uniform positive electrification, ...<ref>
+{{cite journal
+ |last=Thomson |first=J. J. |authorlink=J. J. Thomson
+ |date=March 1904
+ |title=On the Structure of the Atom: an Investigation of the Stability and Periods of Oscillation of a number of Corpuscles arranged at equal intervals around the Circumference of a Circle; with Application of the Results to the Theory of Atomic Structure
+ |journal=[[Philosophical Magazine]]
+ |series=Sixth
+ |doi=10.1080/14786440409463107
+ |volume=7 |number=39 |pages=237–265
+}}</ref></blockquote>
+
+With this model, Thomson abandoned his earlier "nebular atom" hypothesis in which atoms were composed of immaterial vortices. Being an astute and practical scientist, Thomson based his atomic model on known experimental evidence of the day. His proposal of a positive volume charge reflects the nature of his scientific approach to discovery which was to propose ideas to guide future experiments.
+
+The orbits of electrons within the model were stabilized by the fact that when an electron moved away from the centre of the positively-charged sphere, it was subjected to a greater net positive inward force, because there was more positive charge inside its orbit (see [[Gauss's law]]). Electrons were free to rotate in rings which were further stabilized by interactions among the electrons, and spectroscopic measurements were meant to account for energy differences associated with different electron rings. Thomson attempted unsuccessfully to reshape his model to account for some of the major spectral lines experimentally known for several elements.
+
+The plum pudding model usefully guided his student, [[Ernest Rutherford]], to devise experiments to further explore the composition of atoms. As well, Thomson's model (along with a similar [[Saturnian model|Saturnian ring model for atomic electrons]] put forward in 1904 by [[Hantaro Nagaoka|Nagaoka]] after [[James Clerk Maxwell]]'s [[Rings of Saturn#History|model of Saturn's rings]]), were useful predecessors of the more correct solar-system-like [[Bohr model]] of the atom.
+
+The colloquial nickname "plum pudding" was soon attributed to Thomson's model as the distribution of electrons within its positively-charged region of space reminded many scientists of "[[plum]]s" in the common English dessert, [[plum pudding]].
+
+In 1909 [[Hans Geiger]] and [[Ernest Marsden]] conducted experiments with [[Geiger–Marsden experiment|thin sheets of gold]]. Their professor, Ernest Rutherford, expected to find results consistent with Thomson's atomic model. It wasn't until 1911 that Rutherford correctly interpreted the experiment's results<ref>
+{{cite journal
+ |last=Angelo |first=Joseph A. 
+ |year=2004
+ |title=Nuclear Technology
+ |publisher=[[Greenwood Publishing]]
+ |isbn=1-57356-336-6
+}}</ref><!--please indicate pages-->
+<ref>{{cite journal
+ |editor-last=Lakhtakia |editor-first=Akhlesh
+ |last=Salpeter |first=Edwin E.
+ |year=1996
+ |title=Models and Modelers of Hydrogen
+ |journal=American Journal of Physics
+ |publisher=World Scientific
+ |isbn=981-02-2302-1
+ |bibcode=1997AmJPh..65..933L
+ |doi=10.1119/1.18691
+ |volume=65 |issue=9 |pages=933
+}}</ref> which implied the presence of a very small nucleus of positive charge at the center of gold atoms. This led to the development of the [[Rutherford model]] of the atom. Immediately after Rutherford published his results, [[Antonius Van den Broek]] made the intuitive proposal that the atomic number of an atom is the total number of units of charge present in its nucleus. [[Henry Moseley]]'s 1913 experiments (see [[Moseley's law]]) provided the necessary evidence to support Van den Broek's proposal. The effective nuclear charge was found to be consistent with the atomic number (Moseley found only one unit of charge difference). This work culminated in the solar-system-like (but quantum-limited) [[Bohr model]] of the atom in the same year, in which a nucleus containing an atomic number of positive charges is surrounded by an equal number of electrons in orbital shells. As Thomson's model guided Rutherford's experiments, Bohr's model guided Moseley's research.
+
+==Related scientific problems==
+The plum pudding model with a single electron was used in part by the physicist [[Arthur Erich Haas]] in 1910 to estimate the numerical value of [[Planck's constant]] and the [[Bohr radius]] of hydrogen atoms. Haas' work estimated these values to within an order of magnitude and preceded the work of [[Niels Bohr]] by three years. Of note, the [[Bohr model]] itself only provides substantially-reasonable predictions for [[atom]]ic and [[ion]]ic systems having a single effective electron.
+
+A particularly useful mathematics problem related to the plum pudding model is the optimal distribution of equal point charges on a unit sphere called the [[Thomson problem]]. The Thomson problem is a natural consequence of the plum pudding model in the absence of its uniform positive background charge.<ref>
+{{cite journal
+ |last1=Levin |first1=Y. |last2=Arenzon |first2=J. J. 
+ |year=2003
+ |title=Why charges go to the Surface: A generalized Thomson Problem
+ |journal=Europhys. Lett.
+ |doi=10.1209/epl/i2003-00546-1
+ |arxiv=cond-mat/0302524
+ |bibcode = 2003EL.....63..415L 
+ |volume=63
+ |pages=415–418
+}}</ref>
+
+The classical electrostatic treatment of electrons confined to spherical [[quantum dot]]s is also similar to their treatment in the plum pudding model.<ref>
+{{cite journal
+ |last1=Bednarek |first1=S. |last2=Szafran |first2=B. |last3=Adamowski |first3=J.
+ |year=1999
+ |title=Many-electron artificial atoms
+ |journal=Phys. Rev. B
+ |doi=10.1103/PhysRevB.59.13036
+ |bibcode = 1999PhRvB..5913036B 
+ |volume=59
+ |issue=20
+ |pages=13036–13042
+}}</ref><ref name=lafave>
+{{cite journal
+ |last=LaFave |first=T., Jr.
+ |year=2013
+ |title=Correspondences between the classical electrostatic Thomson problem and atomic electronic structure
+ |journal=J. Electrostatics
+ |doi=10.1016/j.elstat.2013.10.001 
+ |volume=71
+ |issue=6
+ |pages=1029–1035
+}}</ref> In this classical problem, the quantum dot is modeled as a simple dielectric sphere (in place of a uniform, positively-charged sphere as in the plum pudding model) in which free, or excess, electrons reside. The electrostatic N-electron configurations are found to be exceptionally close to solutions found in the Thomson problem with electrons residing at the same radius within the dielectric sphere. Notably, the plotted distribution of geometry-dependent energetics has been shown to bear a remarkable resemblance to the distribution of anticipated electron orbitals in natural atoms as arranged on the [[periodic table]] of elements.<ref name=lafave/> Of great interest, solutions of the Thomson problem exhibit this corresponding energy distribution by comparing the energy of each N-electron solution with the energy of its neighbouring (N-1)-electron solution with one charge at the origin. However, when treated within a dielectric sphere model, the features of the distribution are much more pronounced and provide greater fidelity with respect to electron orbital arrangements in real atoms.<ref>
+{{cite journal
+ |last=LaFave |first=T., Jr.
+ |year=2014
+ |title=Discrete transformations in the Thomson Problem
+ |journal=J. Electrostatics
+ |doi=10.1016/j.elstat.2013.11.007 
+ |volume=72
+ |issue=1
+ |pages=39–43
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Atomic models}}
+
+{{DEFAULTSORT:Plum Pudding Model}}
+[[Category:History of physics]]
+[[Category:Foundational quantum physics]]

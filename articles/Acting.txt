@@ -1,0 +1,131 @@
+Acting.txt	{{About||the legal meaning|Acting (law)|the military sense|Acting (rank)}}
+<!---All citations in MLA author-date system, for easy bundling and multiple referencing. Stanislavski's methodology is given as 'system' not system, following Stanislavski's usage, as given in all modern scholarly editions of his works.--->
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+[[File:Bernhardt Hamlet2.jpg|right|thumb|French stage and early film actress [[Sarah Bernhardt]] as [[Hamlet]]]]
+[[File:Samurai actors.jpg|thumb|Actors in [[samurai]] and [[ronin]] costume at the [[Kyoto]] [[Toei Kyoto Studio Park|Eigamura]] film set]]
+'''Acting''' is an activity in which a story is told by means of its enactment by an [[actor]] or actress who adopts a [[Character (arts)|character]]—in [[theatre]], [[television]], [[film]], [[radio]], or any other medium that makes use of the [[Mimesis|mimetic]] [[Mode (literature)|mode]].
+
+Acting involves a broad range of skills, including a well-developed [[imagination]], emotional facility, physical expressivity, [[vocal projection]], clarity of [[Speech communication|speech]], and the ability to interpret [[drama]]. Acting also often demands an ability to employ [[dialect]]s, [[Accent (sociolinguistics)|accents]], [[improvisational theatre|improvisation]], observation and emulation, [[Mime artist|mime]], and [[stage combat]]. Many actors train at length in specialist programmes or colleges to develop these skills. The vast majority of professional actors have undergone extensive training. Actors and actresses will often have many instructors and teachers for a full range of training involving singing, scene-work, audition techniques, and acting for camera.
+
+Most early sources in the [[Western culture|West]] that examine the [[art]] of acting ({{lang-el|ὑπόκρισις}}, ''hypokrisis'') discuss it as part of [[rhetoric]].<ref>Csapo and Slater (1994, 257); ''hypokrisis'', which literally means "acting," was the word used in discussions of [[rhetoric]]al delivery.</ref>
+
+==The first actor==
+One of the first [[actor]]s is believed to have been an [[Classical Greece|ancient Greek]] called [[Thespis]] of Icaria. Writing two centuries after the event, [[Aristotle]] in his ''[[Poetics (Aristotle)|Poetics]]'' (c. 335 BCE) suggests that Thespis stepped out of the [[dithyramb]]ic [[Greek chorus|chorus]] and addressed it as a separate [[Character (arts)|character]]. Before Thespis, the chorus [[Narration|narrated]] (for example, "Dionysus did this, Dionysus said that"). When Thespis stepped out from the chorus, he spoke as if he was the character (for example, "I am Dionysus. I did this"). To distinguish between these different [[Mode (literature)|modes]] of storytelling—enactment and narration—Aristotle uses the terms "[[mimesis]]" (via enactment) and "[[diegesis]]" (via narration). From Thespis' name derives the word "thespian".
+
+==Professional and amateur acting==
+{{Further information|Actor|Amateur theatre}}
+A professional actor is someone who is paid to act. Professional actors sometimes undertake unpaid work for a variety of reasons, including educational purposes or for charity events. [[Amateur theatre|Amateur actors]] are those who do not receive payment for performances.
+
+Not all people working as actors in [[film]], [[television]], or [[theatre]] are professionally trained. [[Bob Hoskins]], for example, had no formal training before becoming an actor.
+
+==Training==
+{{Further information|Drama school}}
+[[File:Student's studio 1915.jpg|thumb|right|Members of the First Studio, with whom [[Konstantin Stanislavski|Stanislavski]] began to develop his [[Stanislavski's system|'system']] of actor training, which forms the basis for most professional training in the [[Western culture|West]].]]
+Conservatories and [[drama school]]s typically offer two- to four-year training on all aspects of acting. Universities mostly offer three- to four-year programs, in which a student is often able to choose to focus on acting, whilst continuing to learn about other aspects of [[theatre]]. Schools vary in their approach, but in North America the most popular method taught derives from the [[Stanislavski's system|'system']] of [[Konstantin Stanislavski]], which was developed and popularised in America as [[method acting]] by [[Lee Strasberg]], [[Stella Adler]], [[Sanford Meisner]], and others.
+
+Other approaches may include a more physically based orientation, such as that promoted by [[theatre practitioner]]s as diverse as [[Anne Bogart]], [[Jacques Lecoq]], [[Jerzy Grotowski]], or [[Vsevolod Meyerhold]]. Classes may also include [[psychotechnique]], [[mask]] work, [[physical theatre]], [[improvisation]], and acting for camera.
+
+Regardless of a school's approach, students should expect intensive training in textual interpretation, voice, and movement. Applications to drama programmes and conservatories usually involve extensive [[Audition (performing arts)|auditions]]. Anybody over the age of 18 can usually apply. Training may also start at a very young age. Acting classes and professional schools targeted at under-18s are widespread. These classes introduce young actors to different aspects of acting and theatre, including scene study.
+
+==Improvisation==
+{{Further information|Improvisational theatre|Devised theatre}}
+[[File:Taglia Cantoni, Fracasso - Gallica 2012 (adjusted).jpg|thumb|right|Two [[mask]]ed characters from the ''[[commedia dell'arte]]'', whose "''[[lazzi]]''" involved a significant degree of [[improvisation]].]]
+Some classical forms of acting involve a substantial element of [[Improvisation|improvised]] performance. Most notable is its use by the troupes of the ''[[commedia dell'arte]]'', a form of [[mask]]ed comedy that originated in Italy.
+
+Improvisation as an approach to acting formed an important part of the Russian [[theatre practitioner]] [[Konstantin Stanislavski]]'s [[Stanislavski's system|'system']] of actor training, which he developed from the 1910s onwards. Late in 1910, the playwright [[Maxim Gorky]] invited Stanislavski to join him in [[Capri]], where they discussed training and Stanislavski's emerging "grammar" of acting.<ref>Benedetti (1999, 203) and Magarshack (1950, 320).</ref> Inspired by a popular theatre performance in [[Naples]] that utilised the techniques of the ''commedia dell'arte'', Gorky suggested that they form a company, modelled on the [[Medieval theatre|medieval strolling players]], in which a playwright and group of young actors would [[Devised theatre|devise]] new plays together by means of improvisation.<ref>Benedetti (1999, 203-204) and Magarshack (1950, 320-321).</ref> Stanislavski would develop this use of improvisation in his work with his First Studio of the [[Moscow Art Theatre]].<ref>Benedetti (1999, 204) and Magarshack (1950, 320-322, 332-333).</ref> Stanislavski's use was extended further in the approaches to acting developed by his students, [[Michael Chekhov]] and [[Maria Knebel]].
+
+In the United Kingdom, the use of improvisation was pioneered by [[Joan Littlewood]] from the 1930s onwards and, later, by [[Keith Johnstone]] and Clive Barker. In the United States, it was promoted by [[Viola Spolin]], after working with [[Neva Boyd]] at a Hull House in Chicago, Illinois (Spolin was Boyd's student from 1924 to 1927). Like the British practitioners, Spolin felt that playing games was a useful means of training actors and helped to improve an actor's performance. With improvisation, she argued, people may find expressive freedom, since they do not know how an improvised situation will turn out. Improvisation demands an open mind in order to maintain spontaneity, rather than pre-planning a response. A character is created by the actor, often without reference to a dramatic text, and a drama is developed out of the spontenous interactions with other actors. This approach to creating new drama has been developed most substantially by the British filmmaker [[Mike Leigh]], in films such as ''[[Secrets & Lies (film)|Secrets & Lies]]'' (1996), ''[[Vera Drake]]'' (2004), ''[[Another Year (film)|Another Year]]'' (2010), and ''[[Mr. Turner]]'' (2014).
+
+Improvisation is also used to cover up if an actor or actress makes a mistake.
+
+==Semiotics of acting==
+[[File:Brehms Tierleben - allgemeine Kunde des Tierreichs (1911-1921) (20226745749).jpg|thumb|right|[[Antonin Artaud]] compared the effect of an actor's performance on an audience in his "[[Theatre of Cruelty]]" with the way in which a [[Snake charming|snake charmer]] affects snakes.]]
+The [[semiotics]] of acting involves a study of the ways in which aspects of a performance come to operate for its audience as [[Sign (semiotics)|sign]]s. This process largely involves the production of meaning, whereby elements of an actor's performance acquire significance, both within the broader context of the dramatic action and in the relations each establishes with the real world.
+
+Following the ideas proposed by the [[Surrealism|Surrealist]] theorist [[Antonin Artaud]], however, it may also be possible to understand communication with an audience that occurs 'beneath' significance and meaning (which the semiotician [[Félix Guattari]] described as a process involving the transmission of "a-signifying signs"). In his ''[[The Theatre and its Double]]'' (1938), Artaud compared this interaction to the way in which a [[Snake charming|snake charmer]] communicates with a snake, a process which he identified as "[[mimesis]]"—the same term that [[Aristotle]] in his ''[[Poetics (Aristotle)|Poetics]]'' (c. 335 BCE) used to describe the [[Mode (literature)|mode]] in which [[drama]] communicates its story, by virtue of its embodiment by the actor enacting it, as distinct from "[[diegesis]]", or the way in which a [[Narration|narrator]] may describe it. These "vibrations" passing from the actor to the audience may not necessarily precipiate into significant elements as such (that is, consciously perceived "meanings"), but rather may operate by means of the circulation of "[[Affect (philosophy)|affect]]s".
+
+The approach to acting adopted by other [[theatre practitioners]] involve varying degrees of concern with the semiotics of acting. [[Konstantin Stanislavski]], for example, addresses the ways in which an actor, building on what he calls the "experiencing" of a role, should also shape and adjust a performance in order to support the overall significance of the drama—a process that he calls establishing the "perspective of the role". The semiotics of acting plays a far more central role in [[Bertolt Brecht]]'s [[epic theatre]], in which an actor is concerned to bring out clearly the sociohistorical significance of behaviour and action by means of specific performance choices—a process that he describes as establishing the "[[Not / But|not/but]]" element in a performed physical "''[[gestus]]''" within context of the play's overal "''[[Fabel]]''". [[Eugenio Barba]] argues that actors ought not to concern themselves with the significance of their performance behaviour; this aspect is the responsibility, he feels, of the [[theatre director|director]], who weaves the signifying elements of an actor's performance into the director's [[Dramaturgy|dramaturgical]] "montage".
+
+The theatre semiotician [[Patrice Pavis]], alluding to the contrast between [[Stanislavski's system|Stanislavski's 'system']] and Brecht's [[Demonstration (acting)|demonstrating]] performer—and, beyond that, to [[Denis Diderot]]'s foundational essay on the art of acting, ''[[Paradox of the Actor]]'' (c. 1770—78)—argues that:
+<blockquote>Acting was long seen in terms of the actor's sincerity or hypocrisy—should he believe in what he is saying and be moved by it, or should he distance himself and convey his role in a detached manner? The answer varies according to how one sees the effect to be produced in the audience and the social function of theatre.<ref name=pavis7>Pavis (1998, 7).</ref></blockquote>
+
+Elements of a semiotics of acting include the actor's gestures, facial expressions, intonation and other vocal qualities, rhythm, and the ways in which these aspects of an individual performance relate to the drama and the theatrical event (or film, television programme, or radio broadcast, each of which involves different semiotic systems) considered as a whole.<ref name="pavis7"/> A semiotics of acting recognises that all forms of acting involve [[Dramatic convention|conventions]] and [[Code (semiotics)|codes]] by means of which performance behaviour acquires significance—including those approaches, such as Stanislvaski's or the closely related [[method acting]] developed in the United States, that offer themselves as "a natural kind of acting that can do without conventions and be received as self-evident and universal."<ref name=pavis7/> Pavis goes on to argue that:
+<blockquote>Any acting is based on a codified system (even if the audience does not see it as such) of behaviour and actions that are considered to be believable and realistic or artificial and theatrical. To advocate the natural, the spontaneous, and the instinctive is only to attempt to produce natural effects, governed by an [[Ideology|ideological]] code that determines, at a particular historical time, and for a given audience, what is natural and believable and what is [[Declamation|declamatory]] and theatrical.<ref name=pavis7/></blockquote>
+The conventions that govern acting in general are related to structured forms of [[Play (activity)|play]], which involve, in each specific experience, "[[Game|rules of the game]]."<ref name=pavis8-9>Pavis (1998, 8-9).</ref> This aspect was first explored by [[Johan Huizinga]] (in ''[[Homo Ludens]]'', 1938) and [[Roger Caillois]] (in ''[[Man, Play and Games]]'', 1958).<ref>Pavis (1998, 8).</ref> Caillois, for example, distinguishes four apects of play relevant to acting: ''[[mimesis]]'' ([[simulation]]), ''[[agon]]'' ([[Conflict (narrative)|conflict]] or competition), ''[[Alea (Greek soldier)|alea]]'' ([[Indeterminism|chance]]), and ''illinx'' ([[vertigo]], or "vertiginous psychological situations" involving the spectator's [[Identification (literature)|identification]] or [[catharsis]]).<ref name=pavis8-9/> This connection with play as an activity was first proposed by Aristotle in his ''Poetics'', in which he defines the desire to imitate in play as an essential part of being human and our first means of [[Child development|learning as children]]:
+<blockquote>For it is an instinct of human beings, from childhood, to engage in [[mimesis]] (indeed, this distinguishes them from other animals: man is the most mimetic of all, and it is through mimesis that he develops his earliest understanding); and equally natural that everyone enjoys mimetic objects. (IV, 1448b)<ref>Halliwell (1995, 37).</ref></blockquote>
+This connection with play also informed the words used in English (as was the analogous case in many other European languages) for [[drama]]: the word "[[Play (theatre)|play]]" or "game" (translating the [[Old English|Anglo-Saxon]] ''plèga'' or [[Latin]] ''ludus'') was the standard term used until [[William Shakespeare]]'s time for a dramatic entertainment—just as its creator was a "play-maker" rather than a "dramatist", the person acting was known as a "player", and, when in the [[Elizabethan era]] specific buildings for acting were built, they was known as "play-houses" rather than "[[Theater (building)|theatres]]."<ref>Wickham (1959, 32—41; 1969, 133; 1981, 68—69). The sense of the creator of plays as a "maker" rather than a "writer" is preserved in the word "[[playwright]]." [[The Theatre]], one of the first purpose-built playhouses in [[London]], was "a self-conscious [[latin]]ism to describe one particular playhouse" rather than a term for the buildings in general (1967, 133). The word 'dramatist' "was at that time still unknown in the English language" (1981, 68).</ref>
+
+== Rehearsing ==
+[[Rehearsal]] is a process in which actors prepare and practise a performance, exploring the vicissitudes of [[Conflict (narrative)|conflict]] between [[Character (arts)|character]]s, testing specific actions in the scene, and finding means to convey a particular sense. Some actors continue to rehearse a scene throughout the run of a show in order to keep the scene fresh in their minds and exciting for the audience.
+
+==See also==
+{{div col|colwidth=25em|small=yes}}
+* [[Biomechanics (Meyerhold)|Biomechanics]]
+* [[Meisner technique]]
+* [[Method acting]]
+* [[Presentational and representational acting]]
+* [[Stanislavski's system]]
+* [[Viewpoints]]
+{{Colbegin}}
+* [[Stella Adler]]
+* [[Eugenio Barba]]
+* [[Augusto Boal]]
+* [[Anne Bogart]]
+* [[Bertolt Brecht]]
+* [[Peter Brook]]
+* [[Joseph Chaikin]]
+* [[Michael Chekhov]]
+* [[Jacques Copeau]]
+* [[Jerzy Grotowski]]
+* [[Maria Knebel]]
+* [[Jacques Lecoq]]
+* [[Joan Littlewood]]
+* [[Sanford Meisner]]
+* [[Vsevolod Meyerhold]]
+* [[Ariane Mnouchkine]]
+* [[Michel Saint-Denis]]
+* [[Włodzimierz Staniewski]]
+* [[Konstantin Stanislavski]]
+* [[Lee Strasberg]]
+{{div col end}}
+{{colend}}
+
+==References==
+{{Reflist|2}}
+
+==Sources==
+{{Refbegin|2}}
+* [[Richard Boleslavsky|Boleslavsky, Richard]]. 1933 ''Acting: the First Six Lessons''. New York: Theatre Arts, 1987. ISBN 0-878-30000-7.
+* Benedetti, Jean. 1999. ''Stanislavski: His Life and Art''. Revised edition. Original edition published in 1988. London: Methuen. ISBN 0-413-52520-1.
+* Brustein, Robert. 2005. ''Letters to a Young Actor'' New York: Basic Books. ISBN 0-465-00806-2.
+* Csapo, Eric, and William J. Slater. 1994. ''The Context of Ancient Drama.'' Ann Arbor: University of Michigan Press. ISBN 0-472-08275-2.
+* Elam, Keir. 1980. ''The Semiotics of Theatre and Drama''. New Accents Ser. London and New York: Methuen. ISBN 0-416-72060-9.
+* [[Uta Hagen|Hagen, Uta]] and Haskel Frankel. 1973. ''Respect for Acting.'' New York: Macmillan. ISBN 0-025-47390-5.
+* Halliwell, Stephen, ed. and trans. 1995. ''Aristotle ''Poetics. Loeb Classical Library ser. Aristotle vol. 23. Cambridge, MA: Harvard University Press. ISBN 978-0-674-99563-5.
+* Hodge, Alison, ed. 2000. ''Twentieth Century Actor Training''. London and New York: Routledge. ISBN 0-415-19452-0.
+* [[David Magarshack|Magarshack, David]]. 1950. ''Stanislavsky: A Life.'' London and Boston: Faber, 1986. ISBN 0-571-13791-1.
+* [[Sanford Meisner|Meisner, Sanford]], and Dennis Longwell. 1987. ''Sanford Meisner on Acting.'' New York: Vintage. ISBN 978-0-394-75059-0.
+* [[Patrice Pavis|Pavis, Patrice]]. 1998. ''Dictionary of the Theatre: Terms, Concepts, and Analysis''. Trans. Christine Shantz. Toronto and Buffalo: University of Toronto Press. ISBN 0802081630.
+* [[Konstantin Stanislavski|Stanislavski, Konstantin]]. 1938. ''An Actor’s Work: A Student’s Diary''. Trans. and ed. Jean Benedetti. London and New York: Routledge, 2008. ISBN 0-415-42223-X.
+* [[Konstantin Stanislavski|Stanislavski, Konstantin]]. 1957. ''An Actor's Work on a Role''. Trans. and ed. Jean Benedetti. London and New York: Routledge, 2010. ISBN 0-415-46129-4.
+* [[Glynne Wickham|Wickham, Glynne]]. 1959. ''Early English Stages: 1300—1660.'' Vol. 1. London: Routledge.
+* [[Glynne Wickham|Wickham, Glynne]]. 1969. ''Shakespeare's Dramatic Heritage: Collected Studies in Mediaeval, Tudor and Shakespearean Drama.'' London: Routledge. ISBN 0-710-06069-6.
+* [[Glynne Wickham|Wickham, Glynne]]. 1981. ''Early English Stages: 1300—1660.'' Vol. 3. London: Routledge. ISBN 0-710-00218-1. 
+* Zarrilli, Phillip B., ed. 2002. ''Acting (Re)Considered: A Theoretical and Practical Guide''. Worlds of Performance Ser. 2nd edition. London and New York: Routledge. ISBN 0-415-26300-X.
+{{Refend}}
+
+==External links==
+{{Commons category|Acting}}
+{{wikiquote}}
+{{Wiktionary}}
+{{Library resources box 
+|by=no 
+|onlinebooks=no 
+|others=no 
+|about=yes 
+|label=Acting }}
+{{Authority control}}
+
+[[Category:Acting| ]]
+[[Category:Role-playing]]

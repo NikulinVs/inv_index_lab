@@ -1,0 +1,63 @@
+Agnes_of_Merania.txt	{{Infobox royalty
+| consort      = yes
+| name         = Agnes of Merania
+| succession   = Queen consort of France
+| image        = Agnes of Merania (Hedwig Codex).jpg
+| caption      =
+| reign        = 1196–1200
+| coronation   =
+| spouse       = [[Philip II of France]]
+| issue        = [[Philip I, Count of Boulogne]]<br>[[Marie of France, Duchess of Brabant]]
+| house        = [[House of Andechs]]
+| titles       =
+| father       = [[Berthold, Duke of Merania]]
+| mother       = [[Agnes of Rochlitz]]
+| birth_date   =
+| birth_place  =
+| death_date   = {{death-date|1201}}
+| death_place  =
+| burial_place =
+| religion     = [[Roman Catholicism]]
+|}}
+'''Agnes Maria of Andechs-Merania''' (died 1201) was a Queen of [[France]], She is called Marie by some of the French chroniclers.{{sfn|Chisholm|1911|p=378}}
+
+==Biography==
+Agnes Maria was the daughter of [[Berthold, Duke of Merania]],{{sfn|Chisholm|1911|p=378}} who was Count of [[Andechs]], a castle and territory near [[Ammersee]], [[Bavaria]]. Her mother was [[Agnes of Rochlitz]]. {{citation needed|date=January 2016|reason=For everything since the last citation}}
+
+In June 1196 Agnes married [[Philip II of France]], who had repudiated his second wife [[Ingeborg of Denmark, Queen of France|Ingeborg of Denmark]] in 1193. [[Pope Innocent III]] espoused the cause of Ingeborg; but Philip did not submit until 1200, when, nine months after [[interdict]] had been added to [[excommunication]], he consented to a separation from Agnes.{{sfn|Chisholm|1911|p=378}}
+
+Agnes died broken-hearted in July of the next year, at the castle of [[Poissy]], and was buried in the [[Convent of St Corentin]], near [[Nantes]].{{sfn|Chisholm|1911|p=378}}
+
+==Family==
+Agnes and Philip had two children: [[Philip I, Count of Boulogne]] and [[Marie of France, Duchess of Brabant|Mary]], were legitimized by the Pope in 1201 at the request of the King. Little is known of the personality of Agnes, beyond the remarkable influence which she seems to have exercised over Philip.{{sfn|Chisholm|1911|p=378}}
+
+==Artistic representation==
+She has been made the heroine of a [[tragedy]] by [[François Ponsard]], ''Agnès de Méranie'',{{sfn|Chisholm|1911|p=378}} and of an [[opera]] by [[Vincenzo Bellini]], ''[[La straniera]]''.
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{EB1911|wstitle=Agnes of Meran |volume=1 |page=378}} Endnotes:
+**See The notes of Robert Davidsohn in Philipp II. August von Frankreich und Ingeborg (Stuttgart, 1888). A genealogical notice is furnished by the Chronicon of the monk Alberic (Aubry) of Fontaines, (Albericus Trium Fontium) in Pertz, Scriptores, vol. xxiii. pp. 872 f., and by the Genealogia Wettinensis, ibid. p. 229.
+
+==External links==
+{{Commons category-inline|Agnes of Merania}}
+
+{{s-start}}
+{{S-roy|fr}}
+{{s-bef|before=[[Ingeborg of Denmark, Queen of France|Ingeborg of Denmark]]}} 
+{{s-ttl|title=[[List of Queens and Empresses of France|Queen consort of France]]|years=1196–1200}} 
+{{s-aft|after=[[Ingeborg of Denmark, Queen of France|Ingeborg of Denmark]]}}
+{{s-end}}
+{{French consorts}}
+
+{{Authority control}}
+[[Category:12th-century births]]
+[[Category:1201 deaths]]
+[[Category:French queens consort]]
+[[Category:Frankish queens consort]]
+[[Category:Women of medieval France]]
+[[Category:Repudiated queens]]
+[[Category:House of Andechs]]
+[[Category:House of Capet]]

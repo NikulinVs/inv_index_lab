@@ -1,0 +1,101 @@
+Arcology.txt	{{about|self-contained, densely populated human habitations|the study of human activity in the past|Archaeology}}
+[[File:NOAH - New Orleans Arcology Habitat - Ahearn Schopfer and Assocs crop.jpg|thumb|right|325px|[[Concept design]] for the NOAH ([[New Orleans]] Arcology Habitat) proposal, designed by E. Kevin Schopfer.<ref>Seth, Radhika. [http://www.yankodesign.com/2009/08/17/heavenly-abode/ "Heavenly Abode"] on the Yanko Design website (August 17, 2009).  Retrieved April 29, 2015.</ref>]]
+
+'''Arcology''', a [[portmanteau]] of "[[architecture]]" and "[[ecology]]",<ref name="MatterSpirit">{{Citation
+  | last1 = Soleri | first1 = Paolo
+  | author1-link = Paolo Soleri
+  | title = The Bridge Between Matter & Spirit is Matter Becoming Spirit; The Arcology of Paolo Soleri
+  | publisher = [[Anchor Books]]
+  | location = [[Garden City, New York]]
+  | year = 1973
+  | pages = 46
+  | isbn = 978-0-385-02361-0}}.</ref> is a field of creating architectural design principles for very densely populated, ecologically low-impact human habitats. 
+
+The concept has been primarily popularized, and the term itself coined, by architect [[Paolo Soleri]]. It also appears in [[science fiction]]. Authors such as [[Peter F. Hamilton|Peter Hamilton]] in ''[[The Neutronium Alchemist|Neutronium Alchemist]]'' or [[Paolo Bacigalupi]] in ''[[The Water Knife]]'' explicitly use arcologies as part of their scenarios. Arcologies are often portrayed in science fiction as self-contained or [[Autarky|economically self-sufficient]].
+
+These structures have been largely hypothetical insofar as no arcology, even one envisioned by Soleri himself, has yet been completed, but he posited that a completed arcology would provide space for a variety of residential, commercial, and agricultural facilities while minimizing individual human [[environmental impact]].
+
+==Development==
+An arcology is distinguished from a merely large building in that it is designed to lessen the [[Human impact on the environment|impact of human habitation]] on any given [[ecosystem]]. It could be self-sustainable, employing all or most of its own available resources for a comfortable life: power; climate control; food production; air and water conservation and purification; sewage treatment; etc. An arcology is designed to make it possible to supply those items for a large population. An arcology would supply and maintain its own municipal or urban infrastructures in order to operate and connect with other urban environments apart from its own.
+
+Arcology was proposed to reduce human impact on natural resources. Arcology designs might apply conventional building and civil engineering techniques in very large but practical projects in order to achieve pedestrian economies of scale that have proven, post-automobile, to be difficult to achieve in other ways.
+
+Frank Lloyd Wright proposed an early version<ref>Wright, Frank Lloyd, "An Organic Architecture"</ref> called [[Broadacre City]] although, in contrast to an arcology, Wright's idea is comparatively two-dimensional and depends on a road network. Wright's plan described transportation, agriculture, and commerce systems that would support an economy. Critics said that Wright's solution failed to account for population growth, and assumed a more rigid democracy than the U.S.A. actually has.
+
+[[Buckminster Fuller]] proposed the [[Old Man River's City project]], a domed city with a capacity of 125,000, as a solution to the housing problems in [[East St. Louis, Illinois]].
+
+Paolo Soleri proposed later solutions, and coined the term 'arcology'.<ref>Soleri, Paolo, "Arcology: The City in the Image of Man"</ref> Soleri describes ways of compacting city structures in three dimensions to combat two-dimensional urban sprawl, to economize on transportation and other energy uses. Like Wright, Soleri proposed changes in transportation, agriculture, and commerce. Soleri explored reductions in resource consumption and duplication, land reclamation; he also proposed to eliminate most private transportation. He advocated for greater "frugality" and favored greater use of shared social resources, including public transit (and public libraries).
+
+==Similar real-world projects==
+
+[[Arcosanti]] is an experimental "arcology prototype" – a demonstration project under construction in central [[Arizona]]. Designed by Paolo Soleri, its primary purpose is to demonstrate Soleri's personal designs, his application of principles of arcology to create a pedestrian-friendly urban form.
+
+Many cities in the world have proposed projects adhering to the design principles of the arcology concept, like [[Tokyo]], and  [[Dongtan]] near [[Shanghai]].<ref>{{cite news| url=http://observer.guardian.co.uk/business/story/0,6903,1635188,00.html | work=The Guardian | location=London | title=British to help China build 'eco-cities' | first=Frank | last=Kane | date=November 6, 2005 | accessdate=April 25, 2010}}</ref> The Dongtan project may have collapsed, and it failed to open for the [[Expo 2010|Shanghai World Expo]] in 2010.<ref>{{cite web|url=https://www.theguardian.com/environment/2009/apr/23/greenwash-dongtan-ecocity|title=Greenwash: The dream of the first eco-city was built on a fiction|author=Fred Pearce|work=the Guardian}}</ref>
+
+Certain urban projects reflect arcology principles. Pedestrian connection systems often provide a wide range of goods and services in a single structure. Some examples include the [[+15]] system in downtown [[Calgary]], Montréal's [[RÉSO]], the [[Minneapolis Skyway System]], The Windscreen in [[Fermont|Fermont, Quebec]], and the [[Houston_tunnel_system|Houston, Texas tunnel system]]. They include supermarkets, malls and entertainment complexes. The +15 is the world's most extensive skywalk, at {{convert|16|km|mi|abbr=on}} in total length. Minneapolis has the longest single path, at {{convert|8|mi|disp=flip|abbr=on}}. [[Seward's Success, Alaska]] was never built, but would have been a small city just outside [[Anchorage]]. [[Chicago]] has a sizeable tunnel system known as the [[Chicago Pedway]] connecting a portion of the buildings in the [[Chicago Loop]].
+
+The [[Las Vegas Strip]] has many arcology features to protect people from the {{convert|45|C}} heat. Many major casinos are connected by tunnels, footbridges, and monorails. It is possible to travel from [[Mandalay Bay]] at the south end of the Strip to the [[Las Vegas Convention Center]], three miles (5&nbsp;km) to the north, without using streets. In many cases, it is possible to travel between several different casinos without ever going outdoors. It is possible to live in this complex without need to venture outside, except the Strip has not generally been considered self-sustainable. Soleri did not advocate for enclosed cities, although he did sketch a design and build a model of an 'arcology' for outer space.
+
+The [[Toronto]] downtown area features an underground pedestrian network, [[PATH (Toronto)|PATH]]. Multiple high-rises are connected by a series of underground tunnels. It is possible to live in this complex without needing to venture outside, but the PATH network is not self-sustaining, nor is it presently self-sustainable. The total network spans 28-kilometres (17&nbsp;mi).
+
+[[McMurdo Station]] of the [[United States Antarctic Program]] and other scientific research stations on the [[continent]] of [[Antarctica]] resemble the popular conception of an arcology as a technologically advanced, relatively self-sufficient human community. The Antarctic research base provides living and entertainment amenities for roughly 3,000 staff who visit each year. Its remoteness and the measures needed to protect its population from the harsh environment give it an insular character. The station is not self-sufficient{{snd}}the U.S. military delivers 30,000 cubic metres (800,000 US gal) of fuel and {{convert|11|e6lb|disp=flip|abbr=off|sigfig=1}} of supplies and equipment yearly through its [[Operation Deep Freeze]] resupply effort<ref>''Modern Marvels: Sub-Zero''. The History Channel.</ref>{{snd}}but it is isolated from conventional support networks. The base generates electricity with its own power plant, and grows fruits and vegetables in a hydroponic green <!--<ref>{{cite web|url=http://www.antarctichydroponics.com/|title=Antar|work=antarctichydroponics.com}}</ref>-->  house when resupply is non-existent. Under [[Protocol on Environmental Protection to the Antarctic Treaty|international treaty]], it must avoid damage to the surrounding ecosystem.
+
+[[Crystal Island]] is a proposed arcology in [[Moscow]], [[Russia]]. In 2009, construction was postponed indefinitely due to the [[Global financial crisis of 2008–2009|global economic crisis]].
+
+The [[Begich Towers]] operates like a small-scale arcology encompassing nearly all of the population of [[Whittier, Alaska]]. The pair of buildings contains residential housing as well as a school, grocery, and municipal offices.
+Whittier once boasted a second structure known as the Buckner Building. The Buckner Building still stands but was deemed unfit for habitation after the 1969 earthquake.<ref>{{cite web|url=http://digg.com/video/everyone-in-this-alaskan-town-lives-in-the-same-building|title=Everyone In This Alaskan Town Lives In The Same Building|work=digg.com}}</ref>
+
+<!--spacing, please do not remove-->
+
+[[File:Arcosanti-Panorama-800.jpg|thumb|center|800px|[[Arcosanti]] in 2006]]
+
+==In popular culture==
+Most proposals to build real arcologies have failed due to financial, structural or conceptual shortcomings. Arcologies are therefore found primarily in fictional works.<ref>Ash, Theodore (2014) ''Neoarcology''</ref> One significant example is the novel ''[[Oath of Fealty (novel)|Oath of Fealty]]'' by [[Larry Niven]] and [[Jerry Pournelle]]. In the novel, a segment of the Los Angeles population has moved into an arcology. The plot examines the social changes that result, both inside and outside the arcology. Thus the arcology is presented not just as a plot device but as a subject of critique.<ref>Seed, David (2011) ''Science Fiction: A Very Short Introduction''</ref>
+
+The [[Maxis]] computer game ''[[SimCity 2000]]'' allows the construction of four different types of arcologies in the future.<ref name="arcoexodus">{{cite web | url = http://www.sc3000.com/sc2000/info/showarticle.cfm?id=0016&openItemID=cid.16 | title = Info & Strategy – Arcologies in ''SimCity 2000'' | work = SC3000.COM | accessdate =2 April 2016}}</ref>
+
+==See also==
+{{col-begin}}{{col-break}}
+* [[Arcosanti]]
+* [[Autonomous building]]
+* [[Bionic architecture]]
+* [[Dubai City Tower]]
+* [[Earthship]]
+* [[Megastructure]]
+* [[Proposed tall buildings and structures]]
+{{col-break|gap=4em}}
+* [[Shimizu Mega-City Pyramid]]
+* [[Underground city]]
+* [[Urban ecology]]
+* [[Vertical farming]]
+{{col-end}}
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+==Further reading==
+* [[Paolo Soleri|Soleri, Paolo]] ''Arcology: The City in the Image of Man''  1969:Cambridge, Massachusetts MIT Press
+
+==External links==
+{{commons category|Arcology}}
+* [http://www.arcology.com/ Arcology.com] – Useful links
+* [http://eserver.org/fiction/nightland/default.html The Night Land by William Hope Hodgson] (Full text online)
+* [https://web.archive.org/web/20050519074234/http://www.victorycities.com/ Victory City]
+* [http://www.globalvillages.info/index.php/ArcologyWiki/ArcologyWiki A discussion of arcology concepts]
+
+'''Usage of "arcology" vs. "hyperstructure"'''
+* [http://www.arcology.com/ Arcology.com] ("An arcology in southern China" on front page)
+* [http://e314j.pbwiki.com/Arcology Arcology] ("An arcology is a self-contained environment...")
+* [http://reality.sculptors.com/cgi-bin/wiki?WholeFuture/Arcologies SculptorsWiki: Arcology] ("The only arcology yet on Earth...")
+* [http://www.sfsite.com/08a/ren62.htm Review of Shadowrun: Renraku Arcology] ("What's an arcology? A self-contained, largely self-sufficient living, working, recreational structure...")
+* [http://www.thesun.co.uk/sol/homepage/news/article1378985.ece Floating Arcology] A design to prevent against rising sea levels.
+
+{{Emerging technologies}}
+
+[[Category:Environmental design]]
+[[Category:Human habitats]]
+[[Category:Planned cities]]
+[[Category:Urban studies and planning terminology]]
+[[Category:Emerging technologies]]
+[[Category:Cyberpunk themes]]

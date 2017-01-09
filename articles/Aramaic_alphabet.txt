@@ -1,0 +1,406 @@
+Aramaic_alphabet.txt	{{Use dmy dates|date=June 2013}}
+{{Infobox writing system
+| sample = 
+| caption = 
+ |name=Aramaic alphabet
+ |type=[[Abjad]]
+ |languages=[[Aramaic language|Aramaic]], [[Hebrew language|Hebrew]], [[Syriac language|Syriac]], [[Mandaic language|Mandaic]], [[Edomite language|Edomite]] 
+ |time=800 BC to 600 AD
+ |fam1= [[Egyptian hieroglyphs]]
+ |fam2=[[Proto-Sinaitic script]]
+ |fam3=[[Phoenician alphabet]]
+ |children=[[Hebrew alphabet|Hebrew]]<br>
+[[Palmyrene alphabet|Palmyrene]]<br>
+[[Mandaic alphabet|Mandaic]]<br>
+[[Pahlavi script|Pahlavi]]<br>
+[[Brāhmī script|Brāhmī]]<br>
+[[Kharoṣṭhī]]<br>
+[[Syriac alphabet|Syriac]]<br>
+&nbsp;→[[Sogdian alphabet|Sogdian]]<br>
+&nbsp;&nbsp;&nbsp;→[[Orkhon script|Orkhon (Turkic)]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→[[Old Hungarian script|Old Hungarian]]<br>
+&nbsp;&nbsp;&nbsp;→[[Old Uyghur alphabet|Old Uyghur]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→[[Mongolian script|Mongolian]]<br>
+&nbsp;→[[Nabataean alphabet]]<br>
+&nbsp;&nbsp;&nbsp;→[[Arabic alphabet]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→[[N'Ko alphabet]]
+ |unicode=[http://www.unicode.org/charts/PDF/U10840.pdf U+10840&ndash;U+1085F]
+ |iso15924=Armi
+ |iso15924 note=&#32;Imperial&nbsp;Aramaic
+}}
+{{alphabet}}
+{{Aramaeans}}
+The ancient '''Aramaic alphabet''' is adapted from the [[Phoenician alphabet]] and became distinctive from it by the 8th century BCE. It was used to write the [[Aramaic language]] and had displaced the [[Paleo-Hebrew alphabet]] for the writing of [[Hebrew language|Hebrew]]. The letters all represent [[consonant]]s, some of which are also used as ''[[Mater lectionis|matres lectionis]]'' to indicate long [[vowel]]s.
+
+The Aramaic [[alphabet]] is historically significant since virtually all [[modern history|modern]] [[Middle East]]ern writing systems can be traced back to it as well as numerous non-[[Chinese characters|Chinese]] writing systems of Central and East Asia. That is primarily from the widespread usage of the Aramaic language as both a ''[[lingua franca]]'' and the official language of the [[Neo-Assyrian Empire|Neo-Assyrian]] and [[Neo-Babylonian Empire|Neo-Babylonian]] Empires, and their successor, the [[Achaemenid Empire]]. Among the scripts in modern use, the [[Hebrew alphabet]] bears the closest relation to the Imperial Aramaic script of the 5th century BC, with an identical letter inventory and, for the most part, nearly identical letter shapes.
+
+Writing systems (like the Aramaic one) that indicate consonants but do not indicate most vowels other than by means of ''matres lectionis'' or added diacritical signs, have been called [[abjad]]s by [[Peter T. Daniels]] to distinguish them from true alphabets, such as [[Greek alphabet]], which represent vowels more systematically. The term was coined to avoid the notion that a writing system that represents sounds must be either a syllabary or an alphabet, which would imply that a system like Aramaic must be either a syllabary (as argued by [[Ignace Gelb]]) or an incomplete or [[defective script|deficient alphabet]] (as most other writers have said). Rather, it is a different type.
+
+==Origins==
+[[File:AsokaKandahar.jpg|thumb|left|Bilingual Greek and Aramaic inscription by the [[Maurya]]n emperor [[Ashoka the Great]] at [[Kandahar]], [[Afghanistan]], 3rd century BC.]]
+The earliest inscriptions in the [[Aramaic language]] use the [[Phoenician alphabet]].<ref>''Inland Syria and the East-of-Jordan Region in the First Millenium BCE before the Assyrian Intrusions'', Mark W. Chavalas, The Age of Solomon: Scholarship at the Turn of the Millennium, ed. Lowell K. Handy, (Brill, 1997), 169.</ref> Over time, the alphabet developed into the form shown below. Aramaic gradually became the ''lingua franca'' throughout the Middle East, with the script at first complementing and then displacing [[Assyrian cuneiform]], as the predominant writing system.
+
+==Achaemenid period==
+Around 500 BC, following the Persian Achaemenid conquest of Mesopotamia under [[Darius I of Persia|Darius I]], [[Old Aramaic]] was adopted by the Iranians as the "vehicle for written communication between the different regions of the vast Persian empire with its different peoples and languages. The use of a single official language, which modern scholarship has dubbed as Official Aramaic, Imperial Aramaic or Achaemenid Aramaic, can be assumed to have greatly contributed to the astonishing success of the Achaemenid Persians in holding their far-flung empire together for as long as they did."<ref>{{cite encyclopedia|encyclopedia=Encyclopædia Iranica|volume=2|year=1987|title=Aramaic<!-- pp 250–261 --><!-- section:Aramaic in the Achaemenid Empire pp 251–252-->|last=Shaked|first=Saul|publisher=Routledge & Kegan Paul|location=New York|pages=250–261}} p. 251</ref>
+
+Imperial Aramaic was highly standardised; its orthography was based more on historical roots than any spoken dialect and was inevitably influenced by [[Old Persian]]. The Aramaic glyph forms of the period are often divided into two main styles, the "lapidary" form, usually inscribed on hard surfaces like stone monuments, and a cursive form whose lapidary form tended to be more conservative by remaining more visually similar to Phoenician and early Aramaic. Both were in use through the Achaemenid Persian period, but the cursive form steadily gained ground over the lapidary, which had largely disappeared by the 3rd century BC.<ref>{{cite book|last1=Greenfield|first1=J.C.|editor1-last=Gershevitch|editor1-first=I.|title=The Cambridge History of Iran: Volume 2|date=1985|publisher=Cambridge University Press|pages=709–710|chapter=Aramaic in the Achaemenid Empire}}</ref>
+[[File:Stele Salm Louvre AO5009.jpg|thumb|Stele with dedicatory lapidary Aramaic inscription to the god Salm. Sandstone, 5th century BC. Found in Tayma by Charles Huber in 1884 and now in the [[Louvre]].]]
+
+For centuries after the fall of the Achaemenid Empire in 331 BC, Imperial Aramaic, or something near enough to it to be recognisable, would remain an influence on the various native [[Iranian languages]]. The Aramaic script would survive as the essential characteristics of the Iranian [[Pahlavi scripts|Pahlavi writing system]].<ref>{{Cite journal|author1-link=Wilhelm Geiger|first1=Wilhelm|last1=Geiger|first2=Ernst|last2=Kuhn|year=2002|title=Grundriss der iranischen Philologie: Band I. Abteilung 1|location=Boston|publisher=Adamant|pages=249ff}}</ref>
+
+A group of 30 Aramaic documents from [[Bactria]] has been recently discovered. An analysis was published in November 2006. The texts, which were rendered on leather, reflect the use of Aramaic in the 4th century BC in the Persian Achaemenid administration of [[Bactria]] and [[Sogdiana]].<ref>{{Cite book|title=Ancient Aramaic Documents from Bactria|series=Studies in the Khalili Collection|last1=Naveh|first1=Joseph|last2=Shaked|first2=Shaul|isbn=1-874780-74-9|publisher=Khalili Collections|location=Oxford|year=2006}}</ref>
+
+The widespread usage of Achaemenid Aramaic in the Middle East led to the gradual adoption of the Aramaic alphabet for writing [[Hebrew]]. Formerly, Hebrew had been written using an alphabet closer in form to that of Phoenician, the [[Paleo-Hebrew alphabet]].
+
+===Aramaic-derived scripts===
+Since the evolution of the Aramaic alphabet out of the Phoenician one was a gradual process, the division of the world's alphabets into the ones derived from the Phoenician one directly and the ones derived from Phoenician via Aramaic is somewhat artificial. In general, the alphabets of the Mediterranean region (Anatolia, Greece, Italy) are classified as Phoenician-derived, adapted from around the 8th century BC, and those of the East (the Levant, Persia, Central Asia and India) are considered Aramaic-derived, adapted from around the 6th century BC from the Imperial Aramaic script of the Achaemenid Empire.
+
+After the fall of the Achaemenid Empire, the unity of the Imperial Aramaic script was lost, diversifying into a number of descendant cursives.
+
+The Hebrew and [[Nabataean alphabet]]s, as they stood by the [[Roman era]], were little changed in style from the Imperial Aramaic alphabet.
+
+A [[cursive Hebrew]] variant developed from the early centuries AD, but it remained restricted to the status of a variant used alongside the noncursive. By contrast, the cursive developed out of the Nabataean alphabet in the same period soon became the standard for writing Arabic, evolving into the [[Arabic alphabet]] as it stood by the time of the early [[Islamic conquests|spread of Islam]].
+
+The development of cursive versions of Aramaic also led to the creation of the [[Syriac alphabet|Syriac]], [[Palmyrene alphabet|Palmyrene]] and [[Mandaic alphabet]]s, which formed the basis of the historical scripts of Central Asia, such as the [[Sogdian alphabet|Sogdian]] and [[Mongolian script|Mongolian]] alphabets.<ref name="Kara1996">{{cite book |first=György|last=Kara|chapter=Aramaic Scripts for Altaic Languages|editors=Daniels, Peter T.; Bright, William |title=[[The World's Writing Systems]] |publisher=[[Oxford University Press]]|pages=535–558|year=1996 |isbn=0-19-507993-0 }}</ref>
+
+The [[Old Turkic script]] is generally considered to have its ultimate origins in Aramaic,<ref>''Babylonian beginnings: The origin of the cuneiform writing system in comparative perspective'', Jerold S. Cooper, ''The First Writing: Script Invention as History and Process'', ed. Stephen D. Houston, (Cambridge University Press, 2004), 58-59.</ref><ref>Tristan James Mabry, ''Nationalism, Language, and Muslim Exceptionalism'', (University of Pennsylvania Press, 2015), 109.</ref><ref name="Kara1996"/> in particular via the [[Pahlavi script|Pahlavi]] or [[Sogdian alphabet]]s,<ref>''Turks'', A. Samoylovitch, '''First Encyclopaedia of Islam: 1913-1936''', Vol. VI, (Brill, 1993), 911.</ref><ref>George L. Campbell and Christopher Moseley, ''The Routledge Handbook of Scripts and Alphabets'', (Routledge, 2012), 40.</ref> as suggested by [[Vilhelm Thomsen|V. Thomsen]], or possibly via  [[Kharoṣṭhī|Karosthi]] (''cf''., [[Issyk inscription]]).
+
+Aramaic is also considered to be the most likely source of the [[Brahmi script]], ancestor of the [[Brahmic family of scripts]], which includes [[Devanagari]].
+
+==Languages using alphabet==
+Today, [[Biblical Aramaic]], Jewish Neo-Aramaic dialects and the Aramaic language of the [[Talmud]] are written in the Hebrew alphabet. [[Syriac language|Syriac]] and Christian Neo-Aramaic dialects are written in the [[Syriac alphabet]]. [[Mandaic language|Mandaic]] is written in the [[Mandaic alphabet]]. The near-identity of the Aramaic and the classical Hebrew alphabets caused Aramaic text to be typeset mostly in the standard Hebrew script in scholarly literature.
+
+===Ma'loula===
+In [[Ma'loula]], one of few surviving communities in which a Western Aramaic dialect is still spoken, the Arameans started a programme to give their language a written abjad for the Aramaic alphabet. The program ran into trouble recently{{When?|date=April 2016}} as a Syrian newspaper suggested that the alphabet being used to teach written Aramaic bore an uncanny resemblance to the Hebrew characters found in modern [[Israel]]. Worried that a flagship heritage scheme might in any way be associated with the country’s neighboring enemy, the government-run [[University of Damascus]], which established the institute, acted quickly to freeze the Aramaic programme. They started to use the [[Syriac alphabet]] (serto) instead.<ref>http://www.csmonitor.com/World/Middle-East/2010/0402/Easter-Sunday-A-Syrian-bid-to-resurrect-Aramaic-the-language-of-Jesus-Christ</ref>
+
+==Letters==
+{| class="wikitable"
+|-
+!rowspan="2"|Letter name
+!colspan="2"|Aramaic written using
+!rowspan="2"|Letter
+!colspan="6"|Equivalent letter in
+!rowspan="2"|IPA
+|-
+! Syriac script
+! Imperial Aramaic script
+![[Hebrew alphabet|Hebrew]]
+! [[Phoenician alphabet|Phoenician]]
+! [[Arabic alphabet|Arabic]]
+! [[Brahmi]]
+! [[Nabataean alphabet|Nabataean]]
+! [[Kharosthi]]
+|-
+|[[Aleph|Ālap]]
+|[[File:Syriac Estrangela alap.svg]]
+|[[File:Aleph.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡀
+|style="font-size: 40px; font-family: serif;"|א
+|style="font-size: 40px; font-family: serif;"|𐤀
+|style="font-size: 35px; font-family: serif;"|ا
+|[[File:Brahmi a.svg|25px]]
+|[[File:01 aleph.svg|60px]]
+|[[File:Kharosthi a.svg|25px]]
+|{{IPA|/ʔ/}}; {{IPA|/aː/}}, {{IPA|/eː/}}
+|-
+|[[Bet (letter)|Bēth]]
+|[[File:Syriac Estrangela bet.svg]]
+|[[File:Beth.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡁
+|style="font-size: 40px; font-family: serif;"|ב
+|style="font-size: 40px; font-family: serif;"|𐤁
+|style="font-size: 35px; font-family: serif;"|ب
+|[[File:Brahmi b.svg|25px]]
+|[[File:02 bet.svg|53px]]
+|[[File:Kharosthi b.svg|25px]]
+|{{IPA|/b/}}, {{IPA|/v/}}
+|-
+|[[Gimel (letter)|Gāmal]]
+|[[File:Syriac Estrangela gamal.svg]]
+|[[File:Gimel.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡂
+|style="font-size: 40px; font-family: serif;"|ג
+|style="font-size: 40px; font-family: serif;"|𐤂
+|style="font-size: 35px; font-family: serif;"|ج
+|[[File:Brahmi g.svg|25px]]
+|[[File:03 gimel.svg|27px]]
+|[[File:Kharosthi g.svg|25px]]
+|{{IPA|/ɡ/}}, {{IPA|/ɣ/}}
+|-
+|[[Dalet|Dālath]]
+|[[File:Syriac Estrangela dalat.svg]]
+|[[File:Daleth.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡃
+|style="font-size: 40px; font-family: serif;"|ד
+|style="font-size: 40px; font-family: serif;"|𐤃
+|style="font-size: 35px; font-family: serif;"|د،ذ
+|[[File:Brahmi dh.svg|25px]]
+|[[File:04 dal.svg|27px]]
+|[[File:Kharosthi dh.svg|25px]]
+|{{IPA|/ð/}}, {{IPA|/d/}}
+|-
+|[[He (letter)|Hē]]
+|[[File:Syriac Estrangela he.svg]]
+|[[File:He0.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡄
+|style="font-size: 40px; font-family: serif;"|ה
+|style="font-size: 40px; font-family: serif;"|𐤄
+|style="font-size: 35px; font-family: serif;"|ه
+|?
+|[[File:05 ha.svg|53px]]
+|?
+|{{IPA|/h/}}
+|-
+|[[Waw (letter)|Waw]]
+|[[File:Syriac Estrangela waw.svg]]
+|[[File:Waw.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡅
+|style="font-size: 40px; font-family: serif;"|ו
+|style="font-size: 40px; font-family: serif;"|𐤅
+|style="font-size: 35px; font-family: serif;"|و
+|[[File:Brahmi v.svg|25px]]
+|[[File:06 waw.svg|27px]]
+|[[File:Kharosthi v.svg|25px]]
+|{{IPA|/w/}}; {{IPA|/oː/}}, {{IPA|/uː/}}
+|-
+|[[Zayin|Zain]]
+|[[File:Syriac Estrangela zayn.svg]]
+|[[File:Zayin.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡆
+|style="font-size: 40px; font-family: serif;"|ז
+|style="font-size: 40px; font-family: serif;"|𐤆
+|style="font-size: 35px; font-family: serif;"|ز
+|?
+|[[File:07 zayn.svg|27px]]
+|?
+|{{IPA|/z/}}
+|-
+|[[Heth (letter)|Ḥēth]]
+|[[File:Syriac Estrangela het.svg]]
+|[[File:Heth.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡇
+|style="font-size: 40px; font-family: serif;"|ח
+|style="font-size: 40px; font-family: serif;"|𐤇
+|style="font-size: 35px; font-family: serif;"|ح،خ
+|?
+|[[File:08 ha.svg|53px]]
+|?
+|{{IPA|/ħ/ /χ~x/}}
+|-
+|[[Teth|Ṭēth]]
+|[[File:Syriac Estrangela tet.svg]]
+|[[File:Teth.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡈
+|style="font-size: 40px; font-family: serif;"|ט
+|style="font-size: 40px; font-family: serif;"|𐤈
+|style="font-size: 35px; font-family: serif;"|ط،ظ
+|[[File:Brahmi th.svg|25px]]
+|[[File:09 taa.svg|27px]]
+|[[File:Kharosthi th.svg|25px]]
+|[[emphatic consonant|emphatic]] {{IPA|/tˤ/}}
+|-
+|[[Yodh]]
+|[[File:Syriac Estrangela yod.svg]]
+|[[File:Yod.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡉
+|style="font-size: 40px; font-family: serif;"|י
+|style="font-size: 40px; font-family: serif;"|𐤉
+|style="font-size: 35px; font-family: serif;"|ي
+|[[File:Brahmi y.svg|25px]]
+|[[File:10 yaa.svg|53px]]
+|[[File:Kharosthi y.svg|25px]]
+|{{IPA|/j/}}; {{IPA|/iː/}}, {{IPA|/eː/}}
+|-
+|[[Kaph|Kāp]]
+|[[File:Syriac Estrangela kap.svg]]
+|[[File:Kaph.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡊
+|style="font-size: 40px; font-family: serif;"|כ ך 
+|style="font-size: 40px; font-family: serif;"|𐤊
+|style="font-size: 35px; font-family: serif;"| ك
+|[[File:Brahmi k.svg|25px]]
+|[[File:11 kaf.svg|53px]]
+|[[File:Kharosthi k.svg|25px]]
+|{{IPA|/k/}}, {{IPA|/x/}}
+|-
+|[[Lamedh|Lāmadh]]
+|[[File:Syriac Estrangela lamad.svg]]
+|[[File:Lamed.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡋
+|style="font-size: 40px; font-family: serif; line-height:1em;"|ל
+|style="font-size: 40px; font-family: serif;"|𐤋
+|style="font-size: 35px; font-family: serif;"|ل
+|[[File:Brahmi l.svg|25px]]
+|[[File:12 lam.svg|53px]]
+|[[File:Kharosthi l.svg|25px]]
+|{{IPA|/l/}}
+|-
+|[[Mem]]
+|[[File:Syriac Estrangela mim.svg]]
+|[[File:Mem.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡌
+|style="font-size: 40px; font-family: serif;"|מ ם
+|style="font-size: 40px; font-family: serif;"|𐤌
+|style="font-size: 35px; font-family: serif;"|م
+|[[File:Brahmi m.svg|25px]]
+|[[File:13 meem.svg|53px]]
+|[[File:Kharosthi m.svg|25px]]
+|{{IPA|/m/}}
+|-
+|[[Nun (letter)|Nun]]
+|[[File:Syriac Estrangela nun.svg]]
+|[[File:Nun.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡍
+|style="font-size: 40px; font-family: serif;"|נ ן
+|style="font-size: 40px; font-family: serif;"|𐤍
+|style="font-size: 35px; font-family: serif;"| ن
+|[[File:Brahmi n.svg|25px]]
+|[[File:14 noon.svg|53px]]
+|[[File:Kharosthi n.svg|25px]]
+|{{IPA|/n/}}
+|-
+|[[Samekh|Semkath]]
+|[[File:Syriac Estrangela semkat.svg]]
+|[[File:Samekh.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡎
+|style="font-size: 40px; font-family: serif;"|ס
+|style="font-size: 40px; font-family: serif;"|𐤎
+|style="font-size: 35px; font-family: serif;"| س
+|[[File:Brahmi sh.svg|25px]]
+|[[File:15 sin.svg|27px]]
+|[[File:Kharosthi sh.svg|25px]]
+|{{IPA|/s/}}
+|-
+|[[Ayin|ʿĒ]]
+|[[File:Syriac Estrangela 'e.svg]]
+|[[File:Ayin.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡏
+|style="font-size: 40px; font-family: serif;"|ע
+|style="font-size: 40px; font-family: serif;"|𐤏
+|style="font-size: 35px; font-family: serif;"|ع، غ
+|?
+|[[File:16 ein.svg|27px]]
+|?
+|{{IPA|/ʕ/}}
+|-
+|[[Pe (letter)|Pē]]
+|[[File:Syriac Estrangela pe.svg]]
+|[[File:Pe0.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡐
+|style="font-size: 40px; font-family: serif;"|פ ף 
+|style="font-size: 40px; font-family: serif;"|𐤐
+|style="font-size: 35px; font-family: serif;"|ف
+|[[File:Brahmi p.svg|25px]]
+|[[File:17 fa.svg|53px]]
+|[[File:Kharosthi p.svg|25px]]
+|{{IPA|/p/}}, {{IPA|/f/}}
+|-
+|[[Tsade|Ṣādhē]]
+|[[File:Syriac Estrangela sade.svg]]
+|[[File:Sade 1.svg]], [[File:Sade 2.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡑
+|style="font-size: 40px; font-family: serif;"|צ ץ
+|style="font-size: 40px; font-family: serif;"|𐤑
+|style="font-size: 35px; font-family: serif;"|ص، ض
+|[[File:Brahmi s.svg|25px]]
+|[[File:18 sad.svg|53px]]
+|[[File:Kharosthi s.svg|25px]]
+|[[emphatic consonant|emphatic]] {{IPA|/sˤ/}}
+|-
+|[[Qoph|Qop]]
+|[[File:Syriac Estrangela qop.svg]]
+|[[File:Qoph.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡒
+|style="font-size: 40px; font-family: serif;"|ק
+|style="font-size: 40px; font-family: serif;"|𐤒
+|style="font-size: 35px; font-family: serif;"|ق 
+|[[File:Brahmi kh.svg|25px]]
+|[[File:19 qaf.svg|27px]]
+|[[File:Kharosthi kh.svg|25px]]
+|{{IPA|/q/}}
+|-
+|[[Resh|Rēsh]]
+|[[File:Syriac Estrangela res.svg]]
+|[[File:Resh.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡓
+|style="font-size: 40px; font-family: serif;"|ר
+|style="font-size: 40px; font-family: serif;"|𐤓
+|style="font-size: 35px; font-family: serif;"|ر
+|[[File:Brahmi r.svg|25px]]
+|[[File:20 ra.svg|27px]]
+|[[File:Kharosthi r.svg|25px]]
+|{{IPA|/r/}}
+|-
+|[[Shin (letter)|Shin]]
+|[[File:Syriac Estrangela sin.svg]]
+|[[File:Shin.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡔
+|style="font-size: 40px; font-family: serif;"|ש
+|style="font-size: 40px; font-family: serif;"|𐤔
+|style="font-size: 35px; font-family: serif;"|ش
+|[[File:Brahmi ss.svg|25px]]
+|[[File:21 shin.svg|27px]]
+|[[File:Kharosthi ss.svg|25px]]
+|{{IPA|/ʃ/}}
+|-
+|[[Taw (letter)|Taw]]
+|[[File:Syriac Estrangela taw.svg]]
+|[[File:Taw.svg]]
+|style="font-size: 40px; font-family: serif;"|𐡕
+|style="font-size: 40px; font-family: serif;"|ת
+|style="font-size: 40px; font-family: serif;"|𐤕
+|style="font-size: 35px; font-family: serif;"|ت، ث
+|[[File:Brahmi t.svg|25px]]
+|[[File:22 ta.svg|53px]]
+|[[File:Kharosthi t.svg|25px]]
+|{{IPA|/t/}}, {{IPA|/θ/}}
+|}
+
+===Matres lectionis===
+{{Main|Mater lectionis}}
+
+In Aramaic writing, Waw and Yodh serve a double function. Originally, they represented only the consonants ''w'' and ''y'', but they were later adopted to indicate the long vowels ''ū'' and ''ī'' respectively as well (often also ''ō'' and ''ē'' respectively). In the latter role, they are known as ''matres lectionis'' or "mothers of reading".
+
+Ālap, likewise, has some of the characteristics of a ''mater lectionis'' because in initial positions, it indicates a [[glottal stop]] (followed by a vowel), but otherwise, it often also stands for the long vowels ''ā'' or ''ē''. Among Jews, the influence of Hebrew often led to the use of Hē instead, at the end of a word.
+
+The practice of using certain letters to hold vowel values spread to Aramaic-derived writing systems, such as in Arabic and Hebrew, which still follow the practice.
+
+==Unicode==
+{{Main|Syriac (Unicode block)|Imperial Aramaic (Unicode block)}}
+
+The Syriac Aramaic alphabet was added to the [[Unicode]] Standard in September 1999, with the release of version 3.0.
+
+The Syriac Abbreviation (a type of [[overline]]) can be represented with a special control character called the [[Syriac Abbreviation Mark]] (U+070F). The Unicode block for Syriac Aramaic is U+0700&ndash;U+074F:
+
+{{Unicode chart Syriac}}
+
+The Imperial Aramaic alphabet was added to the [[Unicode]] Standard in October 2009, with the release of version 5.2.
+
+The Unicode block for Imperial Aramaic is U+10840&ndash;U+1085F:
+
+{{Unicode chart Imperial Aramaic}}
+
+==See also==
+*[[Syriac Latin alphabet]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* Byrne, Ryan. “Middle Aramaic Scripts.” ''Encyclopaedia of Language and Linguistics''. Elsevier. (2006)
+* Daniels, Peter T., et al. eds. ''The World's Writing Systems''. Oxford. (1996)
+* Coulmas, Florian. ''The Writing Systems of the World''. Blackwell Publishers Ltd, Oxford. (1989)
+* Rudder, Joshua.  ''Learn to Write Aramaic: A Step-by-Step Approach to the Historical & Modern Scripts''. n.p.: CreateSpace Independent Publishing Platform, 2011. 220 pp. ISBN 978-1461021421. Includes a wide variety of Aramaic scripts.
+* Ancient Hebrew and Aramaic on Coins, reading and transliterating Proto-Hebrew, [https://web.archive.org/web/20110511124600/http://judaea.chimehost.net/main/text.pdf online edition] (Judaea Coin Archive).
+
+==External links==
+{{Commons category|Aramaic alphabet}}
+* [http://www.sakkal.com/Arab_Calligraphy_Art3.html Comparison of Aramaic to related alphabets]
+* [http://www.omniglot.com/writing/aramaic.htm Omniglot entry]
+
+{{Northwest Semitic abjad}}
+{{list of writing systems}}
+
+{{DEFAULTSORT:Aramaic Alphabet}}
+[[Category:Aramaic alphabet| ]]
+[[Category:Scripts encoded in Unicode 5.2]]

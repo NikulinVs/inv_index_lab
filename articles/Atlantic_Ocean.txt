@@ -1,0 +1,863 @@
+Atlantic_Ocean.txt	{{pp-move-indef}}
+{{Use dmy dates|date=August 2013}}
+{{redirect-multi|5|Atlantic|North Atlantic|South Atlantic|Atlantic Basin|Atlantic coast||Atlantic (disambiguation)|and|North Atlantic (disambiguation)|and|South Atlantic (disambiguation)|and|Atlantic Basin (disambiguation)|and|Atlantic Coast (disambiguation)}}
+{{Infobox body of water
+| name               = Atlantic Ocean
+| image              = Atlantic Ocean location map.svg
+| alt                = Map of the Atlantic Ocean
+| coords             = {{coord|0|N|25|W|region:ZZ_type:waterbody|display=inline,title}}<ref name="CIA-World" />
+| depth              = {{Convert|3646|m|abbr=on}}
+| depth_ref          = <ref name="ETOPO1" />
+| max-depth          = {{Convert|8486|m|abbr=on}}
+| max-depth_ref      = <ref name="ETOPO1" />
+| area               = {{Convert|106460000|km2|abbr=on}}<ref name="NOAA-how-big"/><ref name="Atlantic Ocean - Britannica"/><br />North Atlantic: {{Convert|41490000|km2|abbr=on}}, South Atlantic {{Convert|40270000|km2|abbr=on}}
+| area_ref           = <ref name="ETOPO1" />
+| volume             = {{Convert|305811900|km3|abbr=on}}
+| volume_ref         = <ref name="ETOPO1" />
+| shore              = {{Convert|111866|km|abbr=on}} including marginal seas
+| shore_ref          = <ref name="CIA-World" />
+| basin_countries    = [[List of countries and territories bordering the Atlantic Ocean|List of countries]], [[List of ports and harbours of the Atlantic Ocean|ports]]
+| islands            = [[List of islands in the Atlantic Ocean|List of islands]]
+| trenches           = [[Puerto Rico Trench|Puerto Rico]]; [[South Sandwich Trench|South Sandwich]]; [[Romanche Trench|Romanche]]
+}}
+[[File:Atlantic Ocean to Africa.ogv|thumb|This video was taken by the crew of [[Expedition 29]] on board the [[International Space Station|ISS]]. The pass starts from just northeast of the island of [[Newfoundland (island)|Newfoundland]] over the North Atlantic Ocean to [[central Africa]], over [[South Sudan]].]]
+
+The '''Atlantic Ocean''' is the second largest of the world's [[ocean]]s with a total [[area]] of about {{convert|106,460,000|km2|sqmi}}.<ref name="NOAA-how-big">{{Harvnb|NOAA: How big is the Atlantic Ocean?}}</ref><ref name="Atlantic Ocean - Britannica">{{cite web|url=https://www.britannica.com/place/Atlantic-Ocean|title=Atlantic Ocean|publisher=Encyclopaedia Britannica|accessdate=December 20, 2016}}</ref>  It covers approximately 20 percent of the [[Earth's surface]] and about 29 percent of its [[water]] surface area.  It separates the "[[Old World]]" from the "[[New World]]".
+
+The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between [[Eurasia]] and [[Africa]] to the east, and the [[Americas]] to the west. As one component of the interconnected [[World Ocean|global ocean]], it is connected in the north to the [[Arctic Ocean]], to the [[Pacific Ocean]] in the southwest, the [[Indian Ocean]] in the southeast, and the [[Southern Ocean]] in the south (other definitions describe the Atlantic as extending southward to [[Antarctica]]). The [[Equatorial Counter Current]] subdivides it into the North Atlantic Ocean and South Atlantic Ocean at about [[8th parallel north|8°N]].<ref name="USN-2001" />
+
+Scientific explorations of the Atlantic include the [[Challenger expedition]], the [[German Meteor expedition]], [[Columbia University]]'s [[Lamont-Doherty Earth Observatory]] and the [[United States Navy Hydrographic Office]].<ref name="USN-2001" />
+
+==Etymology==
+[[File:1710 De La Feuille Map of Africa - Geographicus - Africa-lafeuille-1710.jpg|thumb|right|The [[Aethiopian Ocean]] in a 1710 French map of Africa.]]
+The oldest known mention of "Atlantic" is in ''[[Histories (Herodotus)|The Histories]]'' of [[Herodotus]] around 450 BC (Hdt. 1.202.4): ''Atlantis thalassa'' (Greek: Ἀτλαντὶς θάλασσα; English: Sea of Atlas) where the name refers to "the sea beyond the [[pillars of Heracles]]" which is said to be part of the ocean that surrounds all land.<ref>{{Harvnb|Hdt. 1.202.4}}</ref>  Thus, on one hand, the name refers to [[Atlas (mythology)|Atlas]], the Titan of [[Greek mythology]], who supported the heavens and who later appeared as a frontispiece in Medieval maps and also lend his name to modern [[Atlas (geography)|atlases]].<ref name="Oxford-Dict">{{Harvnb|Oxford Dictionaries|2015}}</ref>  On the other hand, to early Greek sailors and in Ancient Greek mythological literature such as the ''[[Iliad]]'' and the ''[[Odyssey]]'', this all-encompassing ocean was instead known as [[Oceanus]], the gigantic river that encircled the world; in contrast to the enclosed seas well-known to the Greeks: the Mediterranean and the Black Sea.<ref>{{Harvnb|Janni|2015|p=27}}</ref>
+In contrast, the term "Atlantic" originally referred specifically to the [[Atlas Mountains]] in Morocco and the sea off the [[Strait of Gibraltar]] and the North African coast.<ref name="Oxford-Dict" />  The Greek word ''thalassa'' has been reused by scientists for the huge [[Panthalassa]] ocean that surrounded the supercontinent [[Pangaea]] hundreds of million years ago.
+
+The term "[[Aethiopian Ocean]]", derived from [[Aethiopia|Ancient Ethiopia]], was applied to the Southern Atlantic as late as the mid-19th century.<ref name="AmCyclo-1873">{{Harvnb|Ripley|Anderson Dana|1873}}</ref>
+
+===Nicknames===
+In [[modern history|modern times]], some [[idiom]]s refer to the ocean in a humorously diminutive way as "the Pond", describing both the geographical and cultural divide between North America and Europe, in particular between the English-speaking nations of both continents. Many Irish or British people refer to the United States and Canada as "across the pond", and vice versa.<ref>Example: BBC Click – Episode 4 April 2009</ref>
+
+The "Black Atlantic" refers to the role of this ocean in shaping black people's history, especially through the [[Atlantic slave trade]]. Irish migration to the US is meant when the term "The Green Atlantic" is used. The term "Red Atlantic" has been used in reference to the Marxian concept of an Atlantic working class, as well as to the Atlantic experience of [[Indigenous peoples of the Americas|indigenous Americans]].
+<ref>{{Harvnb|Armitage|2001}}</ref><ref>{{Harvnb|Weaver|2001}}</ref><ref>{{Harvnb|Armitage|Braddick|2009}}</ref>
+
+==Extent and data==
+{{For|complete lists of marginal seas and borders of the Atlantic|List of seas#Atlantic Ocean|Borders of the oceans#Atlantic Ocean}}
+{{For|the extent of the Southern Ocean|Southern Ocean#Definitions and use}}
+[[File:Atlantic Ocean - en.png|thumb|Extent of the Atlantic Ocean according to the 2002 IHO definition, excluding [[Arctic]] and [[Antarctic]] regions]]
+The [[International Hydrographic Organization]] (IHO) defined the limits of the oceans and seas in 1953,<ref name="IHO-1953">{{Harvnb|IHO|1953}}</ref> but some of these definitions have been revised since then and some are not used by various authorities, institutions, and countries, see for example the [[CIA World Factbook]].  Correspondingly, the extent and number of oceans and seas varies.
+
+The Atlantic Ocean is bounded on the west by North and South America. It connects to the Arctic Ocean through the [[Denmark Strait]], [[Greenland Sea]], [[Norwegian Sea]] and [[Barents Sea]]. To the east, the boundaries of the ocean proper are [[Europe]]: the [[Strait of Gibraltar]] (where it connects with the [[Mediterranean Sea]]–one of its [[marginal sea]]s–and, in turn, the [[Black Sea]], both of which also touch upon [[Asia]]) and Africa.
+
+In the southeast, the Atlantic merges into the Indian Ocean. The [[20th meridian east|20° East meridian]], running south from [[Cape Agulhas]] to [[Antarctica]] defines its border. In the 1953 definition it extends south to Antarctica, while in later maps it is bounded at the [[60th parallel south|60° parallel]] by the Southern Ocean.<ref name="IHO-1953" />
+
+The Atlantic has irregular coasts indented by numerous bays, gulfs, and seas. These include the [[Baltic Sea]], [[Black Sea]], [[Caribbean Sea]], [[Davis Strait]], [[Denmark Strait]], part of the [[Drake Passage]], [[Gulf of Mexico]], [[Labrador Sea]], [[Mediterranean Sea]], [[North Sea]], [[Norwegian Sea]], almost all of the [[Scotia Sea]], and other tributary water bodies.<ref name="CIA-World">{{Harvnb|CIA World Factbook: Atlantic Ocean}}</ref>  Including these marginal seas the coast line of the Atlantic measures {{Convert|111866|km|abbr=on}} compared to {{Convert|135663|km|abbr=on}} for the Pacific.<ref name="CIA-World" /><ref>{{Harvnb|CIA World Factbook: Pacific Ocean}}</ref>
+
+Including its marginal seas, the Atlantic covers an area of {{Convert|106460000|km2|abbr=on}} or 23.5% of the global ocean and has a volume of {{Convert|310410900|km3|abbr=on}} or 23.3%.  Excluding its marginal seas, the Atlantic covers {{Convert|81760000|km2|abbr=on}} and has a volume of {{Convert|305811900|km3|abbr=on}}.  The North Atlantic covers {{Convert|41490000|km2|abbr=on}} (11.5%) and the South Atlantic {{Convert|40270000|km2|abbr=on}} (11.1%).<ref name="ETOPO1">{{Harvnb|Eakins|Sharman|2010}}</ref>  The average depth is {{Convert|3646|m|abbr=on}} and the maximum depth, the [[Milwaukee Deep]] in the [[Puerto Rico Trench]], is {{Convert|8486|m|abbr=on}}.<ref name="ETOPO1" /><ref>{{Harvnb|USGS: Mapping Puerto Rico Trench}}</ref>
+
+==Bathymetry==
+[[File:Atlantic bathymetry.jpg|thumb|[[False color|False colour]] map of ocean depth in the Atlantic basin]]
+The [[bathymetry]] of the Atlantic is dominated by a [[Mid-ocean ridge|submarine mountain range]] called the [[Mid-Atlantic Ridge]] (MAR).  It runs from 87°N or {{Convert|300|km|abbr=on}} south of the [[North Pole]] to the subantarctic [[Bouvet Island]] at [[42nd parallel south|42°S]].<ref name="WHC-MAR">{{Harvnb|World Heritage Centre: Mid-Atlantic Ridge}}</ref>
+
+===Mid-Atlantic Ridge===
+{{Main article|Mid-Atlantic Ridge}}
+The MAR divides the Atlantic longitudinally into two halves, in each of which a series of basins are delimited by secondary, transverse ridges.  The MAR reaches above 2000&nbsp;m along most of its length, but is interrupted by larger transform faults at two places: the [[Romanche Trench]] near the Equator and the [[Gibbs Fracture Zone]] at [[53rd parallel north|53°N]].  The MAR is a barrier for bottom water, but at these two transform faults deep water currents can pass from one side to the other.<ref name="LevGood-2003">{{Harvnb|Levin|Gooday|2003|loc=Seafloor topography and physiography, pp. 113–114}}</ref>
+
+The MAR rises {{Convert|2|-|3|km|abbr=on}} above the surrounding ocean floor and its [[rift valley]] is the [[divergent boundary]] between the [[North American Plate|North American]] and [[Eurasian Plate|Eurasian]] plates in the North Atlantic and the [[South American Plate|South American]] and [[African Plate|African]] plates in the South Atlantic.  The MAR produces [[Basaltic lava|basaltic volcanoes]] in [[Eyjafjallajökull]], Iceland, and [[pillow lava]] on the ocean floor.<ref>{{Harvnb|The Geological Society: Mid-Atlantic Ridge}}</ref>  The depth of water at the apex of the ridge is less than {{convert|2700|m|fathom ft}} in most places, while the bottom of the ridge is three times as deep.<ref>{{cite book| author = Kenneth J. Hsü| title = The Mediterranean Was a Desert: A Voyage of the Glomar Challenger| year = 1987| isbn = 978-0-691-02406-6}}</ref>
+
+The MAR is intersected by two perpendicular ridges: the [[Azores–Gibraltar Transform Fault]], the boundary between the [[Nubian Plate|Nubian]] and [[Eurasian Plate|Eurasian plates]], intersects the MAR at the [[Azores Triple Junction]], on either side of the Azores microplate, near the [[40th parallel north|40°N]].<ref>{{Harvnb|DeMets|Gordon|Argus|2010|loc=The Azores microplate, pp. 24–25}}</ref>  A much vaguer, nameless boundary, between the [[North American Plate|North American]] and [[South American Plate|South American]] plates, intersects the MAR near or just north of the [[Fifteen-Twenty Fracture Zone]], approximately at [[16th parallel north|16°N]].<ref>{{Harvnb|DeMets|Gordon|Argus|2010|loc=Boundary between the North and South America plates, pp. 26–27}}</ref>
+
+In the 1870s the [[Challenger expedition]] discovered parts of what is now known as the Mid-Atlantic Ridge, or:
+{{Quote|text=An elevated ridge rising to an average height of about 1,900 fathoms below the surface traverses the basins of the North and South Atlantic in a meridianal direction from Cape Farewell, probably its far south at least as Gough Island, following roughly the outlines of the coasts of the Old and the New Worlds.<ref>{{Harvnb|Thomson|1877|p=290}}</ref>}}  The remainder of the ridge was discovered in the 1920s by the German [[German Meteor expedition|Meteor expedition]] using echo-sounding equipment.<ref>{{Harvnb|NOAA: Timeline}}</ref>  The exploration of the MAR in the 1950s lead to the general acceptance of [[seafloor spreading]] and [[plate tectonics]].<ref name="WHC-MAR" />
+
+Most of the MAR runs under water but where it reaches the surfaces it has produced volcanic islands.  While nine of these have collectively been nominated a [[World Heritage Site]] for their geological value, four of them are considered of "Outstanding Universal Value" based on their cultural and natural criteria: [[Þingvellir National Park|Þingvellir]], Iceland; [[Landscape of the Pico Island Vineyard Culture]], Portugal; [[Gough and Inaccessible Islands]], United Kingdom; and Brazilian Atlantic Islands: [[Fernando de Noronha]] and [[Atol das Rocas]] Reserves, Brazil.<ref name="WHC-MAR" />
+
+===Ocean floor===
+{{For|a list of fracture zones in the Atlantic|List of fracture zones#Atlantic Ocean}}
+Continental shelves in the Atlantic are wide off Newfoundland, southern-most South America, and north-eastern Europe.
+In the western Atlantic [[carbonate platform]]s dominate large areas, for example the [[Blake Plateau]] and [[Bermuda Rise]].
+The Atlantic is surrounded by [[passive margin]]s except at a few locations where [[active margin]]s form deep [[oceanic trench|trenches]]: the [[Puerto Rico Trench]] ({{Convert|8414|m|abbr=on}} maximum depth) in the western Pacific and [[South Sandwich Trench]] ({{Convert|8264|m|abbr=on}}) in the South Atlantic.  There are numerous submarine canyons off north-eastern North America, western Europe, and  north-western Africa.  Some of these canyons extend along the continental rises and farther into the abyssal plains as deep-sea channels.<ref name="LevGood-2003" />
+
+The deep ocean floor is thought to be fairly flat with occasional deeps, [[abyssal plains]], [[oceanic trench|trenches]], [[seamount]]s, [[Oceanic basin|basins]], [[Oceanic plateau|plateaus]], [[Submarine canyon|canyons]], and some [[guyot]]s. Various shelves along the margins of the continents constitute about 11% of the bottom topography with few deep channels cut across the continental rise.
+
+The mean depth between [[60th parallel north|60°N]] and [[60th parallel south|60°S]] is {{Convert|3730|m|abbr=on}}, or close to the average for the global ocean, with a modal depth between {{Convert|4000|and|5000|m|abbr=on}}.<ref name="LevGood-2003" />
+
+In the South Atlantic the [[Walvis Ridge]] and [[Rio Grande Rise]] form barriers to ocean currents.
+The [[Laurentian Abyss]] is found off the eastern coast of [[Canada]].
+
+==Water characteristics==
+[[File:Gulf Stream Sea Surface Currents and Temperatures NASA SVS.jpg|thumb|400px|As the Gulf Stream meanders across the North Atlantic from the North American east coast to Western Europe its temperature drops by {{Convert|20|C|abbr=on}}.|alt=Visualisation of the Gulf Stream stretching from the Gulf of Mexico to Western Europe]]
+[[File:Circulacion termohalina.jpg|Path of the [[thermohaline circulation]]. Purple paths represent deep-water currents, while blue paths represent surface currents.|thumb|alt=Map displaying a looping line with arrows indicating that water flows eastward in the far Southern ocean, angling north east of Australia, turning sough after passing Alaska, then crossing the mid-Pacific to flow north of Australia, continuing west below Africa, then turning northwest until reaching eastern Canada, then angling east to southern Europe, then finally turning south just below Greenland and flowing down the Americas' eastern coast, and resuming its flow eastward to complete the circle]]
+
+Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below {{convert|-2|C|F}} to over {{convert|30|C|F}}. Maximum temperatures occur north of the equator, and minimum values are found in the polar regions. In the middle latitudes, the area of maximum temperature variations, values may vary by {{convert|7|–|8|C-change|F-change}}.<ref name="USN-2001" />
+
+From October to June the surface is usually covered with sea ice in the [[Labrador Sea]], [[Denmark Strait]], and Baltic Sea.<ref name="USN-2001" />
+
+The [[Coriolis effect]] circulates North Atlantic water in a clockwise direction, whereas South Atlantic water circulates counter-clockwise. The south [[tide]]s in the Atlantic Ocean are semi-diurnal; that is, two high tides occur during each 24 lunar hours. In latitudes above [[40th parallel north|40° North]] some east-west oscillation, known as the [[North Atlantic Oscillation]], occurs.<ref name="USN-2001" />
+
+===Salinity===
+On average, the Atlantic is the saltiest major ocean; surface water [[salinity]] in the open ocean ranges from 33 to 37 parts per thousand (3.3 – 3.7%) by mass and varies with latitude and season. Evaporation, precipitation, river inflow and [[sea ice]] melting influence surface salinity values. Although the lowest salinity values are just north of the equator (because of heavy tropical rainfall), in general the lowest values are in the high latitudes and along coasts where large rivers enter. Maximum salinity values occur at about [[25th parallel north|25° north]] and [[25th parallel south|south]], in [[subtropical]] regions with low rainfall and high evaporation.<ref name="USN-2001">{{Harvnb|U.S. Navy|2001}}</ref>
+
+The high surface salinity in the Atlantic, on which the Atlantic [[thermohaline circulation]] is dependent, is maintained by two processes: the [[Agulhas Current#Agulhas leakage and rings|Agulhas Leakage/Rings]], which brings salty Indian Ocean waters into the South Atlantic, and the "Atmospheric Bridge", which evaporates subtropical Atlantic waters and exports it to the Pacific.<ref>{{Harvnb|Marsh|Hazeleger|Yool|Rohling|2007|loc=Introduction, p. 1}}</ref>
+
+{{Clear}}
+
+===Water masses===
+{| class="wikitable floatright"
+|+ Temperature-salinity characteristics for Atlantic water masses<ref>{{Harvnb|Emery|Meincke|1986|loc=Table, p. 385}}</ref>
+|-
+ ! Water mass !! Temperature !! Salinity
+|-
+ ! colspan="3" | Upper waters (0–500&nbsp;m)
+|-
+ | Atlantic Subarctic<br/>Upper Water (ASUW) || 0.0–4.0&nbsp;°C || 34.0–35.0
+|-
+ | Western North Atlantic<br/>Central Water(WNACW) || 7.0–20&nbsp;°C || 35.0–36.7
+|-
+ | Eastern North Atlantic<br/>Central Water (ENACW) || 8.0–18.0&nbsp;°C || 35.2–36.7
+|-
+ | South Atlantic<br/>Central Water (SACW) || 5.0–18.0&nbsp;°C || 34.3–35.8
+|-
+ ! colspan="3" | Intermediate waters (500–1500&nbsp;m)
+|-
+ | Western Atlantic Subarctic<br/>Intermediate Water (WASIW) || 3.0–9.0&nbsp;°C || 34.0–35.1
+|-
+ | Eastern Atlantic Subarctic<br/>Intermediate Water (EASIW) || 3.0–9.0&nbsp;°C || 34.4–35.3
+|-
+ | Mediterranean Water (MW) || 2.6–11.0&nbsp;°C || 35.0–36.2
+|-
+ | Arctic Intermediate Water (AIW) || -1.5–3.0&nbsp;°C || 34.7–34.9
+|-
+ ! colspan="3" | Deep and  abyssal waters (1500&nbsp;m–bottom)
+|-
+ | North Atlantic<br/>Deep Water (NADW) || 1.5–4.0&nbsp;°C || 34.8–35.0
+|-
+ | Antarctic Bottom Water (AABW) || -0.9–1.7&nbsp;°C || 34.64–34.72
+|-
+ | Arctic Bottom Water (ABW) || -1.8–-0.5&nbsp;°C || 34.85–34.94
+|}
+The Atlantic Ocean consists of four major, upper [[water mass]]es with distinct temperature and salinity.  The Atlantic Subarctic Upper Water in the northern-most North Atlantic is the source for Subarctic Intermediate Water and North Atlantic Intermediate Water.  North Atlantic Central Water can be divided into the Eastern and Western North Atlantic central Water since the western part is strongly affected by the Gulf Stream and therefore the upper layer is closer to underlying fresher subpolar intermediate water.  The eastern water is saltier because of its proximity to Mediterranean Water.  North Atlantic Central Water flows into South Atlantic Central Water at [[15th parallel north|15°N]].<ref name="Emery-Atlantic">{{Harvnb|Emery|Meincke|1986|loc=Atlantic Ocean, pp. 384-386}}</ref>
+
+There are five intermediate waters: four low-salinity waters formed at subpolar latitudes and one high-salinity formed through evaporation.  Arctic Intermediate Water, flows from north to become the source for North Atlantic Deep Water south of the Greenland-Scotland sill. These two intermediate waters have different salinity in the western and eastern basins.  The wide range of salinities in the North Atlantic is caused by the asymmetry of the northern subtropical gyre and the large number of contributions from a wide range of sources: Labrador Sea, Norwegian-Greenland Sea, Mediterranean, and South Atlantic Intermediate Water.<ref name="Emery-Atlantic" />
+
+The [[North Atlantic Deep Water]] (NADW) is a complex of four water masses, two that form by deep convection in the open ocean&nbsp;&mdash; Classical and Upper Labrador Sea Water&nbsp;&mdash; and two that form from the inflow of dense water across the Greenland-Iceland-Scotland sill&nbsp;&mdash; Denmark Strait and Iceland-Scotland Overflow Water.  Along its path across Earth the composition of the NADW is affected by other water masses, especially [[Antarctic Bottom Water]] and Mediterranean Overflow Water.<ref>{{Harvnb|Smethie|Fine|Putzka|Jones|2000|loc=Formation of NADW, pp. 14299–14300}}</ref>
+The NADW is fed by a flow of warm shallow water into the northern North Atlantic which is responsible for the anomalous warm climate in Europe.  Changes in the formation of NADW have been linked to global climate changes in the past.  Since man-made substances were introduced into the environment, the path of the NADW can be traced throughout its course by measuring tritium and radiocarbon from [[nuclear weapon test]]s in the 1960s and [[chlorofluorocarbon|CFCs]].<ref>{{Harvnb|Smethie|Fine|Putzka|Jones|2000|loc=Introduction, p. 14297}}</ref>
+{{Clear}}
+
+===Gyres===
+[[File:Oceanic gyres.png|thumb|Map of the five major ocean [[Ocean gyre|gyres]]|alt=Map showing 5 circles. The first is between western Australia and eastern Africa. The second is between eastern Australia and western South America. The third is between Japan and western North America. Of the two in the Atlantic, one is in hemisphere.]]
+The clockwise warm-water [[North Atlantic Gyre]] occupies the northern Atlantic, and the counter-clockwise warm-water [[South Atlantic Gyre]] appears in the southern Atlantic.<ref name="USN-2001" />
+
+In the North Atlantic surface circulation is dominated by three inter-connected currents: the [[Gulf Stream]] which flows north-east from the North American coast at [[Cape Hatteras]]; the [[North Atlantic Current]], a branch of the Gulf Stream which flows northward from the [[Grand Banks of Newfoundland|Grand Banks]]; and the [[Subpolar Front]], an extension of the North Atlantic Current, a wide, vaguely defined region separating the subtropical gyre from the subpolar gyre.  This system of currents transport warm water into the North Atlantic, without which temperatures in the North Atlantic and Europe would plunge dramatically.<ref>{{Harvnb|Marchal|Waelbroeck|Colin de Verdière|2016|loc=Introduction, pp. 1545–1547}}</ref>
+
+[[File:North Atlantic Circulation.gif|thumb|In the subpolar gyre of the North Atlantic warm subtropical waters are transformed into colder subpolar and polar waters.  In the Labrador Sea this water flows back to the subtropical gyre.]]
+North of the North Atlantic Gyre, the cyclonic [[North Atlantic Subpolar Gyre]] plays a key role in climate variability.  It is governed by ocean currents from marginal seas and regional topography, rather than being steered by wind, both in the deep ocean and at sea level.<ref>{{Harvnb|Tréguier|Theetten|Chassignet|Penduff|2005|loc=Introduction, p. 757}}</ref>
+The subpolar gyre forms an important part of the global [[thermohaline circulation]].  Its eastern portion includes [[Eddy (fluid dynamics)|eddying]] branches of the [[North Atlantic Current]] which transport warm, saline waters from the subtropics to the north-eastern Atlantic.  There this water is cooled during winter and forms return currents that merge along the eastern continental slope of Greenland where they form an intense (40–50&nbsp;[[Sverdrup|Sv]]) current which flows around the continental margins of the [[Labrador Sea]].  A third of this water become parts of the deep portion of the [[North Atlantic Deep Water]] (NADW).  The NADW, in its turn, feed the [[meridional overturning circulation]] (MOC), the northward heat transport of which is threatened by anthropogenic climate change.  Large variations in the subpolar gyre on a decade-century scale, associated with the [[North Atlantic Oscillation]], are especially pronounced in [[Labrador Sea Water]], the upper layers of the MOC.<ref>{{Harvnb|Böning|Scheinert|Dengg|Biastoch|2006|loc=Introduction, p. 1; Fig. 2, p. 2}}</ref>
+
+The South Atlantic is dominated by the anti-cyclonic southern subtropical gyre.  The [[South Atlantic Central Water]] originates in this gyre, while [[Antarctic Intermediate Water]] originates in the upper layers of the circumpolar region, near the [[Drake Passage]] and Falkland Islands.  Both these currents receive some contribution from the Indian Ocean.  On the African east coast the small cyclonic [[Angola Gyre]] lies embedded in the large subtropical gyre.<ref>{{Harvnb|Stramma|England|1999|loc=Abstract}}</ref>
+The southern subtropical gyre is partly masked by a wind-induced [[Ekman layer]].  The residence time of the gyre is 4.4–8.5&nbsp;years.  [[North Atlantic Deep Water]] flows southerward below the [[thermocline]] of the subtropical gyre.<ref>{{Harvnb|Gordon|Bosley|1991|loc=Abstract}}</ref>
+
+===Sargasso Sea===
+{{Main article|Sargasso Sea}}
+[[File:Sargasso.png|thumb|Approximate extent of the Sargasso Sea]]
+The Sargasso Sea in the western North Atlantic can be defined as the area where two species of ''[[Sargassum]]'' (''S. fluitans'' and ''natans'') float, an area {{Convert|4000|km|abbr=on}} wide and encircled by the [[Gulf Stream]], [[North Atlantic Drift]], and [[North Equatorial Current]].  This population of seaweed probably originated from Tertiary ancestors on the European shores of the former [[Tethys Ocean]] and has, if so, maintained itself by [[Vegetative reproduction|vegetative growth]], floating in the ocean for millions of years.<ref name="Lün-p223">{{Harvnb|Lüning|1990|pp=223–225}}</ref>
+
+[[File:HanaOZ.jpg|thumb|left|Sargassum fish (''Histrio histrio'')]]
+Other species endemic to the Sargasso Sea include the [[sargassum fish]], a predator with algae-like appendages who hovers motionless among the ''Sargassum''.  Fossils of similar fishes have been found in fossil bays of the former Tethys Ocean, in what is now the [[Carpathian Mountains|Carpathian]] region, that were similar to the Sargasso Sea.  It is possible that the population in the Sargasso Sea migrated to the Atlantic as the Tethys closed at the end of the Miocene around 17&nbsp;Ma.<ref name="Lün-p223" />
+The origin of the Sargasso fauna and flora remained enigmatic for centuries.  The fossils found in the Carpathians in the mid-20th century, often called the "quasi-Sargasso assemblage", finally showed that this assemblage originated in the [[Carpathian Basin]] from were it migrated over [[Sicily]] to the Central Atlantic where it evolved into modern species of the Sargasso Sea.<ref>{{Harvnb|Jerzmańska|Kotlarczyk|1976|loc=Abstract; Biogeographic Significance of the "Quasi-Sargasso" Assemblage, pp. 303–304}}</ref>
+
+The location of the spawning ground for European eels [[Eel life history#Search for the spawning grounds|remained unknown for decades]].  In the early 19th century it was discovered that the southern Sargasso Sea is the spawning ground for both the [[European eel|European]] and [[American eel]] and that the former migrate more than {{Convert|5000|km|abbr=on}} and the latter {{Convert|2000|km|abbr=on}}.  Ocean currents such as the Gulf Stream transport eel larvae from the Sargasso Sea to foraging areas in North America, Europe, and Northern Africa.<ref>{{Harvnb|Als|Hansen|Maes|Castonguay|2011|p=1334}}</ref>
+
+==Climate==
+[[File:Atlantic hurricane graphic.gif|thumb|Waves in the [[trade winds]] in the Atlantic Ocean—areas of converging winds that move along the same track as the prevailing wind—create instabilities in the atmosphere that may lead to the formation of hurricanes.|alt=Map of Caribbean showing seven approximately parallel westward-pointing arrows that extend from east of the Virgin Islands to Cuba. The southern arrows bend northward just east of the Dominican Republic before straightening out again.]]
+
+Climate is influenced by the temperatures of the surface waters and water currents as well as winds. Because of the ocean's great capacity to store and release heat, maritime climates are more moderate and have less extreme seasonal variations than inland climates. [[Precipitation (meteorology)|Precipitation]] can be approximated from coastal weather data and air temperature from water temperatures.<ref name="USN-2001" />
+
+The oceans are the major source of the atmospheric moisture that is obtained through evaporation. Climatic zones vary with latitude; the warmest zones stretch across the Atlantic north of the equator. The coldest zones are in high latitudes, with the coldest regions corresponding to the areas covered by sea ice. Ocean currents influence climate by transporting warm and cold waters to other regions. The winds that are cooled or warmed when blowing over these currents influence adjacent land areas.<ref name="USN-2001" />
+
+The [[Gulf Stream]] and its northern extension towards Europe, the [[North Atlantic Current|North Atlantic Drift]], for example, warms the atmosphere of the British Isles and north-western Europe and influences weather and climate as far south as the northern Mediterranean. The cold water currents contribute to heavy fog off the coast of eastern Canada (the [[Grand Banks of Newfoundland]] area) and Africa's north-western coast.  In general, winds transport moisture and air over land areas.<ref name="USN-2001" /> More local particular weather examples could be found in examples such as the [[Azores High]], [[Benguela Current]], and [[Nor'easter]].
+{{See also|Cold blob (North Atlantic)}}
+
+===Natural hazards===
+[[File:Iceberg A22A, South Atlantic Ocean.jpg|thumb|Iceberg A22A in the South Atlantic Ocean|alt=Overhead photo of iceberg with surrounding clouds|alt=Overhead photo of iceberg]]
+[[Iceberg]]s are common from February to August in the [[Davis Strait]], [[Denmark Strait]], and the northwestern Atlantic and have been spotted as far south as [[Bermuda]] and [[Madeira]]. Ships are subject to [[Superstructure (ship)|superstructure]] [[icing (nautical)|icing]] in the extreme north from October to May. Persistent fog can be a maritime hazard from May to September, as can hurricanes north of the equator (May to December).
+
+The United States' southeast coast, especially the Virginia and North Carolina coasts, has a long history of shipwrecks due to its many shoals and reefs.
+
+The [[Bermuda Triangle]] is popularly believed to be the site of numerous aviation and shipping incidents because of unexplained and supposedly mysterious causes, but [[Coast Guard]] records do not support this belief.
+
+[[Hurricanes]] are also a natural hazard in the Atlantic, but mainly in the northern part of the ocean, rarely [[tropical cyclones]] form in the southern parts. Hurricanes usually form annually between June and November.
+
+==Plate tectonics==
+[[File:Pangea animation 03.gif|thumb|The break-up of Pangaea resulted in the opening of the Atlantic Ocean in three stages]]
+
+===Central Atlantic===
+The break-up of Pangaea began in the Central Atlantic, between North America and Northwest Africa, where rift basins opened during the Late Triassic and Early Jurassic.  This period also saw the first stages of the uplift of the Atlas Mountains.  The exact timing is controversial with estimates ranging from 200 to 170&nbsp;Ma.<ref>{{Harvnb|Seton|Müller|Zahirovic|Gaina|2012|loc=Central Atlantic, pp. 218, 220}}</ref>
+
+The opening of the Atlantic Ocean coincided with the initial break-up of the supercontinent [[Pangaea]], both of which were initiated by the eruption of the [[Central Atlantic Magmatic Province]] (CAMP), one of the most extensive and voluminous [[large igneous province]]s in Earth's history associated with the [[Triassic–Jurassic extinction event]], one of Earth's major [[extinction event]]s.<ref>{{Harvnb|Blackburn|Olsen|Bowring|McLean|2013|p=941}}</ref>
+Theoliitic [[Dike (geology)|dikes]], [[Sill (geology)|sills]], and lava flows from the CAMP eruption at 200&nbsp;Ma have been found in West Africa, eastern North America, and northern South America.  The extent of the volcanism has been estimated to {{Convert|4.5e6|km2|abbr=on}} of which {{Convert|2.5e6|km2|abbr=on}} covered what is now northern and central Brazil.<ref>{{Harvnb|Marzoli|Renne|Piccirillo|Ernesto|1999|p=616}}</ref>
+
+The formation of the [[Central American Isthmus]] closed the [[Central American Seaway]] at the end of the Pliocene 2.8&nbsp;Ma ago. The formation of the isthmus resulted in the migration and extinction of many land-living animals, known as the [[Great American Interchange]], but the closure of the seaway resulted in a "Great American Schism" as it affected ocean currents, salinity, and temperatures in both the Atlantic and Pacific.  Marine organisms on both sides of the isthmus became isolated and either diverged or went extinct.<ref>{{Harvnb|Lessios|2008|loc=Abstract, Introduction, p. 64}}</ref>
+
+===Northern Atlantic===
+{{Main article|Opening of the North Atlantic Ocean}}
+Geologically the Northern Atlantic is the area delimited to the south by two conjugate margins, Newfoundland and Iberia, and to the north by the Arctic [[Eurasian Basin]].  The opening of the Northern Atlantic closely followed the margins of its predecessor, the [[Iapetus Ocean]], and spread from the Central Atlantic in six stages: [[Iberian Peninsula|Iberia]]–[[Newfoundland (island)|Newfoundland]], [[Porcupine Bank|Porcupine]]–North America, Eurasia–Greenland, Eurasia–North America.  Active and inactive spreading systems in this area are marked by the interaction with the [[Iceland hotspot]].<ref>{{Harvnb|Seton|Müller|Zahirovic|Gaina|2012|loc=Northern Atlantic, p. 220}}</ref>
+
+===South Atlantic===
+West Gondwana (South America and Africa) broke up in the Early Cretaceous to form the South Atlantic.  The apparent fit between the coastlines of the two continents was noted on the first maps that included the South Atlantic and it was also the subject of the first computer-assisted plate tectonic reconstructions in 1965.<ref name="Eagles-intro">{{Harvnb|Eagles|2007|loc=Introduction, p. 353}}</ref><ref>{{Harvnb|Bullard|Everett|Smith|1965}}</ref>  This magnificent fit, however, has since then proven problematic and later reconstructions have introduced various deformation zones along the shorelines to accommodate the northward-propagating break-up.<ref name="Eagles-intro" />  Intra-continental rifts and deformations have also been introduced to subdivide both continental plates into sub-plates.<ref name="Seton-2012-p217">{{Harvnb|Seton|Müller|Zahirovic|Gaina|2012|loc=South Atlantic, pp. 217–218}}</ref>
+
+Geologically the South Atlantic can be divided into four segments: Equatorial segment, from 10°N to the Romanche Fracture Zone (RFZ);; Central segment, from RFZ to Florianopolis Fracture Zone (FFZ, north of Walvis Ridge and Rio Grande Rise); Southern segment, from FFZ to the Agulhas-Falkland Fracture Zone (AFFZ); and Falkland segment, south of AFFZ.<ref name="Torsvik2009-p1316">{{Harvnb|Torsvik|Rousse|Labails|Smethurst|2009|loc=General setting and magmatism, pp. 1316–1318}}</ref>
+
+In the southern segment the Early Cretaceous (133–130&nbsp;Ma) intensive magmatism of the [[Paraná and Etendeka traps|Paraná–Etendeka Large Igneous Province]] produced by the [[Tristan hotspot]] resulted in an estimated volume of {{Convert|1.5e6|to|2.0e6|km3|abbr=on}}. It covered an area of {{Convert|1.2e6|to|1.6e6|km2|abbr=on}} in Brazil, Paraguay, and Uruguay and {{Convert|0.8e5|km2|abbr=on}} in Africa.  [[Dyke swarm]]s in Brazil, Angola, eastern Paraguay, and Namibia, however, suggest the LIP originally covered a much larger area and also indicate failed rifts in all these areas.  Associated offshore basaltic flows reach as far south as the Falkland Islands and South Africa.  Traces of magmatism in both offshore and onshore basins in the central and southern segments have been dated to 147–49&nbsp;Ma with two peaks between 143–121&nbsp;Ma and 90–60&nbsp;Ma.<ref name="Torsvik2009-p1316" />
+
+In the Falkland segment rifting began with dextral movements between the Patagonia and Colorado sub-plates between the Early Jurassic (190&nbsp;Ma) and the Early Cretaceous (126.7&nbsp;Ma).  Around 150&nbsp;Ma sea-floor spreading propagated northward into the southern segment.  No later than 130&nbsp;Ma rifting had reached the Walvis Ridge–Rio Grande Rise.<ref name="Seton-2012-p217" />
+
+In the central segment rifting started to break Africa in two by opening the [[Benue Trough]] around 118&nbsp;Ma.  Rifting in the central segment, however, coincided with the [[Geomagnetic reversal#Superchrons|Cretaceous Normal Superchron]] (also known as the Cretaceous quiet period), a 40&nbsp;Ma period without magnetic reversals, which makes it difficult to date sea-floor spreading in this segment.<ref name="Seton-2012-p217" />
+
+The equatorial segment is the last phase of the break-up, but, because it is located on the Equator, magnetic anomalies cannot be used for dating.  Various estimates date the propagation of sea-floor spreading in this segment to the period 120–96&nbsp;Ma.  This final stage, nevertheless, coincided with or resulted in the end of continental extension in Africa.<ref name="Seton-2012-p217" />
+
+About 50&nbsp;Ma the opening of the [[Drake Passage]] resulted from a change in the motions and separation rate of the South American and Antarctic plates.  First small ocean basins opened and a shallow gateway appeared during the Middle Eocene.  34–30&nbsp;Ma a deeper seaway developed, followed by an [[Eocene–Oligocene extinction event|Eocene–Oligocene climatic deterioration]] and the growth of the [[Antarctic ice sheet]].<ref>{{Harvnb|Livermore|Nankivell|Eagles|Morris|2005|loc=Abstract}}</ref>
+
+===Closure of the Atlantic===
+An embryonic subduction margin is potentially developing west of Gibraltar.  The [[Gibraltar Arc]] in the western Mediterranean is migrating westward into the Central Atlantic where it joins the converging African and Eurasian plates.  Together these three tectonic forces are slowly developing into a new subduction system in the eastern Atlantic Basin.  Meanwhile, the [[Scotia Arc]] and [[Caribbean Plate]] in the western Atlantic Basin are eastward-propagating subduction systems that might, together with the Gibraltar system, represent the beginning of the closure of the Atlantic Ocean and the final stage of the Atlantic [[Wilson Cycle]].<ref>{{Harvnb|Duarte|Rosas|Terrinha|Schellart|2013|loc=Abstract; Conclusions, p. 842}}</ref>
+
+==History==
+{{Main category|History of the Atlantic Ocean}}
+
+===Human origin===
+[[Human evolution|Humans evolved]] in Africa; first by diverging from other apes around 7&nbsp;Ma; then developing stone tools around 2.6&nbsp;Ma; to finally evolve as [[Anatomically modern human|modern humans]] around 100&nbsp;kya.  The earliest evidences for the complex behaviour associated with this [[behavioral modernity]] has been found in the Greater [[Cape Floristic Region]] (GCFR) along the coast of South Africa.  During the latest glacial stages the now-submerged plains of the [[Agulhas Bank]] were exposed above sea level, extending the South African coastline farther south by hundreds of kilometres.  A small population of modern humans&nbsp;— probably fewer than a thousand reproducing individuals&nbsp;— survived glacial maxima by exploring the high diversity offered by these Palaeo-Agulhas plains.  The GCFR is delimited to the north by the [[Cape Fold Belt]] and the limited space south of it resulted in the development of social networks out of which complex Stone Age technologies emerged.<ref>{{Harvnb|Marean|Cawthra|Cowling|Esler|2014|loc=pp. 164–166, fig. 8.2, p. 166}}</ref>  Human history thus begins on the coasts of South Africa where the Atlantic [[Benguela Current|Benguela Upwelling]] and Indian Ocean [[Agulhas Current]] meet to produce an intertidal zone on which shellfish, fur seal, fishes and sea birds provided the necessary protein sources.<ref>{{Harvnb|Marean|2011|loc=Environmental Context on the South Coast, pp. 423–425}}</ref><!-- Coastal Oasis Model (COM) -->
+The African origin of this modern behaviour is evidenced by 70,000 years-old engravings from [[Blombos Cave]], South Africa.<ref>{{Harvnb|Henshilwood|d'Errico|Yates|Jacobs|2002|loc=Abstract}}</ref>
+
+===Old World===
+[[Mitochondrial DNA]] (mtDNA) studies indicate that 80–60,000 years ago a major demographic expansion within Africa, derived from a single, small population, coincided with the emergence of behavioural complexity and the rapid [[Marine isotope stage|MIS]]&nbsp;5–4 environmental changes.  This group of people not only expanded over the whole of Africa, but also started to disperse [[Recent African origin of modern humans|out of Africa]] into Asia, Europe, and Australasia around 65.000 years ago and quickly replaced the archaic humans in these regions.<ref>{{Harvnb|Mellars|2006|loc=Abstract}}</ref>  During the [[Last Glacial Maximum]] (LGM) 20,000 years ago humans had to abandon their initial settlements along the European North Atlantic coast and retreat to the Mediterranean.  Following rapid climate changes at the end of the LGM this region was repopulated by [[Magdalenian]] culture.  Other hunter-gatherers followed in waves interrupted by large-scale hazards such as the [[Laacher See]] volcanic eruption, the inundation of [[Doggerland]] (now the [[North Sea]]), and the formation of the [[Baltic Sea]].<ref>{{Harvnb|Riede|2014|pp=1–2}}</ref>  The European coasts of the North Atlantic were permanently populated about 9–8.5 thousand years ago.<ref>{{Harvnb|Bjerck|2009|loc=Introduction, pp. 118–119}}</ref>
+
+This human dispersal left abundant traces along the coasts of the Atlantic Ocean.  50&nbsp;ka-old, deeply stratified [[shell midden]]s found in [[Ysterfontein]] on the western coast of South Africa are associated with the Middle Stone Age (MSA).  The MSA population was small and dispersed and the rate of their reproduction and exploitation was less intense than those of later generations.  While their middens resemble 12-11&nbsp;ka-old Late Stone Age (LSA) middens found on every inhabited continent, the 50-45&nbsp;ka-old [[Enkapune Ya Muto]] in Kenya probably represents the oldest traces of the first modern humans to disperse out of Africa.<ref>{{Harvnb|Avery|Halkett|Orton|Steele|2008|loc=Introduction, p. 66}}</ref>
+[[File:Meilgaard-boplads.jpg|thumb|Excavation of the [[Ertebølle culture|Ertebølle]] middens in 1880]]
+The same development can be seen in Europe.  In [[La Riera Cave]] (23-13&nbsp;ka) in Asturias, Spain, only some 26,600 molluscs were deposited over 10&nbsp;ka.  In contrast, 8-7&nbsp;ka-old shell middens in Portugal, Denmark, and Brazil generated thousands of tonnes of debris and artefacts.  The [[Ertebølle culture|Ertebølle]] middens in Denmark, for example, accumulated {{Convert|2000|m3|abbr=on}} of shell deposits representing some 50 million molluscs over only a thousand years.  This intensification in the exploitation of marine resources has been described as accompanied by new technologies&nbsp;— such as boats, harpoons, and fish-hooks&nbsp;— because many caves found in the Mediterranean and on the European Atlantic coast have increased quantities of marine shells in their upper levels and reduced quantities in their lower.  The earliest exploitation, however, took place on the now submerged shelves, and most settlements now excavated were then located several kilometres from these shelves.  The reduced quantities of shells in the lower levels can represent the few shells that were exported inland.<ref>{{Harvnb|Bailey|Flemming|2008|loc=The Long-Term History of Marine Resources, pp. 4-5}}</ref>
+
+===New World===
+During the LGM the [[Laurentide Ice Sheet]] covered most of northern North America while [[Beringia]] connected Siberia to Alaska.  In 1973 late U.S. geoscientist [[Paul S. Martin]] proposed a "blitzkrieg" colonization of America by which [[Clovis culture|Clovis hunters]] migrated into North America around 13,000 years ago in a single wave through an ice-free corridor in the ice sheet and "spread southward explosively, briefly attaining a density sufficiently large to overkill much of their prey."<ref>{{Harvnb|Martin|1973|loc=Abstract}}</ref>  Others later proposed a "three-wave" migration over the [[Bering Land Bridge]].<ref>{{Harvnb|Greenberg|Turner|Zegura|1986}}</ref>  These hypotheses remained the long-held view regarding the [[settlement of the Americas]], a view challenged by more recent archaeological discoveries: the oldest archaeological sites in the Americas have been found in South America; sites in north-east Siberia report virtually no human presence there during the LGM; and most Clovis artefacts have been found in eastern North America along the Atlantic coast.<ref>{{Harvnb|O'Rourke|Raff|2010|loc=Introduction, p. 202}}</ref>  Furthermore, colonisation models based on mtDNA, [[yDNA]], and [[atDNA]] data respectively support neither the "blitzkrieg" nor the "three-wave" hypotheses but they also deliver mutually ambiguous results.  Contradictory data from archaeology and genetics will most likely deliver future hypotheses that will, eventually, confirm each other.<ref>{{Harvnb|O'Rourke|Raff|2010|loc=Conclusions and Outlook, p. 206}}</ref>  A proposed route across the Pacific to South America could explain early South American finds and another hypothesis proposes a northern path, through the Canadian Arctic and down the North American Atlantic coast.<ref>{{Harvnb|O'Rourke|Raff|2010|loc=Beringian Scenarios, pp. 205–206}}</ref>
+Early settlements across the Atlantic have been suggested by alternative theories, ranging from purely hypothetical to mostly disputed, including the [[Solutrean hypothesis]] and some of the [[Pre-Columbian trans-oceanic contact theories]].
+
+[[File:Norse-world.png|thumb|Based on the medieval ''[[Sagas of Icelanders|Íslendingasögur]]'' sagas, including the ''[[Greenland saga|Grœnlendinga saga]]'', this interpretative map of the "Norse World" shows that Norse knowledge of America and the Atlantic remained limited.]]
+The [[Norse colonization of North America|Norse settlement]] of the [[Faroe Islands]] and [[Iceland]] began during the 9th and 10th centuries. A settlement on [[Greenland]] was established before 1000&nbsp;CE, but contact with it was lost in 1409 and it was finally abandoned during the early [[Little Ice Age]].  This setback was caused by a range of factors: an unsustainable economy resulted in erosion and denudation, while conflicts with the local [[Inuit]] resulted in the failure to adapt their Arctic technologies; a colder climate resulted in starvation; and the colony got economically marginalised as the [[Great Plague]] and [[Barbary pirates]] harvested its victims on Iceland in the 15th century.<ref>{{Harvnb|Dugmore|Keller|McGovern|2007|loc=Introduction, pp. 12–13; The Norse in The North Atlantic, pp. 13–14}}</ref>
+Iceland was initially settled 865–930&nbsp;CE following a warm period when winter temperatures hovered around {{Convert|2|C|abbr=on}} which made farming favourable at high latitudes.  This did not last, however, and temperatures quickly dropped; at 1080&nbsp;CE summer temperatures had reached a maximum of {{Convert|5|C|abbr=on}}.  The ''[[Landnámabók]]'' (''Book of Settlement'') records disastrous famines during the first century of settlement&nbsp;— "men ate foxes and ravens" and "the old and helpless were killed and thrown over cliffs"&nbsp;— and by the early 1200s hay had to be abandoned for short-season crops such as barley.<ref>{{Harvnb|Patterson|Dietrich|Holmden|Andrews|2010|pp=5308–5309}}</ref>
+
+{{See also|Brendan#Possible link to North America}}
+
+===Atlantic World===
+{{Main article|Atlantic world|Atlantic history}}
+[[File:Philip II's realms in 1598.png|thumb|left|A century after Columbus' first voyage large parts of the New World had been included into the [[Spanish Empire]]]]
+[[Christopher Columbus]] [[Voyages of Christopher Columbus|discovered the Americas]] in 1492 under Spanish flag.<ref name="Chamb-184">{{Harvnb|Chambliss|1989|loc=Piracy, pp. 184–188}}</ref>  Six years later [[Vasco da Gama]] reached India under Portuguese flag, by navigating south around the [[Cape of Good Hope]], thus proving that the Atlantic and Indian Oceans are connected. In 1500, in his voyage to India following Vasco da Gama, [[Pedro Alvares Cabral]] reached Brazil, taken by the currents of the [[South Atlantic Gyre]].<!-- unref -->  Following these explorations, Spain and Portugal quickly [[Colonization of the Americas|conquered and colonized]] large territories in the New World and forced the Native American population into slavery in order to explore the vast quantities of silver and gold they found.  Spain and Portugal monopolised this trade in order to keep other European nations out, but conflicting interests nevertheless lead to a series of Spanish-Portuguese wars.  A peace treaty mediated by the Pope divided the conquered territories into Spanish and Portuguese sectors while keeping other colonial powers away.  England, France, and the Dutch Republic enviously watched the Spanish and Portuguese wealth grow and allied themselves with [[Piracy in the Atlantic World|pirates]] such as [[Henry Mainwaring]] and [[Alexandre Exquemelin]].  They could explore the convoys leaving America because prevailing winds and currents made the transport of heavy metals slow and predictable.<ref name="Chamb-184" />
+
+[[File:Atlantic slavetrade estimates.png|thumb|Embarked and disembarked slaves in the [[Atlantic slave trade]] 1525–1863 (first and last slave voyages)]]
+In the American colonies depredation, disease, and slavery quickly reduced the [[Indigenous peoples of the Americas|indigenous American population]] to the extent that the [[Atlantic slave trade]] had to be introduced to replace them&nbsp;— a trade that became norm and an integral part of the colonisation.  Between the 15th century and 1888, when [[Slavery in Brazil|Brazil]] became the last part of America to end slave trade, an estimated ten million Africans were exported as slaves, most of them destined for agricultural labour.  The slave trade was officially abolished in the [[Slavery in the British Isles|British Empire]] and the [[Slavery in the United States|United States]] in 1808, and slavery itself was abolished in the British Empire in 1838 and in the U.S. in 1865 after the [[American Civil War|Civil War]].<ref>{{Harvnb|Lovejoy|1982|loc=Abstract}}</ref><ref>{{Harvnb|Bravo|2007|loc=The Trans-Atlantic Slave Trade, pp. 213–215}}</ref>
+
+From Columbus to the [[Industrial revolution]] Trans-Atlantic trade, including colonialism and slavery, became crucial for Western Europe.  For European countries with a direct access to the Atlantic (including Britain, France, the Netherlands, Portugal, and Spain) 1500–1800 was a period of sustained growth during which these countries grew richer than those in Eastern Europe and Asia.  Colonialism evolved as part of the Trans-Atlantic trade, but this trade also strengthened the position of merchant groups at the expense of monarchs.  Growth was more rapid in non-absolutist countries, such as Britain and the Netherlands, and more limited in [[Absolute monarchy|absolutist monarchies]], such as Portugal, Spain, and France, where profit mostly or exclusively benefited the monarchy and its allies.<ref name="Acem-p546">{{Harvnb|Acemoglu|Johnson|Robinson|2005|loc=Abstract; pp. 546–551}}</ref>
+
+Trans-Atlantic trade also resulted in an increasing [[urbanisation]]: in European countries facing the Atlantic urbanisation grew from 8% in 1300, 10.1% in 1500, to 24.5% in 1850; in other European countries from 10% in 1300, 11.4% in 1500, to 17% in 1850.  Likewise, [[Gross domestic product|GDP]] doubled in Atlantic countries but rose by only 30% in the rest of Europe.  By end of the 17th century the volume of the Trans-Atlantic trade had surpassed that of the Mediterranean trade.<ref name="Acem-p546" />
+
+{{See also|List of notable crossings of the Atlantic Ocean}}
+
+==Economy==
+<!-- [[File:Transatlantic Free Trade Area.svg|thumb|Intended to unite the so-called [[Western World]], the proposed [[Transatlantic Trade and Investment Partnership]], and its possible future expansion, highlights the global importance of trade across the North Atlantic to the exclusion of the continents bordering the South Atlantic.]] -->
+The Atlantic has contributed significantly to the development and economy of surrounding countries. Besides major transatlantic transportation and communication routes, the Atlantic offers abundant [[petroleum]] deposits in the [[sedimentary rock]]s of the continental shelves.<ref name="USN-2001" />
+
+The Atlantic harbours [[petroleum]] and [[gas]] fields, [[fish]], [[marine mammal]]s ([[Pinniped|seals]] and whales), [[sand]] and [[gravel]] aggregates, [[placer deposit]]s, [[polymetallic nodules]], and precious stones.<ref>{{Cite book
+ | last1 = Kubesh | first1 = K.
+ | last2 = McNeil | first2 = N.
+ | last3 = Bellotto | first3 = K.
+ | title = Ocean Habitats
+ | year = 2008 | publisher = In the Hands of a Child
+ | url = https://books.google.com/books?id=hMywzK7xuKYC&pg=PA11 | access-date = 5 December 2016}}</ref>
+Gold deposits are a mile or two under water on the ocean floor, however the deposits are also encased in rock that must be mined through. Currently, there is no cost-effective way to mine or extract gold from the ocean to make a profit.<ref>{{Cite web|url=http://oceanservice.noaa.gov/facts/gold.html|title=Is there gold in the ocean?|last=Administration|first=US Department of Commerce, National Oceanic and Atmospheric|website=oceanservice.noaa.gov|language=EN-US|access-date=2016-03-30}}</ref>
+
+Various international treaties attempt to reduce pollution caused by environmental threats such as oil spills, [[marine debris]], and the [[incineration]] of toxic wastes at sea.<ref name="USN-2001" />
+
+===Fisheries===
+The [[Continental shelf|shelves]] of the Atlantic hosts one of the world's richest [[Wild fisheries|fishing resources]].  The most productive areas include the [[Grand Banks of Newfoundland]], the [[Scotian Shelf]], [[Georges Bank]] off [[Cape Cod]], the [[Bahama Banks]], the waters around Iceland, the [[Irish Sea]], the [[Dogger Bank]] of the North Sea, and the Falkland Banks.<ref name="USN-2001" />
+Fisheries have, however, undergone significant changes since the 1950s and global catches can now be divided into three groups of which only two are observed in the Atlantic: fisheries in the Eastern Central and South-West Atlantic oscillate around a globally stable value, the rest of the Atlantic is in overall decline following historical peaks. The third group, "continuously increasing trend since 1950", is only found in the Indian Ocean and Western Pacific.<ref name="NOA-2016-p39">{{Harvnb|FOA|2016|pp=39–41}}</ref>
+
+[[File:Northeast Atlantic bathymetry.png|thumb|Banks of the North-East Atlantic]]
+In the North-East Atlantic total catches decreased between the mid-1970s and the 1990s and reached 8.7 million tonnes in 2013. [[Blue whiting]] reached a 2.4 million tonnes peak in 2004 but was down to 628,000 tonnes in 2013.  Recovery plans for cod, sole, and plaice have reduced mortality in these species.  [[Arctic cod]] reached its lowest levels in the 1960s-1980s but is now recovered.  [[Pollachius virens|Arctic saithe]] and [[haddock]] are considered fully fished; [[Sand eel]] is overfished as was [[capelin]] which has now recovered to fully fished.  Limited data makes the state of [[redfish]]es and deep-water species difficult to assess but most likely they remain vulnerable to overfishing.  Stocks of [[northern shrimp]] and [[Norwegian lobster]] are in good condition.  In the North-East Atlantic 21% of stocks are considered overfished.<ref name="NOA-2016-p39" />
+
+[[File:StLawrence Gulf bathymetry.jpg|thumb|Banks of the North-West Atlantic]]
+In the North-West Atlantic landings have decreased from 4.2 million tonnes in the early 1970s to 1.9 million tonnes in 2013.  During the 21th century some species have shown weak signs of recovery, including [[Greenland halibut]], [[yellowtail flounder]], [[Atlantic halibut]], [[haddock]], [[spiny dogfish]], while other stocks shown no such signs, including cod, [[Witch (righteye flounder)|witch flounder]], and redfish.  Stocks of invertebrates, in contrast, remain at record levels of abundance.  31% of stocks are overfished in the North-west Atlantic.<ref name="NOA-2016-p39" />
+[[File:Time series for collapse of Atlantic northwest cod.png|thumb|left|Capture of Atlantic north-west cod in million tonnes]]
+In 1497 [[John Cabot]] became the first to explore mainland North America and one of his major discoveries was the abundant resources of [[Atlantic cod]] off Newfoundland.  Referred to as "Newfoundland Currency" this discovery supplied mankind with some 200&nbsp;million tonnes of fish over five centuries.  In the late 19th and early 20th centuries new fisheries started to exploit [[haddock]], [[mackerel]], and [[lobster]].  From the 1950s to the 1970s the introduction of European and Asian distant-water fleets in the area dramatically increased the fishing capacity and number of exploited species.  It also expanded the exploited areas from near-shore to the open sea and to great depths to include deep-water species such as [[Sebastes|redfish]], [[Greenland halibut]], witch flounder, and [[Grenadiers (fish)|grenadiers]].  [[Overfishing]] in the area was recognised as early as the 1960s but, because this was occurring on [[international waters]], it took until the late 1970s before any attempts to regulate was made.  In the early 1990s this finally resulted in the [[collapse of the Atlantic northwest cod fishery]].  The population of a number of deep-sea fishes also collapsed in the process, including [[American plaice]], redfish, and Greenland halibut, together with flounder and grenadier.<ref>{{Harvnb|FAO|2011|pp=22–23}}</ref>
+
+In the Eastern Central Atlantic small [[pelagic fish]]es constitute about 50% of landings with sardine reaching 0.6–1.0 million tonnes per year.  Pelagic fish stocks are considered fully fishes or overfished, with sardines south of [[Cape Bojador]] the notable exception.  Almost half of stocks are fished at biologically unsustainable levels.  Total catches have been fluctuating since the 1970s; reaching 3.9 million tonnes in 2013 or slightly less than the peak production in 2010.<ref name="NOA-2016-p39" />
+
+[[File:Bahamas.A2001138.1550.250m.jpg|thumb|upright|[[Bahama Banks]]]]
+In the Western Central Atlantic catches have been decreasing since 2000 and reached 1.3 million tonnes in 2013.  The most important species in the area, [[Gulf menhaden]], reached a million tonnes in the mid-1980s but only half a million tonnes in 2013 and is now considered fully fished.  [[Round sardinella]] was an important species in the 1990s but is now considered overfished.  [[Grouper]]s and [[Lutjanidae|snappers]] are overfished and [[northern brown shrimp]] and [[Eastern oyster|American cupped oyster]] are considered fully fished approaching overfished.  44% of stocks are being fished at unsustainable levels.<ref name="NOA-2016-p39" />
+
+[[File:Agulhas Bank NOAA ETOPO1.jpg|thumb|left|[[Agulhas Bank]]]]
+In the South-East Atlantic catches have decreased from 3.3 million tonnes in the early 1970s to 1.3 million tonnes in 2013.  [[Horse mackerel]] and [[hake]] are the most important species, together representing almost half of the landings.  Off South Africa and Namibia [[Merluccius paradoxus|deep-water hake]] and [[Merluccius capensis|shallow-water Cape hake]] have recovered to sustainable levels since regulations were introduced in 2006 and the states of [[Southern African pilchard]] and [[Southern African anchovy|anchovy]] have improved to fully fished in 2013.<ref name="NOA-2016-p39" />
+
+In the South-West Atlantic a peak was reached in the mid-1980s and catches now fluctuate between 1.7 and 2.6 million tonnes.  The most important species, the [[Illex argentinus|Argentine shortfin squid]], which reached half a million tonnes in 2013 or half the peak value, is considered fully fished to overfished.  Another important species was the [[Brazilian sardinella]], with a production of 100,000 tonnes in 2013 it is now considered overfished.  Half the stocks in this area are being fished at unsustainable levels: [[Whitehead’s round herring]] has not yet reached fully fished but [[Cunene horse mackerel]] is overfished.  The sea snail [[Haliotis midae|perlemoen abalone]] is targeted by illegal fishing and remain overfished.<ref name="NOA-2016-p39" />
+
+{{See also|Ocean fisheries#Atlantic Ocean|Fishing down the food web}}
+
+==Environmental issues==
+[[File:Nesocichla eremita -Inaccessible Island, British overseas territory-8 (3).jpg|thumb|[[Marine debris]] strewn over the beaches of the South Atlantic [[Inaccessible Island]].]]
+Endangered marine species include the [[manatee]], [[Pinniped|seals]], [[sea lion]]s, [[turtle]]s, and [[whale]]s. [[Drift net]] fishing can kill [[dolphin]]s, [[albatross]]es and other seabirds ([[petrel]]s, [[auk]]s), hastening the fish stock decline and contributing to international disputes.<ref>{{Cite web
+ | last = Eisenbud | first = R.
+ | title = Problems and Prospects for the Pelagic Driftnet
+ | year = 1985 | publisher = Michigan State University, Animal Legal & Historical Center
+ | url = http://www.animallaw.info/articles/arus12bcenvtlafflrev473.htm 
+ | access-date = 27 October 2011}}</ref> Municipal pollution comes from the eastern United States, southern Brazil, and eastern Argentina; [[oil pollution]] in the [[Caribbean Sea]], [[Gulf of Mexico]], [[Lake Maracaibo]], [[Mediterranean Sea]], and [[North Sea]]; and industrial waste and municipal sewage pollution in the Baltic Sea, North Sea, and Mediterranean Sea.
+
+North Atlantic hurricane activity has increased over past decades because of increased sea surface temperature (SST) at tropical latitudes, changes that can be attributed to either the natural [[Atlantic Multidecadal Oscillation]] (AMO) or to [[anthropogenic]] [[climate change]].<ref name="Mann">{{Harvnb|Mann|Emanuel|2006|pp=233–241}}</ref>
+A 2005 report indicated that the Atlantic [[meridional overturning circulation]] (AMOC) slowed down by 30% between 1957 and 2004.<ref>{{Harvnb|Bryden|Longworth|Cunningham|2005|loc=Abstract}}</ref>
+If the AMO was responsible for SST variability then the AMOC would have increased in strength, which is apparently not the case.  Furthermore, it is clear from statistical analyses of annual tropical cyclones that these changes do not display multidecadal cyclicity.<ref name="Mann" />  Therefore, these changes in SST must be caused by human activities.<ref>{{Harvnb|Webster|Holland|Curry|Chang|2005}}</ref>
+
+The ocean [[mixed layer]] plays an important role heat storage over seasonal and decadal time-scales, whereas deeper layers are affected over millennia and has a heat capacity about 50 times that of the mixed layer.  This heat uptake provides a time-lag for climate change but it also results in a thermal expansion of the oceans which contribute to sea-level rise.  21st century global warming will probably result in an [[equilibrium level|equilibrium sea-level]] rise five times greater than today, whilst melting of glaciers, including that of the Greenland ice-sheet, expected to have virtually no effect during the 21st century, will probably result in a sea-level rise of 3–6&nbsp;m over a millennium.<ref>{{Harvnb|Bigg|Jickells|Liss|Osborn|2003|loc=Sea-level change, pp. 1128–1129}}</ref>
+
+On 7 June 2006, Florida's wildlife commission voted to take the manatee off the state's endangered species list. Some environmentalists worry that this could erode safeguards for the popular sea creature.
+
+[[Marine pollution]] is a generic term for the entry into the ocean of potentially hazardous chemicals or particles. The biggest culprits are rivers and with them many agriculture [[fertilizer]] chemicals as well as [[livestock]] and [[human]] waste. The excess of oxygen-depleting chemicals leads to [[Hypoxia (environmental)|hypoxia]] and the creation of a [[dead zone (ecology)|dead zone]].<ref>Sebastian A. Gerlach "Marine Pollution", Springer, Berlin (1975)</ref>
+
+[[Marine debris]], which is also known as marine litter, describes human-created waste floating in a body of water. Oceanic debris tends to accumulate at the centre of [[Oceanic gyres|gyres]] and coastlines, frequently washing aground where it is known as beach litter.
+
+{{See also|Environmental impact of shipping|Shutdown of thermohaline circulation}}
+
+==See also==
+{{Portal|Environment|Ecology|Geography|Weather}}
+* [[List of countries and territories bordering the Atlantic Ocean]]
+* [[Seven Seas]]
+* [[Shutdown of thermohaline circulation|Gulf Stream shutdown]]
+* [[:Category:Shipwrecks in the Atlantic Ocean|Shipwrecks in the Atlantic Ocean]]
+* [[:Category:Atlantic hurricanes|Atlantic hurricanes]]
+* [[Transatlantic crossing]]
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Sources===
+{{Refbegin|30em}}
+* {{Cite journal
+ | last1 = Acemoglu | first1 = D.
+ | last2 = Johnson | first2 = S.
+ | last3 = Robinson | first3 = J.
+ | title = The rise of Europe: Atlantic trade, institutional change and economic growth
+ | year = 2005 | journal = The American Economic Review | volume = 95 | issue = 3 | pages = 546–579
+ | url = http://scholar.harvard.edu/files/jrobinson/files/jr_AERAtlanticTrade.pdf | access-date = 13 November 2016
+ | ref = harv | doi=10.1257/0002828054201305}}<!-- {{Harvnb|Acemoglu|Johnson|Robinson|2005}} -->
+* {{Cite journal
+ | last1 = Als | first1 = T. D.
+ | last2 = Hansen | first2 = M. M.
+ | last3 = Maes | first3 = G. E.
+ | last4 = Castonguay | first4 = M.
+ | last5 = Riemann | first5 = L.
+ | last6 = Aarestrup | first6 = K. I. M.
+ | last7 = Munk | first7 = P.
+ | last8 = Sparholt | first8 = H.
+ | last9 = Hanel | first9 = R.
+ | last10 = Bernatchez | first10 = L.
+ | title = All roads lead to home: panmixia of European eel in the Sargasso Sea
+ | year = 2011 | journal = Molecular Ecology | volume = 20 | issue = 7 | pages = 1333–1346
+ | url = https://www.vliz.be/imisdocs/publications/222141.pdf | access-date = 8 October 2016
+ | doi = 10.1111/j.1365-294X.2011.05011.x | ref = harv}}<!-- {{Harvnb|Als|Hansen|Maes|Castonguay|2011}} -->
+* {{Cite journal
+ | last = Armitage | first = D.
+ | title = The Red Atlantic (Review of)
+ | year = 2001 | journal = Reviews in American History | volume = 29 | issue = 4 | pages = 479–486
+ | url = http://scholar.harvard.edu/armitage/files/30031239.pdf | access-date = 1 October 2016
+ | doi = 10.1353/rah.2001.0060 | jstor = 30031239 | ref = harv}}<!-- {{Harvnb|Armitage|2001}} -->
+* {{Cite book
+ | last1 = Armitage | first1 = D.
+ | last2 = Braddick | first2 = M. J.
+ | chapter = Three Concepts of Atlantic History
+ | title = The British Atlantic World, 1500-1800
+ | year = 2009 | publisher = Palgrave Macmillan
+ | url = http://web-facstaff.sas.upenn.edu/~cavitch/pdf-library/Armitage_ThreeConcepts.pdf | access-date=1 October 2016
+ | isbn = 9781137013415 | ref = harv}}<!-- {{Harvnb|Armitage|Braddick|2009}} -->
+* {{Cite journal
+ | last1 = Avery | first1 = G.
+ | last2 = Halkett | first2 = D.
+ | last3 = Orton | first3 = J.
+ | last4 = Steele | first4 = T.
+ | last5 = Tusenius | first5 = M.
+ | last6 = Klein | first6 = R. | author6-link = Richard Klein (paleoanthropologist)
+ | title = The Ysterfontein 1 Middle Stone Age rock shelter and the evolution of coastal foraging
+ | year = 2008 | publisher = South African Archaeological Society | journal = Goodwin Series | volume = 10 | pages = 66–89
+ | url = https://www.researchgate.net/profile/Richard_Klein5/publication/261903032_The_Ysterfontein_1_Middle_Stone_Age_rock_shelter_and_the_evolution_of_coastal_foraging/links/02e7e53612170459e3000000.pdf | access-date = 26 November 2016
+ | ref = harv}}<!-- {{Harvnb|Avery|Halkett|Orton|Steele|2008}} -->
+* {{Cite journal
+ | last1 = Bailey | first1 = G. N.
+ | last2 = Flemming | first2 = N. C.
+ | title = Archaeology of the continental shelf: marine resources, submerged landscapes and underwater archaeology
+ | year = 2008 | journal = Quaternary Science Reviews | volume = 27 | issue = 23 | pages = 2153–2165
+| url = http://eprints.whiterose.ac.uk/79692/1/Bailey_Flemming_QSR2008.pdf | access-date = 26 November 2016
+ | doi = 10.1016/j.quascirev.2008.08.012 | ref = harv}}<!-- {{Harvnb|Bailey|Flemming|2008}} -->
+* {{Cite journal
+ | last1 = Bigg | first1 = G. R.
+ | last2 = Jickells | first2 = T. D.
+ | last3 = Liss | first3 = P. S.
+ | last4 = Osborn | first4 = T. J.
+ | title = The role of the oceans in climate
+ | year = 2003 | journal = International Journal of Climatology | volume = 23 | issue = 10 | pages = 1127–1159
+ | url = https://www.researchgate.net/profile/Grant_Bigg/publication/227602167_The_role_of_the_oceans_in_climate/links/02bfe50f81a99e7017000000.pdf | access-date = 20 November 2016
+ | ref = harv | doi=10.1002/joc.926}}<!-- {{Harvnb|Bigg|Jickells|Liss|Osborn|2003}} -->
+* {{Cite journal
+ | last = Bjerck | first = H. B.
+ | title = Colonizing seascapes: comparative perspectives on the development of maritime relations in Scandinavia and Patagonia
+ | year = 2009 | journal = Arctic Anthropology | volume = 46 | issue = 1-2 | pages = 118–131
+ | url = http://s3.amazonaws.com/academia.edu.documents/36432851/Bjerck_2009_ColonizingSeascapes_ArctAnth_46_1-2_118.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1477814975&Signature=7OqoGeBM93qqXatpBkgIWVKs5bI%3D&response-content-disposition=inline%3B%20filename%3DColonizing_Seascapes_Comparative_Perspec.pdf | access-date = 30 October 2016
+ | doi = 10.1353/arc.0.0019 | ref = harv}}<!-- {{Harvnb|Bjerck|2009}} -->
+* {{Cite journal
+ | last1 = Blackburn | first1 = T. J.
+ | last2 = Olsen | first2 = P. E.
+ | last3 = Bowring | first3 = S. A.
+ | last4 = McLean | first4 = N. M.
+ | last5 = Kent | first5 = D. V.
+ | last6 = Puffer | first6 = J.
+ | last7 = McHone | first7 = G.
+ | last8 = Rasbury | first8 = T.
+ | last9 = Et-Touhami | first9 = M.
+ | title = Zircon U-Pb geochronology links the end-Triassic extinction with the Central Atlantic Magmatic Province
+ | year = 2013 | journal = Science | volume = 340 | issue = 6135 | pages = 941–945
+ | url = http://users.clas.ufl.edu/prwaylen/GEO2200%20Readings/Readings/Divergent%20boundaries/End-Triassic%20Extinction%20with%20Centreal%20Atlantic%20Magmatic%20Province.pdf | access-date = 23 October 2016
+ | doi = 10.1126/science.1234204 | ref = harv | pmid=23519213}}<!-- {{Harvnb|Blackburn|Olsen|Bowring|McLean|2013}} -->
+* {{Cite journal
+ | last1 = Böning | first1 = C. W.
+ | last2 = Scheinert | first2 = M.
+ | last3 = Dengg | first3 = J.
+ | last4 = Biastoch | first4 = A.
+ | last5 = Funk | first5 = A.
+ | title = Decadal variability of subpolar gyre transport and its reverberation in the North Atlantic overturning
+ | year = 2006 | journal = Geophysical Research Letters | volume = 33 | issue = 21
+ | url = https://www.researchgate.net/profile/C_Boening/publication/228621472_Boening_C_W_Scheinert_M_Dengg_J_Biastoch_A_Funk_A_Decadal_variability_of_subpolar_gyre_transport_and_its_reverberation_in_the_North_Atlantic_overturning_Geophys_Res_Lett_33_L21S01/links/0c96052550e5ea2292000000.pdf | access-date = 15 October 2016
+ | doi = 10.1029/2006GL026906 | ref = harv | bibcode=2006GeoRL..3321S01B}}<!-- {{Harvnb|Böning|Scheinert|Dengg|Biastoch|2006}} -->
+* {{Cite journal
+ | last = Bravo | first = K. E.
+ | title = Exploring the analogy between modern trafficking in humans and the trans-Atlantic slave trade
+ | year = 2007 | journal = Boston University International Law Journal | volume = 25 | issue = 207
+ | url = http://www.bu.edu/law/journals-archive/international/volume25n2/documents/207-296.pdf | access-date = 13 November 2016
+ | ref = harv}}<!-- {{Harvnb|Bravo|2007}} -->
+* {{Cite journal
+ | last1 = Bryden | first1 = H. L.
+ | last2 = Longworth | first2 = H. R.
+ | last3 = Cunningham | first3 = S. A.
+ | title = Slowing of the Atlantic meridional overturning circulation at 25 N
+ | year = 2005 | journal = Nature | volume = 438 | issue = 7068 | pages = 655–657
+ | url = http://www.blc.arizona.edu/courses/schaffer/182h/Climate/AtlanticOverturning.pdf | access-date = 13 November 2016
+ | doi = 10.1038/nature04385 | ref = harv | pmid=16319889}}<!-- {{Harvnb|Bryden|Longworth|Cunningham|2005}} -->
+* {{Cite journal
+ | last1 = Bullard | first1 = E.
+ | last2 = Everett | first2 = J. E.
+ | last3 = Smith | first3 = A. G.
+ | title = The fit of the continents around the Atlantic
+ | year = 1965 | journal = Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences | volume = 258 | issue = 1088 | pages = 41–51
+ | url = http://earthguide.ucsd.edu/eoc/eoc_teachers_hs_earth/content_tectonics/pdf/Bullard_fit.pdf | access-date = 23 October 2016
+ | ref = harv | doi=10.1098/rsta.1965.0020}}<!-- {{Harvnb|Bullard|Everett|Smith|1965}} -->
+* {{Cite journal
+ | last = Chambliss | first = W. J. | author-link = William Chambliss
+ | title = State-organized crime
+ | year = 1989 | journal = Criminology | volume = 27 | issue = 2 | pages = 183–208
+ | url = http://ww.w.jthomasniu.org/class/781/Assigs/chambliss-stateorgcrime.pdf | access-date = 12 November 2016
+ | ref = harv | doi=10.1111/j.1745-9125.1989.tb01028.x}}<!-- {{Harvnb|Chambliss|1989}} -->
+* {{Cite web
+ | title = Atlantic Ocean | publisher = CIA World Factbook | date = 27 June 2016
+ | url = https://www.cia.gov/library/publications/resources/the-world-factbook/geos/zh.html | access-date = 2 October 2016
+ | ref = {{Harvid|CIA World Factbook: Atlantic Ocean}}}}<!-- {{Harvnb|CIA World Factbook: Atlantic Ocean}} -->
+* {{Cite web
+ | title = Pacific Ocean | publisher = CIA World Factbook | date = 1 June 2016
+ | url = https://www.cia.gov/library/publications/resources/the-world-factbook/geos/zn.html | access-date = 2 October 2016
+ | ref = {{Harvid|CIA World Factbook: Pacific Ocean}}}}<!-- {{Harvnb|CIA World Factbook: Pacific Ocean}} -->
+* {{Cite journal
+ | last1 = DeMets | first1 = C.
+ | last2 = Gordon | first2 = R. G.
+ | last3 = Argus | first3 = D. F.
+ | title = Geologically current plate motions
+ | year = 2010 | journal = Geophysical Journal International | volume = 181 | issue = 1 | pages = 1–80
+ | url = http://gji.oxfordjournals.org/content/181/1/1.full.pdf+html | format = PDF | access-date = 19 October 2016
+ | doi = 10.1111/j.1365-246X.2009.04491.x | ref = harv| doi-access = free}}<!-- {{Harvnb|DeMets|Gordon|Argus|2010}} -->
+* {{Cite journal
+ | last1 = Duarte | first1 = J. C.
+ | last2 = Rosas | first2 = F. M.
+ | last3 = Terrinha | first3 = P.
+ | last4 = Schellart | first4 = W. P.
+ | last5 = Boutelier | first5 = D.
+ | last6 = Gutscher | first6 = M. A.
+ | last7 = Ribeiro | first7 = A.
+ | title = Are subduction zones invading the Atlantic? Evidence from the southwest Iberia margin
+ | year = 2013 | journal = Geology | volume = 41 | issue = 8 | pages = 839–842
+ | url = https://www.researchgate.net/profile/Joao_Duarte9/publication/237145222_Are_subduction_zones_invading_the_Atlantic_Evidence_from_the_southwest_Iberia_margin/links/00b4953262121edb89000000.pdf
+ | doi = 10.1130/G34100 | ref = harv}}<!-- {{Harvnb|Duarte|Rosas|Terrinha|Schellart|2013}} -->
+* {{Cite journal
+ | last1 = Dugmore | first1 = A. J.
+ | last2 = Keller | first2 = C.
+ | last3 = McGovern | first3 = T. H.
+ | title = Norse Greenland settlement: reflections on climate change, trade, and the contrasting fates of human settlements in the North Atlantic islands
+ | year = 2007 | journal = Arctic anthropology | volume = 44 | issue = 1 | pages = 12–36
+ | url = http://www.nabohome.org/meetings/glthec/materials/keller/ArcticAnthro401-02-2.pdf | access-date = 7 November 2016
+ | doi = 10.1353/arc.2011.0038 | ref = harv}}<!-- {{Harvnb|Dugmore|Keller|McGovern|2007}} -->
+* {{Cite journal
+ | last = Eagles | first = G.
+ | title = New angles on South Atlantic opening
+ | year = 2007 | journal = Geophysical Journal International | volume = 168 | issue = 1 | pages = 353–361
+ | url = http://gji.oxfordjournals.org/content/168/1/353.full.pdf+html | format = PDF | access-date = 23 October 2016
+ | doi = 10.1111/j.1365-246X.2006.03206.x | ref = harv| doi-access = free}}<!-- {{Harvnb|Eagles|2007}} -->
+* {{Cite web
+ | last1 = Eakins | first1 = B. W.
+ | last2 = Sharman | first2 =  G. F.
+ | title = Volumes of the World's Oceans from ETOPO1
+ | year = 2010 | publisher = NOAA National Geophysical Data Center | location = Boulder, CO
+ | url = http://www.ngdc.noaa.gov/mgg/global/etopo1_ocean_volumes.html | access-date = 1 October 2016
+ | ref = harv}}<!-- {{Harvnb|Eakins|Sharman|2010}} -->
+* {{Cite journal
+ | last1 = Emery | first1 = W. J.
+ | last2 = Meincke | first2 = J.
+ | title = Global water masses-summary and review
+ | year = 1986 | journal = Oceanologica Acta | volume = 9 | issue = 4 | pages = 383–391 (PDF pages scrambled)
+ | url = http://archimer.ifremer.fr/doc/00110/22090/19731.pdf | access-date = 16 October 2016
+ | ref = harv}}<!-- {{Harvnb|Emery|Meincke|1986}} -->
+* {{Cite report
+ | publisher = Food and Agriculture Organization of the United Nations (FOA)
+ | title = The State of World Fisheries and Aquaculture
+ | year = 2016 | location = Rome
+ | url = http://www.fao.org/3/a-i5555e.pdf | access-date = 3 December 2016
+ | isbn = 978-92-5-109185-2 | ref = {{Harvid|FOA|2016}}}}<!-- {{Harvnb|FOA|2016}} -->
+* {{Cite web
+ | title = Mid-Atlantic Ridge | publisher = The Geological Society
+ | url = https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Mid-Atlantic-Ridge | access-date = 2 October 2016
+ | ref = {{Harvid|The Geological Society: Mid-Atlantic Ridge}}}}<!-- {{Harvnb|The Geological Society: Mid-Atlantic Ridge}} -->
+* {{Cite journal
+ | last1 = Greenberg | first = J. H.
+ | last2 = Turner | first2 = C. G.
+ | last3 = Zegura | first3 = S. L. 
+ | title = The settlement of the Americas: A comparison of the linguistic, dental and genetic evidence
+ | year = 1986 | journal = Current Anthropology | volume = 27 | issue = 5 | pages = 477–497
+ | jstor = 2742857 | ref = harv | doi=10.1086/203472}}<!-- {{Harvnb|Greenberg|Turner|Zegura|1986}} -->
+* {{Cite journal
+ | last1 = Gordon | first1 = A. L.
+ | last2 = Bosley | first2 = K. T.
+ | title = Cyclonic gyre in the tropical South Atlantic
+ | year = 1991 | journal = Deep Sea Research Part A. Oceanographic Research Papers | volume = 38 | pages = S323-S343
+ | url = http://www.ldeo.columbia.edu/~agordon/publications/Gordon_Bosley_SAtl_cyclonic_DSR1991.pdf | access-date = 15 October 2016
+ | doi = 10.1016/S0198-0149(12)80015-X | ref = harv}}<!-- {{Harvnb|Gordon|Bosley|1991}} -->
+* {{Cite journal
+ | last1 = Henshilwood | first1 = C. S.
+ | last2 = d'Errico | first2 = F.
+ | last3 = Yates | first3 = R.
+ | last4 = Jacobs | first4 = Z.
+ | last5 = Tribolo | first5 = C.
+ | last6 = Duller | first6 = G. A.
+ | last7 = Mercier | first7 = N.
+ | last8 = Sealy | first8 = J. C.
+ | last9 = Valladas | first9 = H.
+ | last10 = Watts | first10 = I.
+ | last11 = Wintle | first11 = A. G.
+ | title = Emergence of modern human behavior: Middle Stone Age engravings from South Africa
+ | year = 2002 | journal = Science | volume = 295 | issue = 5558 | pages = 1278–1280
+ | url = http://in-africa.org/wp-content/uploads/2012/12/Henshilwood-et-al-2002-Science-Blombos-engraving.pdf | access-date = 6 November 2016
+ | doi = 10.1126/science.1067575 | ref = harv | pmid=11786608}}<!-- {{Harvnb|Henshilwood|d'Errico|Yates|Jacobs|2002}} -->
+* {{Cite web
+ | last = Herodotus
+ | title = Perseus Under Philologic: Hdt. 1.202.4 | publisher = University of Chicago
+ | url = https://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Hdt.%201.202.4 | access-date = 1 October 2016
+ | ref = {{Harvid|Hdt. 1.202.4}}}}<!-- {{Harvnb|Hdt. 1.202.4}} -->
+* {{Cite journal
+ | title = Limits of Oceans and Seas
+ | year = 1953 | publisher = International Hydrographic Organization | journal = Special Publication | volume = 23
+ | url = https://www.iho.int/iho_pubs/standard/S-23/S-23_Ed3_1953_EN.pdf | access-date = 2 October 2016
+ | ref = {{Harvid|IHO|1953}}}} [https://www.iho.int/iho_pubs/standard/S-23/S23_Ed3_Sheet_1_Small.jpg map]<!-- {{Harvnb|IHO|1953}} -->
+* {{Cite book
+ | last1 = Janni | first1 = P.
+ | chapter = The Sea of the Greeks and Romans
+ | title = Brill's Companion to Ancient Geography: The Inhabited World in Greek and Roman Tradition
+ | editor1-last = Bianchetti | editor1-first = S.
+ | editor2-last = Cataudella | editor2-first = M.
+ | editor3-last = Gehrke | editor3-first = H.-J.
+ | year = 2015 | publisher = Brill
+ | url = https://books.google.com/books?id=to8DCwAAQBAJ&pg=PA27 | access-date = 1 October 2016
+ | doi = 10.1163/9789004284715_003 | isbn = 9789004284715 | ref = harv}}<!-- {{Harvnb|Janni|2015}} -->
+* {{Cite journal
+ | last1 = Jerzmańska | first1 = A.
+ | last2 = Kotlarczyk | first2 = J.
+ | title = The beginnings of the Sargasso assemblage in the Tethys?
+ | year = 1976 | journal = Palaeogeography, Palaeoclimatology, Palaeoecology | volume = 20 | issue = 4 | pages = 297–306
+ | url = https://eurekamag.com/pdf.php?pdf=006605457 | format = PDF | access-date = 9 October 2016
+ | doi = 10.1016/0031-0182(76)90009-2 | ref = harv}}<!-- {{Harvnb|Jerzmańska|Kotlarczyk|1976}} -->
+* {{Cite report
+ | last = Kulka | first = D.
+ | chapter = B1. Northwest Atlantic
+ | title = Review of the state of world marine fishery resources
+ | year = 2011 | journal = FAO Fisheries and Aquaculture Technical Paper | volume = 569 | location = Rome | publisher = Food and Agriculture Organization of the United Nations (FAO) | pages = 334 pp.
+ | url = http://www.fao.org/docrep/015/i2389e/i2389e.pdf | access-date = 27 November 2016
+ | isbn = 978-92-5-107023-9 | ref = {{Harvid|FAO|2011}}}}<!-- {{Harvnb|FAO|2011}} -->
+* {{Cite journal
+ | last = Lessios | first = H. A.
+ | title = The great American schism: divergence of marine organisms after the rise of the Central American Isthmus
+ | year = 2008 | journal = Annual Review of Ecology, Evolution, and Systematics | volume = 39 | pages = 63–91
+ | url = http://stri.si.edu/sites/publications/PDFs/Lessios_2008_Ann_Rev_63-91.pdf | access-date = 20 November 2016
+ | doi = 10.1146/annurev.ecolsys.38.091206.095815 | ref = harv}}<!-- {{Harvnb|Lessios|2008}} -->
+* {{Cite book
+ | last1 = Levin | first1 = L. A.
+ | last2 = Gooday | first2 = A. J.
+ | chapter = The Deep Atlantic Ocean | pages = 111–178
+ | title = Ecosystems of the World
+ | editor1-last = Tyler | editor1-first = P.A.
+ | year = 2003 | publisher = Elsevier | location = Amsterdam, The Netherlands
+ | series = Ecosystems of the deep oceans | volume = 28
+ | chapter-url = http://levin.ucsd.edu/publications/Atlantic%20ch05.pdf | access-date = 8 October 2016
+ | isbn = 044482619X | ref = harv}}<!-- {{Harvnb|Levin|Gooday|2003}} -->
+* {{Cite journal
+ | last1 = Livermore | first1 = R.
+ | last2 = Nankivell | first2 = A.
+ | last3 = Eagles | first3 = G.
+ | last4 = Morris | first4 = P.
+ | title = Paleogene opening of Drake passage
+ | year = 2005 | journal = Earth and Planetary Science Letters | volume = 236 | issue = 1 | pages = 459–470
+ | url = http://epic.awi.de/12111/1/Liv2005a.pdf | access-date = 20 November 2016
+ | doi = 10.1016/j.epsl.2005.03.027 | ref = harv | bibcode=2005E&PSL.236..459L}}<!-- {{Harvnb|Livermore|Nankivell|Eagles|Morris|2005}} -->
+* {{Cite journal
+ | last1 = Lovejoy | first = P. E.
+ | title = The volume of the Atlantic slave trade: A synthesis
+ | year = 1982 | journal = The Journal of African History | volume = 23 | issue = 4 | pages = 473–501
+ | doi = 10.1017/S0021853700021319 | ref = harv}}<!-- {{Harvnb|Lovejoy|1982}} -->
+* {{Cite book
+ | last = Lüning | first = K.
+ | chapter = Sargasso Sea | pages = 222–225
+ | title = Seaweeds: Their Environment, Biogeography, and Ecophysiology
+ | editor1-last = Yarish | editor1-first = C.
+ | editor2-last = Kirkman | editor2-first = H.
+ | year = 1990 | publisher = John Wiley & Sons
+ | url = https://books.google.com/books?id=YNrSdP9ei40C&pg=PA223 | access-date = 9 October 2016
+ | isbn = 9780471624349 | ref = harv}}<!-- {{Harvnb|Lüning|1990}} -->
+* {{Cite journal
+ | last1 = Mann | first1 = M. E.
+ | last2 = Emanuel | first2 = K. A.
+ | title = Atlantic hurricane trends linked to climate change
+ | year = 2006 | journal = Eos, Transactions American Geophysical Union | volume = 87 | issue = 24 | pages = 233–241
+ | url = http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.4349&rep=rep1&type=pdf | format = PDF | access-date = 13 November 2016
+ | ref = harv | doi=10.1029/2006eo240001 | bibcode=2006EOSTr..87..233M}}<!-- {{Harvnb|Mann|Emanuel|2006}} -->
+* {{Cite journal
+ | last1 = Marchal | first1 = O.
+ | last2 = Waelbroeck | first2 = C.
+ | last3 = Colin de Verdière | first3 = A.
+ | title = On the Movements of the North Atlantic Subpolar Front in the Preinstrumental Past
+ | year = 2016 | journal = Journal of Climate | volume = 29 | issue = 4 | pages = 1545–1571
+ | url = https://darchive.mblwhoilibrary.org/bitstream/handle/1912/7903/jcli-d-15-0509%252E1.pdf?sequence=1&isAllowed=y | format = PDF | access-date = 15 October 2016
+ | doi = 10.1175/JCLI-D-15-0509.1 | ref = harv}}<!-- {{Harvnb|Marchal|Waelbroeck|Colin de Verdière|2016}} -->
+* {{Cite book
+ | last = Marean | first = C. W. | authorlink = Curtis Marean
+ | chapter = Coastal South Africa and the Coevolution of the Modern Human Lineage and the Coastal Adaptation | pages = 421–440
+ | editor1-last = Bicho | editor1-first = N. F.
+ | editor2-last = Haws | editor2-first = J. A.
+ | editor3-last = Davis | editor3-first = L. G.
+ | title = Trekking the Shore: Changing Coastlines and the Antiquity of Coastal Settlement
+ | year = 2011 | series = Interdisciplinary Contributions to Archaeology | publisher = Springer
+ | chapter-url = http://tuvalu.santafe.edu/~bowles/Coastal.pdf | accessdate = 5 November 2016
+ | isbn = 978-1-4419-8219-3 | ref = harv}}<!-- {{Harvnb|Marean|2011}} -->
+* {{Cite book
+ | last1 = Marean | first1 = C. W.
+ | last2 = Cawthra | first2 = H. C.
+ | last3 = Cowling | first3 = R. M.
+ | last4 = Esler | first4 = K. J.
+ | last5 = Fisher | first5 = E.
+ | last6 = Milewski | first6 = A.
+ | last7 = Potts | first7 = A. J.
+ | last8 = Singels | first8 = E.
+ | last9 = De Vynck | first9 = J.
+ | chapter = Stone age people in a changing South African greater Cape Floristic Region
+ | title = Fynbos: Ecology, Evolution, and Conservation of a Megadiverse Region, 164
+ | editor1-last = Allsopp | editor1-first = N.
+ | editor2-last = Colville | editor2-first = J. F.
+ | editor3-last = Verboom | editor3-first = G. A.
+ | year = 2014 | publisher = Oxford University Press
+ | chapter-url = https://www.researchgate.net/profile/Richard_Cowling/publication/285273001_Stone_Age_People_in_a_Changing_South_African_Greater_Cape_Floristic_Region/links/56ec0b9408aee4707a384e08.pdf | access-date = 5 November 2016
+ | isbn = 9780199679584 | ref = harv}}<!-- {{Harvnb|Marean|Cawthra|Cowling|Esler|2014}} -->
+* {{Cite journal
+ | last1 = Marsh | first1 = R.
+ | last2 = Hazeleger | first2 = W.
+ | last3 = Yool | first3 = A.
+ | last4 = Rohling | first4 = E. J.
+ | title = Stability of the thermohaline circulation under millennial CO2 forcing and two alternative controls on Atlantic salinity
+ | year = 2007 | journal = Geophysical Research Letters | volume = 34 | issue = 3
+ | url = http://www.personal.soton.ac.uk/ejr/Rohling-papers/2007-Marsh%20et%20al%20Stability%20of%20THC_GRL.pdf | access-date = 16 October 2016
+ | doi = 10.1029/2006GL027815 | ref = harv | bibcode=2007GeoRL..34.3605M}}<!-- {{Harvnb|Marsh|Hazeleger|Yool|Rohling|2007}} -->
+* {{Cite journal
+ | last = Martin | first = P. S. | author-link = Paul S. Martin
+ | title = The Discovery of America: The first Americans may have swept the Western Hemisphere and decimated its fauna within 1000 years
+ | year = 1973 | journal = Science | volume = 179 | issue = 4077 | pages = 969–974
+ | url = http://www.esf.edu/efb/lomolino/courses/MammalDiversity/Disc1/All1.pdf | access-date = 6 November 2016
+ | doi = 10.1126/science.179.4077.969 | ref = harv | pmid=17842155}}<!-- {{Harvnb|Martin|1973}} -->
+* {{Cite journal
+ | last1 = Marzoli | first1 = A.
+ | last2 = Renne | first2 = P. R.
+ | last3 = Piccirillo | first3 = E. M.
+ | last4 = Ernesto | first4 = M.
+ | last5 = Bellieni | first5 = G.
+ | last6 = De Min | first6 = A.
+ | title = Extensive 200-million-year-old continental flood basalts of the Central Atlantic Magmatic Province
+ | year = 1999 | journal = Science | volume = 284 | issue = 5414 | pages = 616–618
+ | url = https://www.researchgate.net/profile/Angelo_De_Min/publication/13084044_Extensive_200-million-year-old_continental_flood_basalts_of_the_Central_Atlantic_Magmatic_Province/links/00b49522fa7832dae0000000.pdf | access-date = 23 October 2016
+ | doi = 10.1126/science.284.5414.616 | ref = harv}}<!-- {{Harvnb|Marzoli|Renne|Piccirillo|Ernesto|1999}} -->
+* {{Cite journal
+ | last = Mellars | first = P.
+ | title = Why did modern human populations disperse from Africa ca. 60,000 years ago? A new model
+ | year = 2006 | journal = Proceedings of the National Academy of Sciences | volume = 103 | issue = 25 | pages = 9381–9386
+ | url = http://www.pnas.org/content/103/25/9381.full.pdf | access-date = 6 November 2016
+ | ref = harv | doi=10.1073/pnas.0510792103}}<!-- {{Harvnb|Mellars|2006}} -->
+* {{Cite web
+ | title = History of NOAA Ocean Exploration: Timeline
+ | year = 2013 | publisher = NOAA
+ | url = http://oceanexplorer.noaa.gov/history/timeline/timeline.html | access-date = 21 October 2016
+ | ref = {{harvid|NOAA: Timeline}}}}<!-- {{Harvnb|NOAA: Timeline}} -->
+* {{Cite web
+ | title = How big is the Atlantic Ocean? | publisher = NOAA | date = 15 May 2014
+ | url = http://oceanservice.noaa.gov/facts/atlantic.html | access-date = 1 October 2016
+ | ref = {{harvid|NOAA: How big is the Atlantic Ocean?}}}}<!-- {{Harvnb|NOAA: How big is the Atlantic Ocean?}} -->
+* {{Cite journal
+ | last1 = O'Rourke | first1 = D. H.
+ | last2 = Raff | first2 = J. A.
+ | title = The human genetic history of the Americas: the final frontier
+ | year = 2010 | journal = Current Biology | volume = 20 | issue = 4 | pages = R202-R207
+ | url = https://www.researchgate.net/profile/Jennifer_Raff/publication/41547847_The_human_genetic_history_of_the_Americas_the_final_frontier/links/0f3175303d8a767309000000.pdf | access-date = 30 October 2016
+ | doi = 10.1016/j.cub.2009.11.051 | ref = harv | pmid=20178768}}<!-- {{Harvnb|O'Rourke|Raff|2010}} -->
+* {{Cite journal
+ | last1 = Patterson | first1 = W. P.
+ | last2 = Dietrich | first2 = K. A.
+ | last3 = Holmden | first3 = C.
+ | last4 = Andrews | first4 = J. T.
+ | title = Two millennia of North Atlantic seasonality and implications for Norse colonies
+ | year = 2010 | journal = Proceedings of the National Academy of Sciences | volume = 107 | issue = 12 | pages = 5306–5310
+ | url = http://www.pnas.org/content/107/12/5306.full.pdf | access-date = 12 November 2016
+ | doi = 10.1073/pnas.0902522107 | ref = harv | pmid=20212157 | pmc=2851789}}<!-- {{Harvnb|Patterson|Dietrich|Holmden|Andrews|2010}} -->
+* {{Cite book
+ | last = Riede | first = F.
+ | chapter = The resettlement of northern Europe
+ | editor1-last = Cummings | editor1-first = V.
+ | editor2-last = Jordan | editor2-first = P.
+ | editor3-last = Zvelebil | editor3-first = M.
+ | title = Oxford Handbook of the Archaeology and Anthropology of Hunter-Gatherers
+ | year = 2014 | publisher = Oxford University Press | location = Oxford
+ | url = https://www.researchgate.net/profile/Felix_Riede/publication/261949548_The_resettlement_of_northern_Europe/links/53e0c7420cf24f90ff60b3a9.pdf | access-date = 30 October 2016
+ | doi = 10.1093/oxfordhb/9780199551224.013.059 | ref = harv}}<!-- {{Harvnb|Riede|2014}} -->
+* {{Cite book
+ | last1 = Ripley | first1 = G.
+ | last2 = Anderson Dana | first2 = C.
+ | title = The American cyclopaedia: a popular dictionary of general knowledge
+ | year = 1873 | publisher = Appleton | pages = 69–
+ | url = https://books.google.com/books?id=ROQXAQAAIAAJ&pg=PA69 | access-date = 15 April 2011
+ | ref = harv}}<!-- {{Harvnb|Ripley|Anderson Dana|1873}} -->
+* {{Cite journal
+ | last1 = Seton | first1 = M.
+ | last2 = Müller | first2 = R. D.
+ | last3 = Zahirovic | first3 = S.
+ | last4 = Gaina | first4 = C.
+ | last5 = Torsvik | first5 = T.
+ | last6 = Shephard | first6 = G.
+ | last7 = Talsma | first7 = A.
+ | last8 = Gurnis | first8 = M.
+ | last9 = Maus | first9 = S.
+ | last10 = Chandler | first10 = M.
+ | title = Global continental and ocean basin reconstructions since 200Ma
+ | year = 2012 | journal = Earth-Science Reviews | volume = 113 | issue = 3 | pages = 212–270
+ | url = https://www.researchgate.net/profile/Dietmar_Mueller/publication/235762480_Global_continental_and_ocean_basin_reconstructions_since_200Ma/links/0fcfd513b0ba48d492000000.pdf | access-date = 23 October 2016
+ | doi = 10.1016/j.earscirev.2012.03.002 | ref = harv}}<!-- {{Harvnb|Seton|Müller|Zahirovic|Gaina|2012}} -->
+* {{Cite journal
+ | last1 = Smethie | first1 = W. M.
+ | last2 = Fine | first2 = R. A.
+ | last3 = Putzka | first3 = A.
+ | last4 = Jones | first4 = E. P.
+ | title = Tracing the flow of North Atlantic Deep Water using chlorofluorocarbons
+ | year = 2000 | journal = Journal of Geophysical Research: Oceans | volume = 105 | issue = C6 | pages = 14297–14323
+ | url = http://yyy.rsmas.miami.edu/groups/cfc/pubs/1999JC900274%5B1%5D.pdf | access-date = 16 October 2016
+ | doi = 10.1029/1999JC900274 | ref = harv | bibcode=2000JGR...10514297S}}<!-- {{Harvnb|Smethie|Fine|Putzka|Jones|2000}} -->
+* {{Cite journal
+ | last1 = Stramma | first1 = L.
+ | last2 = England | first2 = M.
+ | title = On the water masses and mean circulation of the South Atlantic Ocean
+ | year = 1999 | journal = Journal of Geophysical Research | volume = 104 | issue = C9 | pages = 20863–20883
+ | url = http://www.ccpo.odu.edu/~klinck/Reprints/PDF/strammaJGR99.pdf | access-date = 15 October 2016
+ | doi = 10.1029/1999JC900139 | ref = harv | bibcode=1999JGR...10420863S}}<!-- {{Harvnb|Stramma|England|1999}} -->
+* {{Cite web
+ | last = Thomas | first = S.
+ | title = How the oceans got their names | publisher = Oxford Dictionaries | date = 8 June 2015 
+ | url = http://blog.oxforddictionaries.com/2015/06/water-water-everywhere-ocean-names/ | access-date = 1 October 2016
+ | ref = {{Harvid|Oxford Dictionaries|2015}}}}<!-- {{Harvnb|Oxford Dictionaries|2015}} -->
+* {{Cite book
+ | last = Thomson | first = W. | author-link = Charles Wyville Thomson
+ | title = The Voyage of the 'Challenger.' The Atlantic: A Preliminary Account of the General Results of the Exploring Voyage of H. M. S. 'Challenger' During the Year 1873 and the Early Part of the Year 1876
+ | year = 1877 | publisher = Macmillan | location = London
+ | url = http://docs.lib.noaa.gov/rescue/oceanheritage/Q115C591877v2.pdf | format = PDF, 384&nbsp;MB | access-date = 21 October 2016
+ | ref = harv}}<!-- {{Harvnb|Thomson|1877}} -->
+* {{Cite journal
+ | last1 = Torsvik | first1 = T. H.
+ | last2 = Rousse | first2 = S.
+ | last3 = Labails | first3 = C.
+ | last4 = Smethurst | first4 = M. A.
+ | title = A new scheme for the opening of the South Atlantic Ocean and the dissection of an Aptian salt basin
+ | year = 2009 | journal = Geophysical Journal International | volume = 177 | issue = 3 | pages = 1315–1333
+ | url = http://gji.oxfordjournals.org/content/177/3/1315.full.pdf+html | format = PDF | access-date = 23 October 2016
+ | doi = 10.1111/j.1365-246X.2009.04137.x | ref = harv| doi-access = free}}<!-- {{Harvnb|Torsvik|Rousse|Labails|Smethurst|2009}} -->
+* {{Cite journal
+ | last1 = Tréguier | first1 = A. M.
+ | last2 = Theetten | first2 = S.
+ | last3 = Chassignet | first3 = E. P.
+ | last4 = Penduff | first4 = T.
+ | last5 = Smith | first5 = R.
+ | last6 = Talley | first6 = L.
+ | last7 = Beismann | first7 = J. O.
+ | last8 = Böning | first8 = C.
+ | title =  The North Atlantic subpolar gyre in four high-resolution models
+ | year = 2005 | journal = Journal of Physical Oceanography | volume = 35 | issue = 5 | pages = 757–774
+ | url = http://journals.ametsoc.org/doi/pdf/10.1175/JPO2720.1 | format = PDF | access-date = 15 October 2016
+ | doi = 10.1175/JPO2720.1 | ref = harv| doi-access = free}}<!-- {{Harvnb|Tréguier|Theetten|Chassignet|Penduff|2005}} -->
+* {{Cite web
+ | title = Mapping of the Puerto Rico Trench, the Deepest Part of the Atlantic, is Nearing Completion | publisher = USGS
+ | url = http://soundwaves.usgs.gov/2003/10/fieldwork.html | access-date = 1 October 2016 | date = October 2003
+ | ref = {{Harvid|USGS: Mapping Puerto Rico Trench}}}}<!-- {{Harvnb|USGS: Mapping Puerto Rico Trench}} -->
+* {{Cite web
+ | title = Atlantic Ocean Facts | publisher = U.S. Navy
+ | url = http://oceanographer.navy.mil/atlantic.html | access-date = 12 November 2001
+ | archive-url = https://web.archive.org/web/20010302140751/http://oceanographer.navy.mil/atlantic.html | archive-date = 2 March 2001
+ | ref = {{Harvid|U.S. Navy|2001}}}}<!-- {{Harvnb|U.S. Navy|2001}} -->
+* {{Cite book
+ | last = Weaver | first = D.
+ | title = The Red Atlantic: American Indigenes and the Making of the Modern World, 1000-1927
+ | year = 2001 | journal = Reviews in American History | volume = 29 | issue = 4 | pages = 479–486
+ | url = http://uncpress.unc.edu/books/11603.html | access-date = 1 October 2016}}<!-- {{Harvnb|Weaver|2001}} -->
+* {{Cite journal
+ | last1 = Webster | first1 = P. J.
+ | last2 = Holland | first2 = G. J.
+ | last3 = Curry | first3 = J. A.
+ | last4 = Chang | first4 = H. R.
+ | title = Changes in tropical cyclone number, duration, and intensity in a warming environment
+ | year = 2005 | journal = Science | volume = 309 | issue = 5742 | pages = 1844–1846
+ | url = http://www.cegn.org/email/documents/1844.pdf | access-date = 13 November 2016
+ | doi = 10.1126/science.1116448 | ref = harv | pmid=16166514}}<!-- {{Harvnb|Webster|Holland|Curry|Chang|2005}} -->
+* {{Cite web
+ | title = The Mid-Atlantic Ridge | publisher = UNESCO World Heritage Centre | date = 2007-2008
+ | url = http://whc.unesco.org/en/activities/504/ | access-date = 2 October 2016
+ | ref = {{Harvid|World Heritage Centre: Mid-Atlantic Ridge}}}}<!-- {{Harvnb|World Heritage Centre: Mid-Atlantic Ridge}} -->
+{{Refend}}
+
+==Further reading==
+* {{Cite book
+ | last = Winchester | first = Simon | authorlink = Simon Winchester
+ | title = Atlantic: A Vast Ocean of a Million Stories
+ | year = 2010 | publisher = HarperCollins UK
+ | isbn = 978-0-00-734137-5}}
+
+==External links==
+{{Sister project links|voy=Atlantic Ocean|wikt=Atlantic Ocean|commons=Atlantic Ocean|q=no|v=no|n=no|s=CIA World Fact Book, 2004/Atlantic Ocean|b=no}}
+* [https://web.archive.org/web/20090829012101/http://www.cartage.org.lb:80/en/themes/geoghist/histories/history/hiscountries/A/atlanticocean.html Atlantic Ocean]
+* [http://www.wdl.org/en/item/10081 "Map of Atlantic Coast of North America from the Chesapeake Bay to Florida"] from 1639 via the [[World Digital Library]]
+
+{{List of seas}}
+{{Ocean}}
+{{Regions of the world}}
+
+{{Authority control}}
+
+[[Category:Atlantic Ocean| ]]
+[[Category:Oceans]]
+[[Category:History of the Atlantic Ocean| ]]
+[[Category:Landforms of the Atlantic Ocean| ]]
+[[Category:Articles containing video clips]]

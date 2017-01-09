@@ -1,0 +1,200 @@
+Afonso_I_of_Portugal.txt	{{redirect|Afonso I|the African ruler|Afonso I of Kongo}}
+{{Use dmy dates|date=July 2012}}
+
+{{Infobox royalty
+| name            = Afonso I
+| image           = D. Afonso Henriques - Compendio de crónicas de reyes (Biblioteca Nacional de España).png
+| caption         = <center> King Afonso in ''Compendio de crónicas de reyes del Antiguo Testamento, gentiles, cónsules y emperadores romanos, reyes godos y de los reinos de Castilla, Aragón, Navarra y Portugal'' ({{circa|1312}}–1325)</center>
+| succession      = [[List of Portuguese monarchs|King of Portugal]]
+| reign           = {{nowrap|26 July 1139{{snd}}6 December 1185}}
+| coronation      = 26 July 1139
+| cor-type        = Acclamation
+| successor       = [[Sancho I of Portugal|Sancho I]]
+| birth_date      = 25 July 1109
+| birth_place     = Guimarães, Portugal
+| death_date      = 6 December 1185 (aged 76)
+| death_place     = [[Coimbra]], [[Kingdom of Portugal]]
+| spouse          = [[Mafalda of Savoy, Queen of Portugal|Mafalda of Savoy]]
+| issue           = [[Urraca of Portugal|Urraca, Queen of León]] <br> [[Sancho I of Portugal|Sancho I]] <br> [[Theresa of Portugal, Countess of Flanders|Theresa, Countess of Flanders]]
+| issue-link      = #Descendants
+| issue-pipe      = among others ...
+| house           = [[Portuguese House of Burgundy|Burgundy]]
+| father          = [[Henry, Count of Portugal]]
+| mother          = [[Teresa of León, Countess of Portugal]]
+| religion        = [[Catholic Church|Roman Catholic]]
+| type            = monarch
+|succession2      = [[County of Portugal|Count of Portugal]]
+| reign2          = 12 May 1112{{snd}}25 July 1139
+| predecessor2    = [[Henry, Count of Portugal|Henry]]
+| regent2         = [[Teresa, Countess of Portugal]] <br> {{small|(1112–1126)}}
+| place of burial = [[Santa Cruz Monastery]], [[Coimbra]], [[Coimbra (district)|District of Coimbra]], [[Portugal]]
+|}}
+'''Afonso I'''<ref group="lower-alpha">Or also ''Affonso'' (Archaic [[Portuguese-Galician]]) or ''Alphonso'' ([[Portuguese-Galician languages|Portuguese-Galician]]) or ''Alphonsus'' ([[Latin]] version), sometimes rendered in English as ''Alphonzo'' or ''Alphonse'', depending on the Spanish or French influence.</ref> (25 July 1109{{snd}}6 December 1185), nicknamed "the Conqueror" ({{lang-pt|O Conquistador}}), "the Founder" ({{lang|pt|''O Fundador''}}) or "the Great" ({{lang|pt|''O Grande''}}) by the [[Portuguese people|Portuguese]], and  ''El-Bortukali'' [in Arabic البرتغال] ("the Portuguese") and ''Ibn-Arrik'' [in Arabic ابن الرَّنك or ابن الرَنْق] ("son of Henry", "Henriques") by the [[Moors]] whom he fought, was the first [[List of Portuguese monarchs|King of Portugal]]. He achieved the independence of the southern part of the [[Kingdom of Galicia]], the County of Portugal, from Galicia's overlord, the [[Kingdom of León|King of León]], in 1139, establishing a new kingdom and doubling its area with the ''[[Reconquista]]'', an objective that he pursued until his death, in 1185, after forty-six years of wars against the Moors.
+
+==Mother's rule==
+Afonso I was born in [[Coimbra]], [[Guimarães]] or [[Viseu]].{{efn|The actual birthplace is unknown, but Portuguese popular tradition indicates Guimarães as the birth place. Portuguese historian Almeida Fernandes was the first to defend Viseu as the king's birth place, historian Mattoso considers the Viseu hypothesis as likely.{{Sfn|Mattoso|2014|p=27}}}} He was the son of [[Henry, Count of Portugal|Henry of Burgundy]] and [[Theresa, Countess of Portugal|Theresa]], the natural daughter of King [[Alfonso VI of León and Castile]]. The pair reigned jointly as Count and Countess of Portugal until Henry's death, after which Theresa reigned alone.<ref name=Gerli>[https://books.google.com/books?id=QlpKAgAAQBAJ&pg=PA676&lpg=PA676&dq=afonso+i+of+portugal&source=bl&ots=sWxOTr0U1v&sig=HbyK45MU-hykot9JlUwI7jRwtTU&hl=en&sa=X&ved=0CC0Q6AEwAzgeahUKEwi_xp_5zPvGAhUFWz4KHWWAAh8#v=onepage&q=afonso%20i%20of%20portugal&f=false Gerli, E. Michael. ''Medieval Iberia'', Routledge, 2013] ISBN 9781136771613</ref> Afonso was slightly more than two years old when his father, Count Henry, died on 22 May 1112 during the siege of [[Astorga, Spain|Astorga]].{{Sfn|Mattoso|2014|p=34}} In an effort to pursue a larger share in the Leonese inheritance, his mother Theresa joined forces with [[Fernando Pérez de Trava]], the most powerful count in [[kingdom of Galicia|Galicia]].<ref name=Gerli/>
+
+The Portuguese nobility disliked the alliance between Galicia and Portugal and rallied around the infant Afonso.  The [[Roman Catholic Archdiocese of Braga|Archbishop of Braga]] was also concerned with the dominance of Galicia, apprehensive of the ecclesiastical pretensions of his new rival the Galician [[Roman Catholic Archdiocese of Santiago de Compostela|Archbishop of Santiago de Compostela]], [[Diego Gelmírez]], who had claimed an alleged discovery of relics of [[James, son of Zebedee|Saint James]] in his town, as a way to gain power and riches over the other cathedrals in the Iberian Peninsula. In 1122, Afonso turned fourteen, the adult age in the 12th century. He made himself a [[knight]] on his own account in the [[Cathedral of Zamora]], raised an army, and proceeded to take control of his mother's lands.
+
+== Sole count ==
+
+In 1128, near [[Guimarães]], at the [[Battle of São Mamede]] Afonso and his supporters overcame troops under his Count [[Fernando Peres de Trava]] of [[Kingdom of Galicia|Galicia]]. Afonso exiled his mother to Galicia, and took over rule of the County of Portugal.<ref name=Gerli/> Thus the possibility of re-incorporating Portugal (up to then known as Southern Galicia) into a Kingdom of Portugal and Galicia as before was eliminated and Afonso became sole ruler following demands for independence from the county's church and nobles. He also vanquished his mother's nephew, [[Alfonso VII of León]], who came to her rescue, and thus freed the country from political dependence on the crown of his cousin of León. On 6 April 1129, Afonso Henriques dictated the writ in which he proclaimed himself Prince of Portugal.
+
+Afonso then turned his arms against the persistent problem of the Moors in the south. His campaigns were successful and, on 25 July 1139, he obtained an overwhelming victory in the [[Battle of Ourique]], and straight after was unanimously proclaimed King of the Portuguese by his soldiers, establishing his equality in rank to the other realms of the Peninsula. The first assembly of the [[Portuguese Cortes]] convened at [[Lamego]] (wherein he would have been given the crown from the Archbishop of Braga, to confirm his independence) is a 17th-century embellishment of Portuguese history.
+
+== Kingship ==
+
+Independence from Alfonso VII of León's [[suzerainty]], however, was not a thing he just could achieve militarily. The County of Portugal still had to be acknowledged diplomatically by the neighboring lands as a kingdom and, most importantly, by the [[Roman Catholic Church]] and the [[Pope]]. Afonso wed [[Mafalda of Savoy, Queen of Portugal|Mafalda of Savoy]], daughter of [[Amadeus III, Count of Savoy]], and sent ambassadors to Rome to negotiate with the Pope. He succeeded in renouncing the suzerainty of his cousin, Alfonso VII of León, becoming instead a vassal of the papacy, as the kings of Sicily and Aragon had done before him. In 1179 the bull ''[[Manifestis Probatum]]'' accepted the new king as vassal to the pope exclusively.
+[[Image:Siege of Lisbon - Muslim surrender.jpg|thumb|right|300px|King Afonso I at the [[Siege of Lisbon]].]]
+In Portugal he built several monasteries and convents and bestowed important privileges to religious orders. He is notably the builder of [[Alcobaça Monastery]], to which he called the [[Cistercians|Cistercian Order]] of his uncle [[Bernard of Clairvaux]] of [[Burgundy (region)|Burgundy]]. In 1143, he wrote to [[Pope Innocent II]] to declare himself and the kingdom servants of the church, swearing to pursue driving the Moors out of the Iberian Peninsula. Bypassing any king of León, Afonso declared himself the direct [[wikt:liege|liege man]] of the papacy. Afonso continued to distinguish himself by his exploits against the Moors, from whom he wrested [[Santarém, Portugal|Santarém]] (see [[Conquest of Santarém]]) and [[Lisbon]] in 1147 (see [[Siege of Lisbon]]).<ref name="EB1911">{{EB1911|inline=1|wstitle=Alphonso|display=Alphonso s.v. Alphonso I.|first=David|last=Hannay|authorlink=David Hannay (historian)|volume=1|page=733}}</ref> He also conquered an important part of the land south of the [[Tagus]] River, although this was lost again to the Moors in the following years.
+
+Meanwhile, King Alfonso VII of León (Afonso's cousin) regarded the independent ruler of Portugal as nothing but a rebel. Conflict between the two was constant and bitter in the following years. Afonso became involved in a war, taking the side of the Aragonese king, an enemy of Castile. To ensure the alliance, his son [[Sancho I of Portugal|Sancho]] was engaged to [[Dulce of Aragon|Dulce]], sister of the [[Count of Barcelona]] and Infanta of Aragon. Finally after winning the [[Battle of Valdevez]], the [[Treaty of Zamora (1143)]] established peace between the cousins and the recognition by the Kingdom of León that Portugal was a sovereign kingdom.
+
+In 1169 the now old Dom Afonso was disabled in an engagement near [[Badajoz]] by a fall from his horse, and made prisoner by the soldiers of the king of León Ferdinand II also his son-in-law. Portugal was obliged to surrender as his ransom almost all the conquests Afonso had made in Galicia (north of the [[Minho River]]) in the previous years.<ref name="EB1911"/>
+[[Image:BatalhaOurique.jpg|thumb|left|300px|Afonso at the [[Battle of Ourique]].]]
+In 1179 the privileges and favours given to the Roman Catholic Church were compensated. In the [[papal bull]] '' [[Manifestis Probatum]]'', [[Pope Alexander III]] acknowledged Afonso as king and Portugal as an independent crown with the right to conquer lands from the Moors. With this papal blessing, Portugal was at last secured as a kingdom.
+
+In 1184, in spite of his great age, he still had sufficient energy to relieve his son Sancho, who was [[Siege of Santarém (1184)|besieged in Santarém]] by the Moors. Afonso died shortly after, on 6 December 1185. The Portuguese revere him as a hero, both on account of his personal character and as the founder of their nation.<ref name="EB1911"/> There are mythical stories that it took 10 men to carry his sword, and that Afonso wanted to engage other monarchs in personal combat, but no one would dare accept his challenge.
+
+==Scientific research==
+[[Image:AfonsoHenriques-Tomb.jpg|thumb|right|Tomb of Afonso Henriques in the [[Monastery of Santa Cruz (Coimbra)|Santa Cruz Monastery]] in [[Coimbra]].]]
+
+In July 2006, the tomb of the king (which is located in the [[Monastery of Santa Cruz (Coimbra)|Santa Cruz Monastery]] in [[Coimbra]]) was to be opened for scientific purposes by researchers from the [[University of Coimbra]] (Portugal) and the [[University of Granada]] (Spain). The opening of the tomb provoked considerable concern among some sectors of Portuguese society and [[IPPAR]] – ''Instituto Português do Património Arquitectónico'' (Portuguese State Agency for Architectural Patrimony). The government halted the opening, requesting more protocols from the scientific team because of the importance of the king in the nation's formation.<ref>[http://dossiers.publico.pt/shownews.asp?id=1263265&idCanal=1806 ''IPPAR: direcção nacional diz que não foi consultada sobre abertura do túmulo de D. Afonso Henriques''] {{webarchive |url=https://web.archive.org/web/20070610200658/http://dossiers.publico.pt/shownews.asp?id=1263265&idCanal=1806 |date=10 June 2007 }}, [[Público (Portugal)|Público]], 6 July 2006. Retrieved December 2006 (in Portuguese)</ref><ref>[[n:Portuguese Culture Ministry suspends opening of Afonso I's tomb]]</ref>
+
+==Ancestors==
+These are the known ancestors of Afonso Henriques, going back five generations.
+
+{{ahnentafel top|width=100%}}
+<center>{{ahnentafel-compact5
+|style=font-size: 90%; line-height: 110%;
+|border=1
+|boxstyle=padding-top: 0; padding-bottom: 0;
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1= 1. '''Afonso I of Portugal'''
+|2= 2. [[Henry, Count of Portugal|Henry of Burgundy, Count of Portugal]]
+|3= 3. [[Theresa, Countess of Portugal|Teresa of León, Countess of Portugal]]
+|4= 4. Henry of Burgundy
+|5=
+|6= 6. [[Alfonso VI of León and Castile|King Alfonso VI of León and Castile]]
+|7= 7. [[Jimena Muñoz]]
+|8= 8. [[Robert I, Duke of Burgundy]]
+|9= 9. [[Helie of Semur]]
+|10= 
+|11= 
+|12= 12. [[Ferdinand I of León and Castile|King Ferdinand I of León and Castile]]
+|13= 13. [[Sancha of León]]
+|14= 
+|15= 
+|16= 16. [[Robert II of France|King Robert II of France]]
+|17= 17. [[Constance of Arles]]
+|18= 18. [[Dalmas, Lord of Semur]]
+|19= 19. [[Aremburge of Burgundy]]
+|20= 
+|21= 
+|22= 
+|23= 
+|24= 24. [[Sancho III of Pamplona|King Sancho III of Pamplona]]
+|25= 25. [[Muniadona of Castile]]
+|26= 26. [[Alfonso V of León|King Alfonso V of León]]
+|27= 27. [[Elvira Menéndez (died 1022)|Elvira Mendes]]
+|28= 
+|29= 
+|30= 
+|31=
+}}</center>
+{{Ahnentafel bottom}}
+
+==Descendants==
+In 1146,{{efn|Although the ''Annales D. Alfonsi Portugallensium Regis'', record that the wedding of Alfonso and Mafalda was celebrated in 1145, it was not until a year later, in May 1146, when they both appear in royal charters. Historian José Mattoso refers to another source, ''Noticia sobre a Conquista de Santarém'' (News on the [[Conquest of Santarém]]), which states that the city was taken on 15 May 1147, less than a year after their marriage. Since at that time no wedding ceremony could be performed during [[Lent]], Mattoso suggests that the marriage could have taken place in March or April of 1146, possibly on Easter Sunday which fell on 31 March of that year.{{Sfn|Mattoso|2014|p=220}}}} Afonso married [[Matilda of Savoy, Queen of Portugal|Mafalda]], daughter of [[Amadeus III, Count of Savoy]] and [[Mahaut of Albon]], both appearing together for the first time in May of that year confirming royal charters.{{Sfn|Mattoso|2014|p=220}} They had the following issue:{{Sfn|Mattoso|2014|pp=226-227}}
+
+* Henry (5 March 1147{{Sfn|Caetano de Souza|1735|p=60}}{{Sfn|Rodrigues Oliveira|2010|p=71}}{{Sfn|Mattoso|2014|p=226}}-1155),{{Sfn|Rodrigues Oliveira|2010|p=71}} named after his  paternal grandfather, [[Henry, Count of Portugal]], he died when he was only eight years old.{{Sfn|Mattoso|2014|p=226}} Despite being just a child  he represented his father at a council in [[Toledo, Spain|Toledo]] at the age of three;{{Sfn|Mattoso|2014|p=226}}
+* [[Urraca of Portugal|Urraca]] (1148{{Sfn|Mattoso|2014|p=226}}–1211{{Sfn|Rodrigues Oliveira|2010|p=79}}), married King [[Ferdinand II of León]] and was the mother of King [[Alfonso IX of León|Alfonso IX]]. The marriage was subsequently annulled in 1171 or 1172 and she retired in [[Zamora, Spain|Zamora]], one of the villas that she had received as part of her [[Las arras#Origins and representation|''arras'']],  and later at the Monastery of Santa María in [[Wamba, Valladolid]] where she was buried.;{{Sfn|Arco y Garay|1954|p=168}}
+* [[Theresa of Portugal, Countess of Flanders|Theresa]] (1151{{Sfn|Mattoso|2014|p=226}} –1218{{Sfn|Rodrigues Oliveira|2010|p=80}}), [[Countess of Flanders|Countess consort of Flanders]] due to her marriage to [[Philip I, Count of Flanders|Philip I]]{{Sfn|Mattoso|2014|pp=372-373}} and [[List of Burgundian consorts|Duchess consort of Burgundy]] through her second marriage to [[Odo III, Duke of Burgundy|Odo III]];{{Sfn|Rodrigues Oliveira|2010|p=79}}
+* [[Mafalda of Portugal (daughter of Afonso Henriques)|Mafalda]](1153{{Sfn|Mattoso|2014|p=226}}{{Sfn|Rodrigues Oliveira|2010|p=71}}-after 1162). In January 1160, her father and [[Ramón Berenguer IV, Count of Barcelona]], negotiated the marriage of Mafalda to Alfonso, future King [[Alfonso II of Aragon]]{{Sfn|Caetano de Souza|1735|p=60}}{{Sfn|Rodrigues Oliveira|2010|p=78}} who at that time was three or four years old. After the death of Ramón Berenguer IV in the summer of 1162, King Ferdinand II of León convinced his widow, Queen  [[Petronilla of Aragón|Petronilla]], to cancel the infante's wedding plans with Mafalda and for Alfonso to marry instead [[Sancha of Castile, Queen of Aragon|Sancha,]] daughter [[Alfonso VII of León]] and his second wife Queen [[Richeza of Poland, Queen of Castile|Richeza of Poland]].{{Sfn|Mattoso|2014|pp=287-288 and 290}} Mafalda died in her childhood at an unrecorded date.
+* Sancho, the future King [[Sancho I of Portugal]] (11 November 1154{{Sfn|Rodrigues Oliveira|2010|p=71}}–26 March 1211). He was baptised with the name of Martin for having been born on the [[Martin of Tours|saint's]] feast day.;{{Sfn|Mattoso|2014|p=226}}
+* John (1156–25 August 1164);{{Sfn|Mattoso|2014|p=227}} and
+* Sancha (1157–14 February 1166/67), born ten days before the death of her mother, Sancha died before reaching the age of ten.{{Sfn|Mattoso|2014|pp =227 and 383}}{{Sfn|Rodrigues Oliveira|2010|p=71}} on the 14th of February according to the death registry at the Monastery of Santa Cruz (Coimbra) where she was buried.{{Sfn|Caetano de Souza|1735|p=60}}
+
+Before his marriage to Mafalda, King Afonso fathered his first male son with Chamoa Gómez,{{Sfn|Rodrigues Oliveira|2010|p=71}} daughter of Count [[Gómez Núñez]] and Elvira Pérez, sister of [[Fernando Pérez de Traba|Fernando]] and [[Bermudo Pérez de Traba]]:{{Sfn|Calderón Medina|2008|pp=42, n. 11}}{{Sfn|Mattoso|2014|pp=98, 228 and 320}}
+
+* [[Fernando Afonso of Portugal|Afonso]] (1140–1207). Born around 1140,{{Sfn|Mattoso|2014|p=228}} according to recent investigations, he is the same person as the one often called '''Fernando Afonso''' who was the [[Alférez|''alferes-mor'']] of the king and later Grand Master of the [[Knights Hospitaller]]. His presence in the court is first recorded in 1159. In 1169 he succeeded as alferes-mor his half-brother, Pedro Pais da Maia, the legitimate son of his mother and Paio Soares da Maia.{{Sfn|Mattoso|2014|pp=227-229}}{{Sfn|Calderón Medina|2008|pp=42-43, and notes}}
+
+The extramarital offspring by Elvira Gálter were:
+
+* [[Urraca Afonso, Lady of Aveiro|Urraca]].{{Sfn|Caetano de Souza|1735|p=28 and 64}} In 1185, her father gave her [[Avô]], stipulating that this villa was to be inherited only by the children that she had with her husband Pedro Afonso de Ribadouro (also known as Pedro Afonso Viegas), grandson of [[Egas Moniz, Aio|Egas Moniz]],{{Sfn|Caetano de Souza|1735|p=64}} which could indicate another previous or subsequent marriage. In 1187, she exchanged with her half-brother, King Sancho, this villa for [[Aveiro, Portugal|Aveiro]]. She died after 1216, the year she made a donation to the Monastery of Tarouca. {{Sfn|Sotto Mayor Pizarro|1997|p=457, n. 9 and 10, Vol. I}}
+* Teresa Afonso, in some genealogies she appears as the daughter of Elvira Gálter,{{Sfn|Caetano de Souza|1735|pp=28, 63}} and in others as the daughter of Chamoa Gómez. Her first marriage was with Sancho Nunes de Barbosa with whom she had a daughter, Urraca Sanches, who married Gonçalo Mendes de Sousa, the father of Mendo Gonçalves de Sousa known as "Sousaõ".{{Sfn|Caetano de Souza|1735|p=63}} Her second husband was Fernando Martins Bravo, Lord of [[Bragança, Portugal|Bragança]] and [[Chaves, Portugal|Chaves]], with no issue from this marriage.{{Sfn|Caetano de Souza|1735|p=63}}
+
+King Afonso was also the father of:
+
+* [[Pedro Afonso, Master of Aviz|Pedro Afonso]] (died after 1183), Lord of [[Arega]] and Pedrógão, mayor of [[Abrantes]] in 1179, ''alferes'' of King Afonso I between 1181 and 1183, and Master of the [[Order of Aviz]].{{Sfn|Mattoso|2014|pp=103, 229 and 388}}{{Sfn|Caetano de Souza|1735|p=28}}
+
+==See also==
+{{Commons|Afonso Henriques}}
+*[[Portugal]]
+*[[Gallaecia]]
+*[[Galicia (Spain)|Galicia]]
+*[[History of Portugal]]
+*[[Timeline of Portuguese history]]
+*[[Estádio D. Afonso Henriques]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{refbegin}}
+* {{cite book|last =Arco y Garay|first= Ricardo del| publisher =  Instituto Jerónimo Zurita. Consejo Superior de Investigaciones Científicas|title = Sepulcros de la Casa Real de Castilla| year = 1954|location = Madrid|oclc = 11366237|ref=harv}}
+* {{cite book | last=Baquero Moreno|first= Humberto|title = Astúrias e Portugal. Relações históricas e culturais. Actas do Colóquio 5 a 7 de Dezembro de 2005|chapter = Portugal e o reino das Astúrias no período de formação|pages= 115–141|year =2006|publisher= Academia Portuguesa da História|language=pt|location= Lisbon |isbn= 972-624-164-2|ref=harv}}
+*{{Cite book|last= Caetano de Souza|first=Antonio|title=Historia Genealógica de la Real Casa Portuguesa|volume = Vol. I|year= 1735|publisher= Lisboa Occidental, na oficina de Joseph Antonio da Sylva |isbn= 978-84-8109-908-9|location=Lisbon|language=pt|url = http://purl.pt/776/4/hg-2593-v/hg-2593-v_item4/hg-2593-v_PDF/hg-2593-v_PDF_24-C-R0150/hg-2593-v_0000_1-800_t24-C-R0150.pdf|ref = harv}}
+*{{Cite book|last = Calderón Medina|first = Inés|title = Actas IV Simposio Internacional de Jóvenes Medievalistas, Lorca 2008|chapter = La nobleza portuguesa al servicio del rey de León 1157–1187. Pero Pais de Maia y Vasco Fernandes de Soverosa|publisher= Universidad de Murcia, Sociedad Española de Estudios Medievales, Ayuntamiento de Lorca, et al |year= 2004|pages = 39–50 | language= es| isbn= 978-84-8371-801-8|url=http://jovenesmedievalistas.net/archivo/lorca2008/IVSIMPOSIO.pdf|ref = harv}}
+* {{cite book |last=Freitas do Amaral|first =Diogo|authorlink =Diogo de Freitas do Amaral|title = D. Afonso Henriques|year = 2000|publisher = Bertrand|language =pt|location=Lisbon|isbn=972-25-1157-2|ref=harv}}
+* {{cite book |last=Mattoso|first = José|authorlink =José Mattoso|title = D. Afonso Henriques|year = 2014|publisher = Temas e Debates|language =pt|location=Lisbon|isbn= 978-972-759-911-0|ref=harv}}
+* {{cite book |last=Previte-Orton |first=C.W. |title=The Early History of the House of Savoy: 1000–1233 |publisher=Cambridge University Press |year=1912 |ref=harv}}
+* {{cite book|last=Rodrigues Oliveira|first= Ana|title= Rainhas medievais de Portugal. Dezassete mulheres, duas dinastias, quatro séculos de História|language= PT |publisher= A esfera dos livros |location = Lisbon| year= 2010|isbn= 978-989-626-261-7|ref=harv}}
+* {{cite book|last = Sánchez Candeira|first = Alfonso|title = Castilla y León en el siglo XI, estudio del reinado de Fernando I|year = 1999|editors = Rosa Montero Tejada (edition sponsored by Fundación BBV, Fundación Ramón Areces, Caja Madrid Fundación)|publisher = Real Academia de la Historia|location = Madrid|isbn =978-84-8951241-2|ref=harv}}
+* {{Cite book| last = Sotto Mayor Pizarro| first = José Augusto|title = Linhagens Medievais Portuguesas: Genealogias e Estratégias (1279–1325)|location =Oporto|publisher=Doctorate thesis, author’s edition|year= 1997|language = pt|volume= Vol. I|url=http://hdl.handle.net/10216/18023|ref=harv}}
+* {{cite book|last = Torres Sevilla-Quiñones de León|first=Margarita Cecilia|title = Linajes nobiliarios de León y Castilla: Siglos IX-XIII|year = 1999|publisher = Junta de Castilla y León, Consejería de educación y cultura|location= Salamanca|language=es|isbn =  84-7846-781-5|ref=harv}}
+{{refend}}
+
+==External links==
+{{Authority control}}
+
+{{s-start}}
+{{s-hou|[[Portuguese House of Burgundy|House of Burgundy]]|25 July|1109|6 December|1185|[[Capetian dynasty]]}}
+{{s-reg}}
+{{s-new|reason=Independence<br/>from [[Kingdom of León|León]]–[[Kingdom of Castile|Castile]]}}
+{{s-ttl|title=[[List of Portuguese monarchs|King of Portugal]]|years=1139–1185}}
+{{s-aft|after=[[Sancho I of Portugal|Sancho I]]}}
+{{s-reg|other}}
+{{s-bef|before=[[Henry, Count of Portugal|Henry]] and [[Theresa, Countess of Portugal|Theresa]]}}
+{{s-ttl|title=[[List of Portuguese monarchs|Count of Portugal]]|years=1112–1139|regent1=[[Theresa, Countess of Portugal|Theresa]] |years1=1112–1126}}
+{{s-non|reason=Independence<br/>from [[Kingdom of León|León]]}}
+{{s-end}}
+
+{{Portal bar|Biography|Portugal|Monarchy|Middle Ages|Crusades}}
+
+{{Counts of Portugal}}
+{{Monarchs of Portugal}}
+{{House of Burgundy-Portugal}}
+
+{{DEFAULTSORT:Afonso 01 Of Portugal}}
+[[Category:Portuguese Roman Catholics]]
+[[Category:Roman Catholic monarchs]]
+[[Category:Portuguese monarchs]]
+[[Category:Portuguese people of French descent]]
+[[Category:House of Burgundy-Portugal]]
+[[Category:People of the Reconquista]]
+[[Category:1109 births]]
+[[Category:1185 deaths]]
+[[Category:12th-century Roman Catholics]]
+[[Category:Christians of the Second Crusade]]
+[[Category:Counts of Portugal (Asturias-León)]]
+[[Category:County of Portugal]]
+[[Category:12th-century Portuguese monarchs]]
+[[Category:Portuguese revolutionaries]]

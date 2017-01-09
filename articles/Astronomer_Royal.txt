@@ -1,0 +1,74 @@
+Astronomer_Royal.txt	{{refimprove|date=March 2011}}
+[[File:John Flamsteed (Gemälde).jpg|thumb|190px|John Flamsteed]]
+'''Astronomer Royal''' is a senior post in the [[Royal Households of the United Kingdom]]. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the [[Astronomer Royal for Scotland]] dating from 1834.
+
+The post was created by [[Charles II of England|King Charles II]] in 1675, at the same time as he founded the [[Royal Observatory Greenwich]]. He appointed [[John Flamsteed]], instructing him "{{sic|hide=y|forthwith to apply himself with |the most exact care and diligence to the rectifying the tables of the motions of the heavens, and the places of the fixed stars, so as to find out the so-much desired longitude of places, for the perfecting the art of navigation}}."<ref>F Baily, "An Account of the Rev. John Flamsteed", reprinted in [https://books.google.com/books?id=48L1w21XYI4C&pg=PA293 vol.28,at p.293]. "The Museum of foreign literature, science and art", R Walsh et al., publ. E Litell, 1836.</ref><ref name="forbes1975">{{cite book
+  | last = Forbes 
+  | first = Eric G. 
+  | author-link = 
+  | title = Greenwich Observatory, volume 1: Origins and Early History (1675–1835)
+  | publisher = Taylor & Francis
+  | date = 1975
+  | location = London
+  | bibcode = 1975gosb.book.....F
+}}</ref><ref name="mccrea_rgo_1975">{{cite book
+ | last = McCrea 
+ | first = William Hunter 
+ | title = Royal Greenwich Observatory : an Historical Review Issued on the Occasion of its Tercentenary 
+ | publisher = Her Majesty's Stationery Office 
+ | date = 1975 
+ | location = London 
+ | bibcode = 1975rgo..book.....M 
+ | url = http://adsabs.harvard.edu/abs/1975rgo..book.....M
+ }}</ref>
+
+The Astronomer Royal was director of the Royal Observatory Greenwich from the establishment of the post in 1675 until 1972. The Astronomer Royal became an honorary title in 1972 without executive responsibilities and a separate post of [[Director of the Royal Greenwich Observatory]] was created to manage the institution.<ref name="mccrea_rgo_1975"/><ref name="meadows1975">{{cite book
+  | last = Meadows
+  | first = A. J.
+  | author-link = 
+  | title = Greenwich Observatory, volume 2:  Recent History (1836–1975)
+  | publisher = Taylor & Francis
+  | date = 1975
+  | location = London
+  | bibcode = 1975gosb.book.....F
+}}</ref>
+
+The Astronomer Royal today receives a [[stipend]] of 100 [[Pound Sterling|GBP]] per year and is a member of the [[Royal Household]], under the general authority of the [[Lord Chamberlain]]. After the separation of the two offices, the position of Astronomer Royal has been largely honorary, though he remains available to advise the Sovereign on astronomical and related scientific matters, and the office is of great prestige.<ref name="monarchywebsite">{{cite web
+  | url = http://www.royal.gov.uk/TheRoyalHousehold/OfficialRoyalposts/AstronomerRoyal.aspx
+  | title = Astronomer Royal
+  | website = [[Monarchy of the United Kingdom|The British Monarchy]]
+  | publisher = [[Royal Households of the United Kingdom|Royal Household]] 
+  | access-date = 30 January 2016
+}}</ref>
+
+There was also formerly a [[Royal Astronomer of Ireland]].
+
+==Astronomers Royal==
+* 1675&ndash;1719 [[John Flamsteed]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1720&ndash;1742 [[Edmond Halley]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1742&ndash;1762 [[James Bradley]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1762&ndash;1764 [[Nathaniel Bliss]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1765&ndash;1811 [[Nevil Maskelyne]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1811&ndash;1835 [[John Pond]]<ref name="forbes1975"/><ref name="monarchywebsite"/>
+* 1835&ndash;1881 [[George Biddell Airy|Sir George Biddell Airy]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1881&ndash;1910 [[William Christie (astronomer)|Sir William Christie]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1910&ndash;1933 [[Frank Watson Dyson|Sir Frank Dyson]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1933&ndash;1955 [[Harold Spencer Jones|Sir Harold Spencer Jones]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1956&ndash;1971 [[Richard van der Riet Woolley|Sir Richard van Riet Woolley]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1972&ndash;1982 [[Martin Ryle|Sir Martin Ryle]]<ref name="meadows1975"/><ref name="monarchywebsite"/>
+* 1982&ndash;1990 [[Francis Graham-Smith|Sir Francis Graham-Smith]]<ref name="monarchywebsite"/>
+* 1991&ndash;1995 [[Arnold Wolfendale|Sir Arnold Wolfendale]]<ref name="monarchywebsite"/>
+* 1995&ndash;''present'' [[Martin Rees, Baron Rees of Ludlow]]<ref name="monarchywebsite"/>
+
+==References==
+<references/>
+
+==External links==
+* [http://www.royal.gov.uk/TheRoyalHousehold/OfficialRoyalposts/AstronomerRoyal.aspx Official website]
+{{Astronomers Royal}}
+
+[[Category:Astronomers Royal|*]]
+[[Category:Ceremonial officers in the United Kingdom]]
+[[Category:Lists of British people]]
+[[Category:Positions within the British Royal Household]]
+[[Category:Lists of scientists]]

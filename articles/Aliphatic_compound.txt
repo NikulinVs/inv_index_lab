@@ -1,0 +1,89 @@
+Aliphatic_compound.txt	[[File:Butane-2D-flat.png|thumb|right|220px|Acyclic aliphatic compound or non-aromatic ([[Butane]])]] [[File:Cyclobutane2.svg|thumb|right|170px|Cyclic aliphatic /non-aromatic compounds([[Cyclobutane]])]]
+
+In [[organic chemistry]], [[hydrocarbon]]s ([[chemical compound|compounds]] composed of [[carbon]] and [[hydrogen]]) are divided into two classes: [[aromatic]] compounds and '''aliphatic compounds''' ({{IPAc-en|ˌ|æ|l|ɨ|ˈ|f|æ|t|ɨ|k}}; G. ''aleiphar'', fat, oil) also known as non-aromatic compounds. Aliphatics can be [[cyclic compound|cyclic]], but only aromatic compounds contain an especially stable ring of atoms, such as [[benzene]].<ref>{{GoldBookRef |title=Aliphatic compounds |file=A00217 |year=1995}}</ref>  Aliphatic compounds can be [[saturation (chemistry)|saturated]], like [[Hexane]], or unsaturated, like [[Hexene]] and [[Hexyne]]. [[Open-chain compound]]s (whether straight or branched) contain no rings of any type, and are thus aliphatic.
+
+== Structure ==
+
+Aliphatic compounds can be [[Saturation (chemistry)|saturated]], joined by single bonds ([[alkane]]s), or unsaturated, with double bonds ([[alkene]]s) or triple bonds ([[alkyne]]s). Besides [[hydrogen]], other elements can be bound to the carbon chain, the most common being [[oxygen]], [[nitrogen]], [[sulfur]], and [[chlorine]]. 
+
+The least complex aliphatic compound is [[methane]] (CH<sub>4</sub>).
+
+== Properties ==
+
+Most aliphatic compounds are flammable, allowing the use of hydrocarbons as fuel, such as [[methane]] in Bunsen burners and as [[liquefied natural gas]] (LNG), and [[acetylene]] in welding.
+
+== Examples of aliphatic compounds / non-aromatic  ==
+
+The most important aliphatic compounds are:
+
+* n-, iso- and cyclo-alk'''an'''es (saturated hydrocarbons)
+* n-, iso- and cyclo-alk'''en'''es and -alk'''yn'''es (unsaturated hydrocarbons).
+
+Important examples of low-molecular aliphatic compounds can be found in the list below (sorted by the number of carbon-atoms):
+
+{| class="wikitable"
+|-
+! Formula || Name || Structural Formula || Chemical Classification
+|-
+| CH<sub>4</sub> || [[Methane]] || [[File:Methane-2D-stereo.svg|75px]] || Alkane
+|-
+| C<sub>2</sub>H<sub>2</sub> || [[Acetylene|Ethyne]] || [[File:Ethyne-2D-flat.png|75px]] || Alkyne
+|-
+| C<sub>2</sub>H<sub>4</sub> || [[Ethene]] || [[File:Ethene structural.svg|75px]] || Alkene
+|-
+| C<sub>2</sub>H<sub>6</sub> || [[Ethane]] || [[File:Ethan Lewis.svg|75px]] || Alkane 
+|-
+| C<sub>3</sub>H<sub>4</sub> || [[Propyne]] || [[File:Propyne-2D-flat.png|75px]] || Alkyne 
+|-
+| C<sub>3</sub>H<sub>6</sub> || [[Propene]] || [[File:Propen21.PNG|100px]] || Alkene 
+|-
+| C<sub>3</sub>H<sub>8</sub> || [[Propane]] || [[File:Propane-2D-flat.png|100px]] || Alkane
+|-
+|  C<sub>4</sub>H<sub>6</sub> || [[1,2-Butadiene]]<br>(CAS# 590-19-2) || [[File:Buta-1,2-dien.svg|100px]] || Diene 
+|-
+| C<sub>4</sub>H<sub>6</sub> || [[1-Butyne]] || [[File:Ethylacetylene.svg|100px]] || Alkyne 
+|-
+| C<sub>4</sub>H<sub>8</sub> || [[1-Butene]] || [[File:But-1-ene-2D-skeletal.png|65px]] || Alkene 
+|-
+| C<sub>4</sub>H<sub>10</sub> || [[Butane]] || [[File:Butane-2D-flat.png|100px]] || Alkane 
+|-
+| C<sub>6</sub>H<sub>10</sub> || [[Cyclohexene]] || [[File:Cyclohexen - Cyclohexene.svg|40px]] || Cycloalkene 
+|-
+| C<sub>5</sub>H<sub>12</sub> || [[N-Pentane|''n''-pentane]] || [[File:Pentan Skelett.svg|75px]] || Alkane 
+|-
+| C<sub>7</sub>H<sub>14</sub> || [[Cycloheptane]] || [[File:Cycloheptane.svg|50px]] || Cycloalkane 
+|-
+| C<sub>7</sub>H<sub>14</sub> || [[Methylcyclohexane]] || [[File:Methylcyclohexane.png|75px]] || Cyclohexane 
+|-
+| C<sub>8</sub>H<sub>8</sub> || [[Cubane]] || [[File:Cuban.svg|75px]] || Cyclobutane 
+|-
+| C<sub>9</sub>H<sub>20</sub> || [[Nonane]] || [[File:Nonan Skelett.svg|100px]] || Alkane 
+|-
+| C<sub>10</sub>H<sub>12</sub> || [[Dicyclopentadiene]] || [[File:Di-Cyclopentadiene ENDO & EXO V.2.svg|125px]] || Diene, Cycloalkene
+|-
+| C<sub>10</sub>H<sub>16</sub> || [[Phellandrene]] || [[File:Alpha-phellandren.png|50px]][[File:Beta-phellandren.png|50px]] || Terpene, Diene Cycloalkene 
+|-
+| C<sub>10</sub>H<sub>16</sub> || [[α-Terpinene]] || [[File:Alpha-Terpinene Structure V.1.svg|90px]] || Terpene, Cycloalkene, Diene 
+|-
+| C<sub>10</sub>H<sub>16</sub> || [[Limonene]] || [[File:(R)-Limonen.svg|50px]][[File:(S)-Limonen.svg|50px]] || Terpene, Diene, Cycloalkene 
+|-
+| C<sub>11</sub>H<sub>24</sub> || [[Undecane]] || [[File:Undecan Skelett.svg|125px]] || Alkane 
+|-
+| C<sub>30</sub>H<sub>50</sub> || [[Squalene]] || [[File:Squalene.svg|125px]] || Terpene, Polyene 
+|-
+|C<sub>2n</sub>H<sub>4n</sub> || [[Polyethylene]] || [[File:Polyethylene_repeat_unit.svg|75px]] || Alkane 
+|}
+
+==Aliphatic acids==
+Aliphatic acids are the acids of nonaromatic hydrocarbons, such as [[acetic acid]], [[propionic acid]], and [[butyric acid]].
+
+== See also ==
+
+* [[Aromaticity|Aromatic compound]]
+
+==References==
+<references />
+
+{{Authority control}}
+{{DEFAULTSORT:Aliphatic Compound or non-aromatic compound}}
+[[Category:Organic compounds]]

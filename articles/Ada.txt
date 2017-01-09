@@ -1,0 +1,91 @@
+Ada.txt	{{Wiktionary|Ada|ada|ADA}}
+
+'''Ada''' may refer to:
+{{TOC right}}
+==Personal name==
+<!-- people without a surname, who are possibly referred to as just "Ada" -->
+* [[Ada (name)]], a feminine given name (and list of people with the name)
+* [[St. Ada]], 7th-century French abbess
+* [[Ada, Countess of Atholl]] (died 1264)
+* [[Ada, Countess of Holland]]
+* [[Ada de Warenne]], Countess of Northumbria and Huntingdon (died 1178)
+* [[Ada of Caria]], satrap deposed by her brother Idrieus and restored by Alexander the Great
+* [[Ada Lovelace]] (Augusta Ada King, Countess of Lovelace) (1815–1852), English mathematician and writer
+* Ada, sister of Charlemagne, for whom the [[Ada Gospels]] at Trier were produced
+
+==Places==
+
+===Africa===
+* [[Ada, Ghana]], or Ada Foah
+* [[Ada (Ghana parliament constituency)]]
+* [[Ada, Delta]], an Isoka town in Delta State, Nigeria
+* [[Ada, Osun]], a town in Osun State, Nigeria
+* [[Ada Estate]], a suburb of Dar es Salaam, Tanzania
+
+===Asia===
+* [[Ada, Iran]], a village in West Azerbaijan Province
+* [[Ada, Karaman]], a village in the central district (Karaman) of Karaman Province, Turkey
+
+===Europe===
+* [[Ada, Croatia]], a village in Croatia, municipality Šodolovci, Vukovar-Syrmia County
+* [[Ada, Serbia]], a town and municipality
+
+===North America===
+* [[Ada, Alabama]], an unincorporated community in Montgomery County, Alabama
+* [[Ada County, Idaho]]
+* [[Ada, Minnesota]], Norman County, Minnesota
+* [[Ada, Ohio]], Hardin County, Ohio
+* [[Ada, Oklahoma]], Pontotoc County, Oklahoma
+* [[Ada, Oregon]], Lane County, Oregon
+* [[Ada, West Virginia]], Mercer County, West Virginia
+* [[Ada, Wisconsin]], Sheboygan County, Wisconsin
+
+==Television and film==
+* [[Ada TV]], a broadcaster in the Turkish Republic of Northern Cyprus
+* [[Ada (film)|''Ada'' (film)]], a 1961 film by Daniel Mann
+* ''[[Ada... A Way of Life]]'', a 2008 Bollywood musical by Tanvir Ahmed
+* [[Ada (dog actor)]], a dog that played Colin on the sitcom ''Spaced''
+
+==Ships==
+* [[Ada (ship)|''Ada'' (ship)]], a wooden Ketch, wrecked near Newcastle, New South Wales, Australia
+* [[USS Little Ada (1864)|USS ''Little Ada'' (1864)]], a steamer captured by the Union Navy during the American Civil War
+
+==Biology==
+* [[Ada (plant)|''Ada'' (plant)]], a genus of orchids
+* [[Adenosine deaminase]], an enzyme involved in purine metabolism
+* [[Ada (protein)]], an enzyme induced by treatment of bacterial cells
+
+==Scientific and medical organizations==
+* [[AdA (physics)]] or Istituto Nazionale di Fisica Nucleare (National Institute for Nuclear Physics), Italy
+* [[American Dental Association]]
+* [[American Diabetes Association]]
+* [[American Dietetic Association]]
+
+==Computer science==
+* [[Ada (programming language)]], programming language based on Pascal
+* [[Ada (computer virus)]]
+
+==Air travel==
+* [[Ada Air]], a regional airline based in Tirana, Albania
+* [[Ada International Airport]] or Saipan International Airport, Saipan Island, Northern Mariana Islands
+* [[Aerolínea de Antioquia]], a Colombian Airline
+* [[Airline Deregulation Act]], a 1978 US bill removing governmental control from commercial aviation
+* [[Adana Şakirpaşa Airport]]'s IATA code
+
+==Other uses==
+* [[Ada (Castlevania)|Ada (''Castlevania'')]], character in ''Castlevania: Legacy of Darkness''
+* ''[[Ada or Ardor: A Family Chronicle]]'', 1969 novel by Vladimir Nabokov
+* [[Ada Wong]], character in the ''Resident Evil'' franchise
+* [[523 Ada]], minor planet orbiting the Sun
+* [[Ada (food)]], traditional Kerala delicacy, made with rice, coconut powder mix, and sugar
+
+==See also==
+* [[ADA (disambiguation)]]
+* [[Ada regulon]], an Escherichia coli adaptive response proteins
+* [[Ada River (disambiguation)]]
+* [[Ada Township (disambiguation)]]
+* [[Adah (disambiguation)]]
+* [[Adha (disambiguation)]]
+* [[List of tropical storms named Ada]]
+
+{{Disambiguation|geo|hndis}}

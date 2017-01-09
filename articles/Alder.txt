@@ -1,0 +1,169 @@
+Alder.txt	{{Other uses}}
+{{Refimprove|date=August 2011}}
+{{Use dmy dates|date=July 2012}}
+{{taxobox
+ | name                = Alder
+ | image               = Tagalder8139.jpg
+ | image_caption       = ''Alnus serrulata'' (tag alder)<br />Male catkins on right,<br />mature female catkins left<br />[[Johnsonville, South Carolina]]
+ | regnum              = [[Plant]]ae
+ | unranked_divisio    = [[Angiosperms]]
+ | unranked_classis    = [[Eudicots]]
+ | unranked_ordo       = [[Rosids]]
+ | ordo                = [[Fagales]]
+ | familia             = [[Betulaceae]]
+ | genus               = '''''Alnus'''''
+ | genus_authority     = [[Philip Miller|Mill.]]
+ | synonyms_ref        = <ref name=ffffffff/>
+ | synonyms            = *''Betula-alnus'' <small>Marshall</small>
+*''Duschekia'' <small>Opiz</small>
+*''Alnaster'' <small>Spach</small>
+*''Clethropsis'' <small>Spach</small>
+*''Semidopsis'' <small>Zumagl.</small>
+*''Alnobetula'' <small>(W.D.J.Koch) Schur.</small>
+*''Cremastogyne'' <small>(H.J.P.Winkl.) Czerep.</small>
+ | range_map           = Alnus distribution.svg
+| range_map_caption
+}}
+[[File:Alder trees by the Beaulieu River at Longwater Lawn.jpg|thumb|right|Alder trees by the Beaulieu River at Longwater Lawn, England]]
+'''Alder''' is the common name of a [[genus]] of [[flowering plant]]s ('''''Alnus''''') belonging to the birch [[family (biology)|family]] [[Betulaceae]]. The genus comprises about 35<ref>{{Cite book|title = Northwest Trees: Identifying and Understanding the Region's Native Trees|last = Arno|first = Stephen|publisher = Mountaineers Books|year = 2007|isbn = 978-1-59485-041-7|location = Seattle, WA|pages = 165|last2 = Hammerly|first2 = Ramona}}</ref> [[species]] of [[Plant sexual morphology|monoecious]] [[tree]]s and [[shrub]]s, a few reaching a large size, distributed throughout the [[Temperate climate|north temperate zone]] with a few species extending into [[Central America]], as well as the northern and southern [[Andes]].<ref name=ffffffff>[http://apps.kew.org/wcsp/namedetail.do?name_id=6245 Kew World Checklist of Selected Plant Families]</ref>
+
+== Etymology ==
+The common name ''alder'' evolved from Old English ''alor'', which in turn is derived from [[Proto-Germanic]] root<ref>http://www.etymonline.com/index.php?term=alder&allowed_in_frame=0</ref> ''aliso''. The generic name ''Alnus'' is the equivalent [[Latin]] name. Both the Latin and the Germanic words derive from the [[Proto-Indo-European language|Proto-Indo-European]] root ''el-'', meaning "red" or "brown", which is also a root for the English words ''[[Elk (disambiguation)|elk]]'' and another tree: ''[[elm]]'', a tree distantly related to the alders.<ref>http://www.etymonline.com/index.php?term=elk&allowed_in_frame=0</ref>
+
+== Description ==
+
+With a few exceptions, alders are [[deciduous]], and the leaves are alternate, simple, and [[serration|serrated]]. The [[flower]]s are [[catkin]]s with elongate male catkins on the same plant as shorter female catkins, often before leaves appear; they are mainly wind-pollinated, but also visited by bees to a small extent. These trees differ from the [[birch]]es (''Betula'', the other genus in the family) in that the female catkins are woody and do not disintegrate at maturity, opening to release the seeds in a similar manner to many [[conifer cone]]s.
+
+The largest species are [[red alder]] (''A. rubra'') on the west coast of North America, and [[Alnus glutinosa|black alder]] (''A. glutinosa''), [[native plant|native]] to most of Europe and widely introduced elsewhere, both reaching over 30 m. By contrast, the widespread ''[[Alnus viridis]]'' (green alder) is rarely more than a 5-m-tall shrub.
+
+== Ecology ==
+
+Alders are commonly found near streams, rivers, and wetlands.  In the Pacific Northwest of North America, the [[Alnus rhombifolia|white alder]] (Alnus rhombifolia) unlike other northwest alders, has an affinity for warm, dry climates, where it grows along watercourses, such as along the lower [[Columbia River]] east of the Cascades and the Snake River, including Hells Canyon.
+
+Alder leaves and sometimes catkins are used as food by numerous [[List of Lepidoptera that feed on alders|butterflies and moths]].
+
+''A. glutinosa'' and ''A. viridis'' are classed as environmental weeds in New Zealand.<ref>{{cite book|last=Clayson|first=Howell|title=Consolidated list of environmental weeds in New Zealand|publisher=Department of Conservation|location=Wellington|date=May 2008|isbn=978-0-478-14412-3}}</ref> Alder leaves and especially the roots are important to the ecosystem because they enrich the soil with nitrogen and other nutrients.
+
+=== Nitrogen fixation ===
+
+Alder is particularly noted for its important [[symbiosis|symbiotic]] relationship with ''[[Frankia alni]]'', an [[actinomycete]], [[Filamentation|filamentous]], nitrogen-fixing [[bacteria|bacterium]]. This bacterium is found in [[root nodule]]s, which may be as large as a human fist, with many small lobes, and light brown in colour. The bacterium absorbs [[nitrogen]] from the air and makes it available to the tree. Alder, in turn, provides the bacterium with [[sugar]]s, which it produces through [[photosynthesis]]. As a result of this mutually beneficial relationship, alder improves the [[Fertility (soil)|fertility of the soil]] where it grows, and as a [[pioneer species]], it helps provide additional nitrogen for the [[Ecological succession|successional]] species which follow.
+
+Because of its abundance, red alder delivers large amounts of nitrogen to enrich forest soils.  Red alder stands have been found to supply between 120 and 290 pounds of nitrogen per acre (130 to 320&nbsp;kg per ha) annually to the soil.  From Alaska to Oregon, Sitka alder characteristically pioneer fresh, gravelly sites at the foot of retreating glaciers.  Studies show that Sitka alder, a more shrubby variety of alder, adds nitrogen to the soil at an average of 55 pounds per acre (60 per ha) per year, helping convert the sterile glacial terrain to soil capable of supporting a conifer forest.  Alders are common among the first species to colonize disturbed areas from floods, windstorms, fires, landslides, etc.  Alder groves themselves often serve as natural firebreaks since these broad-leaved trees are much less flammable than conifers.  Their foliage and leaf litter does not carry a fire well, and their thin bark is sufficiently resistant to protect them from light surface fires.  In addition, the light weight of alder seeds (650,000 per pound, or 1.5 million per kg) allows for easy dispersal by the wind.  Although it outgrows coastal Douglas-fir for the first 25 years, it is very shade intolerant and seldom lives more than 100 years.  Red alder is the Pacific Northwest's largest alder and the most plentiful and commercially important broad-leaved tree in the coastal Northwest.  Groves of red alder 10 to 20 inches (25 to 50&nbsp;cm) in diameter intermingle with young Douglas-fir forests west of the Cascades, attaining a maximum height of 100 to 110 feet (30 to 33 m) in about sixty years and then lose vigor as heart rot sets in.  Alders largely help create conditions favorable for giant conifers that replace them.<ref>{{Cite book|title = Northwest Trees: Identifying and Understanding the Region's Native Trees|last = Arno|first = Stephen|publisher = The Mountaineers Books|year = 2007|isbn = 978-1-59485-041-7|location = Seattle, WA|pages = 165–69|last2 = Hammerly|first2 = Ramona}}</ref>
+
+<gallery caption="Alder root nodules" widths="250px" mode=packed>
+An alder root nodule gall.JPG|alt=An alder root nodule|Whole root nodule
+A sectioned alder root nodule gall.JPG|alt=A sectioned alder root nodule|Sectioned root nodules
+</gallery>
+
+=== Parasites ===
+Alder roots are parasitized by [[Boschniakia rossica|northern groundcone]].
+
+== Uses ==
+[[File:Wappen at grossarl.png|thumb|right|Alder coat of arms of [[Grossarl]], [[Austria]]]]
+
+The [[catkin]]s of some alder species have a degree of edibility,<ref name="Edible Alder Catkins">[http://www.pfaf.org/user/DatabaseSearhResult.aspx Plants For A Future (Database)]</ref> and may be rich in protein. Reported to have a bitter and unpleasant taste, they are more useful for survival purposes. The wood of certain alder species is often used to smoke various food items such as coffee, salmon and other seafood.
+
+Most of the pilings that form the foundation of Venice were made from alder trees.<ref>{{cite web|url=http://www.treesforlife.org.uk/forest/mythology-folklore/alder.html|title=Mythology and Folklore of the Alder|last=Kendall|first=Paul|date=25 August 2010|publisher=Trees for life|accessdate=6 August 2011}}</ref>
+
+Alder bark contains the anti-inflammatory [[salicin]], which is metabolized into [[salicylic acid]] in the body.<ref>Ewing, Susan. ''The Great Alaska Nature Factbook''. Portland: Alaska Northwest Books, 1996.</ref> Some Native American cultures use red alder bark (''[[Alnus rubra]]'') to treat poison oak, insect bites, and skin irritations. Blackfeet Indians have traditionally used an infusion made from the bark of red alder to treat lymphatic disorders and tuberculosis. Recent clinical studies have verified that red alder contains [[betulin]] and [[lupeol]], compounds shown to be effective against a variety of tumors.<ref>''Edible and Medicinal Plants of the West'', Gregory L. Tilford, ISBN 0-87842-359-1</ref>
+
+The inner bark of the alder, as well as [[red osier dogwood]], or [[chokecherry]], is used by some [[Indigenous peoples of the Americas]] in smoking mixtures, known as ''kinnikinnick'', to improve the taste of the [[bearberry]] leaf.<ref>Staff (2009) [http://lewis-clark.org/content/content-article.asp?ArticleID=1355 "Bearberry"] ''Discovering Lewis and Clark''. The Lewis and Clark Fort Mandan Foundation.</ref>
+
+Alder is illustrated in the coat of arms for the Austrian town of [[Grossarl]].
+
+Electric guitars, most notably those manufactured by the [[Fender Musical Instruments Corporation]], have been built with alder bodies since the 1950s. Alder is appreciated for its claimed tight and even balanced tone, especially when compared to mahogany, and has been adopted by many electric guitar manufacturers.
+
+As a hardwood, alder is used in making furniture, cabinets, and other woodworking products. For example, in the television series ''[[Northern Exposure]]'' season 3 episode "Things Become Extinct" (1992), Native American Ira Wingfeather makes duck [[flute]]s out of alder tree branches while [[Ed Chigliak]] films.
+
+Alder bark and wood (like [[oak]] and [[sweet chestnut]]) contain [[tannin]] and are traditionally used to tan leather.
+
+A red dye can also be extracted from the outer bark, and a yellow dye from the inner bark.<ref>{{cite web|url= http://www.fs.fed.us/wildflowers/ethnobotany/dyes.shtml|title=Native Plant Dyes|publisher=United States Department of Agriculture Forest Service|accessdate=17 December 2014}}</ref>
+
+== Classification ==
+
+The genus is divided into three subgenera:
+
+'''Subgenus ''Alnus''''': Trees with stalked shoot buds, male and female catkins produced in autumn (fall) but stay closed over winter, pollinating in late winter or early spring, about 15–25 species, including:
+
+* ''[[Alnus acuminata]]'' <small>Kunth</small> — Andean alder, aliso. Mexico, Central and South America.
+* ''[[Alnus cordata]]''  <small>(Loisel.) Duby</small> — Italian alder. Italy, Albania, Corsica.
+* ''[[Alnus cremastogyne]]'' <small>Burkill</small> — China.
+* ''[[Alnus firma]]'' <small>Siebold & Zucc. —</small> [[Kyūshū]] Island in [[Japan]]
+* ''[[Alnus glutinosa]]''  <small>(L.) Gaertn. —</small> Black alder. Europe, Central Asia.
+[[Image:Alnus incana rugosa leaves.jpg|right|thumb|Speckled alder (''Alnus incana'' subsp. ''rugosa'')—leaves]]
+* ''[[Alnus incana]]''  (L.) Moench — Gray alder. Eurasia, North America
+* ''[[Alnus hirsuta]]'' <small>(Spach) Rupr. —</small> Manchurian alder. Japan, Korea, Manchuria, Siberia, Russian Far East
+* ''[[Alnus oblongifolia]]'' <small>Torr. —</small> Arizona alder. Arizona, New Mexico, Sonora, Chihuahua
+* ''[[Alnus rugosa]]''  <small>(Du Roi) Spreng. —</small> Speckled alder. Northeastern North America
+* ''[[Alnus tenuifolia]]'' <small>Nutt. —</small> Thinleaf or mountain alder. Northwestern North America
+* ''[[Alnus japonica]]'' <small>(Thunb.) Steud. —</small> Japanese alder, Japan, Korea, Taiwan, eastern China, Russian Far East
+* ''[[Alnus jorullensis]]'' <small>Kunth —</small> Mexican alder. Mexico, Guatemala, Honduras.
+* ''[[Alnus mandshurica]]'' <small>(Callier) Hand.-Mazz. —</small> [[Russian Far East]], northeastern [[China]], [[Korea]]
+* ''[[Alnus matsumurae]]'' <small>Callier —</small> [[Honshū]] Island in Japan
+* ''[[Alnus nepalensis]]'' <small>D.Don —</small> Nepalese alder. Himalayas, Tibet, Yunnan, Nepal, Bhutan, Myanmar, Thailand.
+* ''[[Alnus orientalis]]'' <small>Decne. —</small> Oriental alder. Southern Turkey, northwest Syria, Cyprus, Lebanon, Palestine, Iran
+* ''[[Alnus pendula]]'' <small>Matsum. —</small> Japan, Korea
+* ''[[Alnus rhombifolia]]'' <small>Nutt. —</small> White alder. California, Nevada, Oregon, Washington, Idaho, Montana
+* ''[[Alnus rubra]]'' <small>Bong. —</small> Red alder. Alaska, Yukon, British Columbia, California, Oregon, Washington, Idaho, Montana.
+[[Image:Alnus serrulata leaves.jpg|right|thumb|Leaves of the tag alder]]
+* ''[[Alnus serrulata]]''  <small>(Aiton) Willd. —</small> Hazel alder, tag alder or smooth alder. Eastern North America
+* ''[[Alnus sieboldiana]]'' <small>Matsum. —</small> Japan, Ryukyu Islands
+* ''[[Alnus subcordata]]''  <small>C.A.Mey. —</small> Caucasian alder. Caucasus, Iran
+* ''[[Alnus trabeculosa]]'' <small>Hand.-Mazz. —</small> China, Japan
+
+'''Subgenus ''Clethropsis'''''. Trees or shrubs with stalked shoot buds, male and female catkins produced in autumn (fall) and expanding and pollinating then, three species:
+* ''[[Alnus formosana]]'' <small>(Burkill) Makino —</small> Formosan alder. Taiwan
+* ''[[Alnus maritima]]'' <small>(Marshall) Muhl. ex Nutt. —</small> Seaside alder. United States (Georgia, Delaware, Maryland, Oklahoma).
+* ''[[Alnus nitida]]'' <small>(Spach) Endl. —</small> Himalayan alder. Western Himalaya, Pakistan, India, Nepal.
+
+'''Subgenus ''Alnobetula'''''. Shrubs with shoot buds not stalked, male and female catkins produced in late spring (after leaves appear) and expanding and pollinating then, one to four species:
+[[Image:Alnus-viridis-leaves.JPG|right|thumb|Green Alder (''Alnus viridis'')]]
+* ''[[Alnus alnobetula]]'' <small>(Ehrh.) K.Koch</small>
+* ''[[Alnus viridis]]'' <small>(Chaix) DC. 1805) —</small> Temperate and subarctic Europe, Asia, North America.
+
+; 
+; Unknown subgenus
+* ''[[Alnus djavanshirii]]'' <small>H.Zare</small>: Iran
+* ''[[Alnus dolichocarpa]]'' <small>H.Zare, Amini & Assadi</small>: Iran
+* ''[[Alnus fauriei]]'' <small>H.Lév. & Vaniot</small>: Honshu Island in Japan
+* ''[[Alnus ferdinandi-coburgii]]'' <small>C.K.Schneid.</small>: southern China
+* ''[[Alnus glutipes]]'' <small>(Jarm. ex Czerpek) Vorosch</small>.: Yakutiya region of Siberia
+* ''[[Alnus hakkodensis]]'' <small>Hayashi</small>: Honshu Island in Japan
+* ''[[Alnus henryi]]'' <small>C.K.Schneid.</small>: Taiwan
+* †''[[Alnus heterodonta]]'' <small>(Newberry) Meyer & Manchester 1987</small>: Oligocene fossil Oregon
+* ''[[Alnus lanata]]'' <small>Duthie ex Bean</small>: Sichuan Province in China
+* ''[[Alnus mairei]]'' <small>H.Lév.</small>: Yunnan Province in China
+* ''[[Alnus maximowiczii]]'' <small>Callier</small> : Japan, Korea, Russian Far East
+* ''[[Alnus paniculata]]'' <small>Nakai</small>: Korea
+* ''[[Alnus serrulatoides]]'' <small>Callier</small>: Japan
+* ''[[Alnus vermicularis]]'' <small>Nakai</small>: Korea
+
+== Hybrids ==
+* ''[[Alnus × elliptica]]'' <small>Req.—</small>Italy. ''(A. cordata × A. glutinosa)''
+* ''[[Alnus × fallacina]]''  <small>Callier—</small>Ohio, New York State, Vermont, New Hampshire, Maine. ''(A. incana ''subsp''. rugosa × A. serrulata)''
+* ''[[Alnus × hanedae]]'' <small>Suyinata—</small>Japan. ''(A. firma × A. sieboldiana)''
+* ''[[Alnus × hosoii]]'' <small>Mizush.—</small>Japan. ''(A. maximowiczii × A. pendula)''
+* ''[[Alnus × mayrii]]'' <small>Callier—</small>Russian Far East, Japan. ''(A. hirsuta × A. japonica)''
+* ''[[Alnus × peculiaris]]'' <small>Hiyama—</small>[[Kyūshū]] Island in [[Japan]]. ''(A. firma × A. pendula)''
+* ''[[Alnus × pubescens]]'' <small>Tausch</small>.—Northern and central Europe. ''(A. glutinosa × A. incana)''
+* ''[[Alnus × suginoi]]'' <small>Sugim.—</small>Japan.
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Chen, Zhiduan and Li, Jianhua (2004). "Phylogenetics and Biogeography of ''Alnus'' (Betulaceae) Inferred from Sequences of Nuclear Ribosomal DNA ITS Region". ''International Journal of Plant Sciences'' 165: 325–335.
+
+== External links ==
+{{Commons category|Alnus}}
+{{Wikispecies|Alnus}}
+* [http://rbg-web2.rbge.org.uk/cgi-bin/nph-readbtree.pl/feout?FAMILY_XREF=&GENUS_XREF=Alnus&SPECIES_XREF=&TAXON_NAME_XREF=&RANK= Flora Europaea: ''Alnus'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=40&taxon_id=101157 Flora of Bolivia: ''Alnus'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=101157 Flora of China: ''Alnus'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=101157 Flora of North America: ''Alnus'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=101157 Flora of Pakistan: ''Alnus'']
+
+{{Tannin source}}
+{{taxonbar}}
+
+[[Category:Alnus| ]]

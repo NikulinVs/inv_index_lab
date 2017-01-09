@@ -1,0 +1,82 @@
+Amyl_alcohol.txt	An '''amyl alcohol''' is any of 8 [[alcohols]] with the formula C<sub>5</sub>H<sub>11</sub>OH.<ref>[[Merriam-Webster's Collegiate Dictionary]] 11th Ed. 2004</ref> A mixture of amyl alcohols (also called amyl alcohol) can be obtained from [[fusel alcohol]]. Amyl alcohol is used as a solvent and in [[esterfication]], by which is produced [[amyl acetate]] and other important products. The name ''amyl alcohol'' without further specification applies to the normal (straight-chain) form, [[1-Pentanol|1-pentanol]].
+
+These are the 8 [[structural isomer]]s of alcohols with [[molecular formula]] C<sub>5</sub>H<sub>12</sub>O:
+
+:{| class="wikitable sortable"
+|+'''Amyl alcohol isomers'''
+|-
+! Common Name !! Structure !! Type !! [[Systematic name|IUPAC Name]] !! Boiling point (°C)<ref>Calculated boiling points from [[ChemSpider]].</ref>
+|-
+| normal amyl alcohol
+| [[Image:Pentan-1-ol-2D-skeletal.png|150px]]
+| primary
+| [[1-Pentanol|Pentan-1-ol]]
+| 138.5
+|-
+| isobutyl carbinol<br>or isoamyl alcohol<br>or isopentyl alcohol<br>or isoprenol
+| [[Image:Isoamyl alcohol.svg|120px]]
+| primary
+| [[Isoamyl alcohol|3-Methylbutan-1-ol]]
+| 131.2
+|-
+| active amyl alcohol
+| [[Image:2-Methyl-1-butanol.svg|120px]]
+| primary
+| [[2-Methylbutan-1-ol]]
+| 128.7
+|-
+| tertiary butyl carbinol<br>or neopentyl alcohol
+| [[Image:Neopentyl-alcohol-2D-skeletal.png|100px]]
+| primary
+| [[2,2-Dimethylpropan-1-ol]]
+| 113.1
+|-
+| 3-Pentanol
+| [[Image:Pentan-3-ol-2D-skeletal.png|100px]]
+| secondary
+| [[Pentan-3-ol]]
+| 115.3
+|-
+| methyl (n) propyl carbinol
+| [[Image:Pentan-2-ol-2D-skeletal.png|100px]]
+| secondary
+| [[Pentan-2-ol]]
+| 118.8
+|-
+| methyl isopropyl carbinol
+| [[Image:3-methylbutan-2-ol-2D-skeletal.png|80px]]
+| secondary
+| [[3-Methylbutan-2-ol]]
+| 113.6
+|-
+| dimethyl ethyl carbinol<br>or tertiary amyl alcohol
+| [[Image:Tert-pentyl-alcohol-2D-skeletal.png|100px]]
+| tertiary
+| [[2-Methylbutan-2-ol]]
+| 102
+|}
+
+Three of these alcohols, active amyl alcohol (2-methylbutan-1-ol), methyl (n) propyl carbinol (pentan-2-ol), and methyl isopropyl carbinol (3-methylbutan-2-ol), contain an asymmetric carbon atom and are therefore [[optical isomerism|optically active]].
+
+The most important is [[isobutyl carbinol]], the chief constituent of fermentation amyl alcohol and a constituent of [[fusel oil]]. It can be separated from fusel oil by either of two methods: shaking with strong [[brine]] solution and separating the oily layer from the brine layer; [[distillation|distilling]] it and collecting the fraction that boils between 125 and 140&nbsp;°C.
+
+Further purification is possible with this procedure: shaking the product with hot [[limewater]], separating the oily layer, drying the product with [[calcium chloride]], and distilling it, collecting  the fraction boiling between 128 and 132&nbsp;°C.
+
+Isobutyl carbinol can be synthesized from [[isobutanol]] by conversion into isovaleraldehyde, which is subsequently reduced to isobutyl carbinol by means of [[sodium amalgam]].  It is a colourless liquid of density 0.8247 g/cm³ (0&nbsp;°C), boiling at 131.6&nbsp;°C, slightly soluble in water, and easily dissolved in organic solvents. It has a characteristic strong smell and a sharp burning taste. Amyl alcohol has an oral LD50 of 200&nbsp;mg/kg in mice,<ref>http://www.sigmaaldrich.com/</ref> suggesting that it is significantly more toxic than ethanol. On passing the vapour through a red-hot tube, it decomposes into [[acetylene]], [[ethylene]], [[propylene]], and other compounds. It is [[oxidation|oxidized]] by [[chromic acid]] to [[isovaleraldehyde]], and it forms [[addition compound]]s [[crystal]]s with [[calcium chloride]] and [[tin(IV) chloride]].
+
+The other amyl alcohols may be obtained synthetically. Of these, tertiary butyl carbinol has been the most difficult to obtain, with the first reported synthesis in 1891 by L. Tissier<ref>Comptes Rendus'', 1891, 112, p. 1065''</ref> using the reduction of a mixture of trimethyl acetic acid and trimethylacetyl chloride with sodium amalgam. It is a solid that melts at 48 to 50&nbsp;°C and boils at 112.3&nbsp;°C.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{EB1911|wstitle=Amyl Alcohols}}
+
+{{Alcohols}}
+{{GABAAR PAMs}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amyl Alcohol}}
+[[Category:Alkanols]]
+[[Category:GABAA receptor positive allosteric modulators]]

@@ -1,0 +1,459 @@
+Asian_Development_Bank.txt	{{Redirect|ASDB|the Arizona state agency|Arizona State Schools for the Deaf and Blind}}
+
+{{Infobox Organization
+|name         = Asian Development Bank
+|image = Adb-logo-block.jpg
+|image_border =
+|size         = 55px
+|caption      = ADB logo
+|map          =
+|msize        =
+|mcaption     =
+|abbreviation =
+|motto        = Fighting poverty in Asia and the Pacific
+|formation    = 19 December 1966
+|extinction   =
+|type         = Multilateral Development Bank
+|status       = Treaty
+|purpose      = Social and economic development
+|headquarters = [[Mandaluyong]], [[Metro Manila]], [[Philippines]]
+|region_served = Asia-Pacific
+|membership   = 67 countries
+|leader_title = President
+|leader_name  = [[Takehiko Nakao]]
+|main_organ   = Board of Governors<ref>[http://www.adb.org/about/board-governors About: Management], ''adb.org''.</ref>
+|parent_organization =
+|affiliations =
+|num_staff    = 2997 employees<ref name="nos">{{cite web|url=http://www.adb.org/documents/adb-annual-report-2014|title=ADB Annual Report 2014|work=Asian Development Bank}}</ref>
+|num_volunteers =
+|budget       =
+|website      = http://www.adb.org
+|remarks      =
+}}
+[[Image:Asian Development Bank.png|right|thumb|300px|Asian Development Bank member states {{legend|#0000ff|Outside regions}} {{legend|#007f00|Asia-Pacific region}}]]
+The '''Asian Development Bank''' ('''ADB''') is a [[Multilateral development bank|regional development bank]] established on 19 December 1966,<ref>{{Cite web|title = ADB History|url = http://www.adb.org/about/history|publisher = adb.org|accessdate = 2015-11-26}}</ref> which is headquartered in the [[Ortigas Center]] located in Mandaluyong, [[Metro Manila]], [[Philippines]]. The company also maintains 31 field offices around the world<ref>{{Cite web|title = Departments and Offices|url = http://www.adb.org/about/departments-offices#tabs-0-1|publisher = adb.org|accessdate = 2015-11-26}}</ref> to promote social and [[economic development]] in Asia. The bank admits the members of the [[United Nations Economic and Social Commission for Asia and the Pacific]] (UNESCAP, formerly the Economic Commission for Asia and the Far East or ECAFE) and non-regional [[Developed country|developed countries]].<ref name="Ming Wan">{{Cite journal
+  |last = Ming|first = Wan|url = http://hir.harvard.edu/article-authors/ming-wan|coauthors = |title = Japan and the Asian Development Bank|journal = Pacific Affairs|volume = 68|issue = 4|pages = 509–528|publisher = University of British Columbia|date = Winter 1995–1996|jstor = 2761274|doi = 10.2307/2761274}}</ref> From 31 members at its establishment, ADB now has 67 members, of which 48 are from within Asia and the Pacific and 19 outside. The ADB was modeled closely on the [[World Bank]], and has a similar weighted voting system where votes are distributed in proportion with members' capital subscriptions. ADB releases an annual report  that summarizes its operations, budget and other materials for review by the public.<ref>{{Cite web|title = ADB Annual Reports|url = http://www.adb.org/documents/series/adb-annual-reports|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-26|last = Anonymous}}</ref>
+
+At the end of 2014, Japan holds the largest proportion of shares at 15.7%. The United States holds 15.6%, China holds 6.5%, India holds 6.4%, and Australia holds 5.8%.<ref>{{Cite web|title = Shareholders|url = http://www.adb.org/site/investors/credit-fundamentals/shareholders|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-26|last = admin}}</ref>
+
+==Organization==
+[[File:Adb-hq.jpg|thumb|300x300px|ADB Headquarters in [[Mandaluyong City]], [[Metro Manila]], [[Philippines]]]]
+The highest policy-making body of the bank is the Board of Governors, composed of one representative from each member state. The Board of Governors, in turn, elect among themselves the twelve members of the Board of Directors and their deputies. Eight of the twelve members come from regional (Asia-Pacific) members while the others come from non-regional members.<ref>{{Cite web|title = Board of Directors|url = http://www.adb.org/about/board-directors|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-26|last = admin}}</ref>
+
+The Board of Governors also elect the bank's president, who is the chairperson of the Board of Directors and manages ADB. The president has a term of office lasting five years, and may be reelected. Traditionally, and because [[Japan]] is one of the largest shareholders of the bank, the president has always been Japanese.
+
+The current president was [[Takehiko Nakao]], who succeeded [[Haruhiko Kuroda]] in 2013.<ref>{{cite web|url=http://www.adb.org/news/new-adb-president-takehiko-nakao-assumes-office|title=New ADB President Takehiko Nakao Assumes Office|work=Asian Development Bank}}</ref>
+
+The headquarters of the bank is at 6 [[ADB Avenue]], [[Mandaluyong]], [[Metro Manila]], [[Philippines]],<ref>"[http://www.adb.org/contacts Contacts]." ([http://www.webcitation.org/65aHxBRYl?url=http%3A%2F%2Fbeta.adb.org%2Fcontacts%2Fmain Archive]) Asian Development Bank. Retrieved on April 21, 2015. "6 ADB Avenue, Mandaluyong City 1550, Philippines"</ref><ref>"[http://www.adb.org/contacts/main Contacts: How to Visit ADB]." ([http://www.webcitation.org/65aHzlnkl?url=http%3A%2F%2Fbeta.adb.org%2Fsites%2Fdefault%2Ffiles%2FADB-Map.pdf Archive]) Asian Development Bank. Retrieved on April 21, 2015.</ref> and it has 25 field offices in Asia and the Pacific and representative offices in Washington, Frankfurt, Tokyo and Sydney. The bank employs about 3,000 people, representing 60 of its 67 members.<ref>{{Cite web|title = Key Facts|url = http://www.adb.org/about/key-facts|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-26|last = admin}}</ref>
+
+===List of presidents===
+
+{| class="wikitable"
+|-
+! Name
+! Dates
+! Nationality
+|-
+| [[Takeshi Watanabe (bureaucrat)|Takeshi Watanabe]]
+| 1966–1972
+| {{Flagu|Japan}}
+|-
+| Shiro Inoue
+| 1972–1976
+| {{Flagu|Japan}}
+|-
+| Taroichi Yoshida
+| 1976–1981
+| {{Flagu|Japan}}
+|-
+| Masao Fujioka
+| 1981–1989
+| {{Flagu|Japan}}
+|-
+| Kimimasa Tarumizu
+| 1989–1993
+| {{Flagu|Japan}}
+|-
+| Mitsuo Sato
+| 1993–1999
+| {{Flagu|Japan}}
+|-
+| [[Tadao Chino]]
+| 1999–2005
+| {{Flagu|Japan}}
+|-
+| [[Haruhiko Kuroda]]
+| 2005–2013
+| {{Flagu|Japan}}
+|-
+| [[Takehiko Nakao]]
+| 2013–
+| {{Flagu|Japan}}
+|}
+
+==History==
+
+===1960s===
+The concept of a regional bank was formally proposed as an institution for developing intra-regional trade, at a trade conference organized by the Economic Commission for Asia and the Far East (ECAFE) in 1963 by a young Thai banker, Paul Sithi-Amnuai. (ESCAP, United Nations Publication March 2007, "The first parliament of Asia" pp.&nbsp;65). The United States was initially opposed to the creation of another regional development bank following the establishment of the Inter-American Development Bank in 1959. However, with the escalation of the Vietnam War, U.S. President [[Lyndon B. Johnson]] was persuaded to support the establishment of the ADB in 1964 in an effort the mollify Senator [[J. William Fulbright]] (Chairman of the Senate Foreign Relations Committee) who argued that the [[Vietnam War]] would not only bleed American blood and treasure, but would also be very bad for America's image in Asia. President Johnson pressed retired World Bank President [[Eugene R. Black, Sr.]] into organizing and establishing the new institution.<ref name="devpolicy.org">http://devpolicy.org/aiibe-20150810/{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+In the process, U.S. Secretary of State [[Dean Rusk]] urged that Japan play an important role in the ADB. He argued that the biggest danger to American foreign policy in Asia was Japan's inability to integrate into the Asian society of nations following the animosities of [[World War II]]. Indeed, there was sharp Asian opposition to Japan's participation in the institution. After considerable diplomatic effort, Japan was eventually accepted into the organization by the majority of the participating nations, and Tokyo was selected as the site of the bank's headquarters. The Presidency was to rotate between the various countries of Asia. However, at the eleventh hour in a meeting of the delegates in Manila, Philippine President [[Ferdinand Marcos]] delivered a stinging tirade against the establishment of the ADB with Japanese participation. He threatened to personally travel to every Asian capital and scuttle the project. Eugene Black, with the assistance of President Johnson, was finally able to mollify President Marcos with the promise to locate the ADB in Manila. (In fact, Marcos eagerly volunteered to house the ADB in the newly constructed building on prestigious Roxas Boulevard, which had been designated for the Foreign Ministry.) As a concession to the Japanese, they were given the inaugural Presidency of the institution - a position they have tenaciously held onto ever since.<ref name="devpolicy.org"/>
+
+Once the ADB was founded in 1966, Japan took up the Presidency and some other crucial "reserve positions" such as the directorship of the all-powerful administration department known as BPMSD (Budget, Personnel, and Management Systems Department) through which they manage the institution. By the end of 1972, Japan had contributed $173.7 million (22.6% of the total) to the ordinary capital resources and $122.6 million (59.6% of the total) to the special funds. In contrast, the United States contributed only $1.25 million to the special fund.<ref name="Ming Wan" />
+
+After its creation in the 1960s, ADB focused much of its assistance on food production and rural development. At the time, Asia was one of the poorest regions in the world.<ref name="admin">{{Cite web|title = ADB History|url = http://www.adb.org/about/history|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-21|last = admin}}</ref>
+
+Early loans went largely to [[Indonesia]], [[Thailand]], [[Malaysia]], [[South Korea|Republic of Korea]] and the [[Philippines]], the countries with which Japan had crucial trading ties; these nations accounted for 78.48% of the total ADB loans between 1967 and 1972. Moreover, Japan received tangible benefits, 41.67% of the total procurements between 1967 and 1976. Japan tied its special funds contributions to its preferred sectors and regions and procurements of its goods and services, as reflected in its $100 million donation for the Agricultural Special Fund in April 1968.<ref name="Ming Wan" />
+
+[[Takeshi Watanabe (bureaucrat)|Takeshi Watanabe]] served as the first ADB president from 1966 to 1972.<ref name="KapurLewis">{{cite book|author1=Devesh Kapur|author2=John Prior Lewis|author3=Richard Charles Webb|title=The World Bank: Perspectives|url=https://books.google.com/books?id=suOGRlBoPgQC&pg=PA304|publisher=Brookings Institution Press|isbn=0-8157-2014-9|pages=304–}}</ref><ref name="Magill2014">{{cite book|author=Frank N. Magill|title=Chron 20c Hist Bus Comer|url=https://books.google.com/books?id=ySJpAwAAQBAJ&pg=PA891|date=23 April 2014|publisher=Routledge|isbn=978-1-134-26462-9|pages=891–}}</ref>
+
+===1970s–1980s===
+In the 1970s, ADB's assistance to developing countries in Asia expanded into education and health, and then to infrastructure and industry. The gradual emergence of Asian economies in the latter part of the decade spurred demand for better infrastructure to support economic growth. ADB focused on improving roads and providing electricity. When the world suffered its first oil price shock, ADB shifted more of its assistance to support energy projects, especially those promoting the development of domestic energy sources in member countries.<ref name="admin"/>
+
+Following considerable pressure from the Reagan Administration in the 1980s, ADB reluctantly began working with the private sector in an attempt to increase the impact of its development assistance to poor countries in Asia and the Pacific. In the wake of the second oil crisis, ADB expanded its assistance to energy projects. In 1982, ADB opened its first field office, in [[Bangladesh]], and later in the decade it expanded its work with non-government organizations (NGOs).<ref name="admin"/>
+
+Japanese presidents Inoue Shiro (1972–76) and Yoshida Taroichi (1976–81) took the spotlight in the 1970s. Fujioka Masao, the fourth president (1981–90), adopted an assertive leadership style, launching an ambitious plan to expand the ADB into a high-impact development agency.
+
+===1990s===
+In the 1990s, ADB began promoting regional cooperation by helping the countries on the Mekong River to trade and work together. The decade also saw an expansion of ADB's membership with the addition of several Central Asian countries following the end of the Cold War.<ref name="admin"/>
+
+In mid-1997, ADB responded to the financial crisis that hit the region with projects designed to strengthen financial sectors and create social safety nets for the poor. During the crisis, ADB approved its largest single loan – a $4 billion emergency loan to the Republic of Korea. In 1999, ADB adopted poverty reduction as its overarching goal.<ref name="admin"/>
+
+===2000s===
+In 2003, the [[severe acute respiratory syndrome]] (SARS) epidemic hit the region and ADB responded with programs to help the countries in the region work together to address infectious diseases, including [[avian influenza]] and HIV/[[AIDS]]. ADB also responded to a multitude of natural disasters in the region, committing more than $850 million for recovery in areas of India, Indonesia, Maldives, and Sri Lanka which were impacted by the December 2004 Asian tsunami. In addition, $1 billion in loans and grants was provided to the victims of the October 2005 earthquake in Pakistan.<ref name="admin"/>
+
+In March 2008, the Board of Directors formally adopted the Long Term Strategic Framework (LTSF) which stated that assistance to private sector development was the lead priority of the ADB and that it should constitute 50% of the bank's lending by 2020.
+
+In 2009, ADB's Board of Governors agreed to triple ADB's capital base from $55 billion to $165 billion, giving it much-needed resources to respond to the [[Financial crisis of 2007–2008|global economic crisis]]. The 200% increase is the largest in ADB's history, and was the first since 1994.<ref name="admin"/>
+
+===2010s===
+Asia moved beyond the economic crisis and by 2010 had emerged as a new engine of global economic growth though it remained home to two-thirds of the world’s poor. In addition, the increasing prosperity of many people in the region created a widening [[income gap]] that left many people behind. ADB responded to this with loans and grants that encouraged economic growth.<ref name="admin"/>
+
+In early 2012, the ADB began to re-engage with [[Myanmar]] in response to reforms initiated by the government. In April 2014, ADB opened an office in Myanmar and resumed making loans and grants to the country.<ref name="admin"/>
+
+In 2017, ADB will combine the lending operations of its Asian Development Fund (ADF) with its ordinary capital resources (OCR), which will increase its annual lending and grants to as high as $20 billion—50% more than the previous level.<ref name="admin"/>
+
+==Objectives and activities==
+
+===Aim===
+The ADB defines itself as a [[social development]] organization that is dedicated to reducing [[poverty]] in Asia and the Pacific through inclusive [[economic growth]], environmentally [[sustainable growth]], and [[regional integration]]. This is carried out through [[investment]]s – in the form of loans, grants and information sharing – in infrastructure, health care services, financial and public administration systems, helping nations prepare for the impact of [[climate change]] or better [[natural resource management|manage their natural resources]], as well as other areas.<ref>{{Cite web|title = Overview|url = http://www.adb.org/about/overview|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+
+===Focus areas===
+Eighty percent of ADB’s lending is concentrated  public sector lending in five operational areas.<ref>{{Cite web|title = Core Operational Areas|url = http://www.adb.org/about/core-operational-areas|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* [[Education]] - Most developing countries in Asia and the Pacific have earned high marks for a dramatic rise in primary education enrollment rates in the last three decades, but daunting challenges remain, threatening economic and social growth.<ref>{{Cite web|title = Education|url = http://www.adb.org/sectors/education/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* Environment, Climate Change, and Disaster Risk Management - [[Environmental sustainability]] is a prerequisite for economic growth and poverty reduction in Asia and the Pacific.<ref>{{Cite web|title = Environment, Climate Change, and Disaster Risk Management|url = http://www.adb.org/themes/environment/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* Finance Sector Development - The financial system is the lifeline of a country’s economy. It creates prosperity that can be shared throughout society and benefit the poorest and most vulnerable people. Financial sector and capital market development, including microfinance, small and medium-sized enterprises, and regulatory reforms, is vital to decreasing poverty in Asia and the Pacific.<ref>{{Cite web|title = Finance Sector Development|url = http://www.adb.org/sectors/finance/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* Infrastructure, including transport<ref>{{Cite web|title = Sustainable Transport for All|url = http://www.adb.org/sectors/transport/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> and communications,<ref>{{Cite web|title = Information and Communications Technology|url = http://www.adb.org/sectors/ict/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> energy,<ref>{{Cite web|title = Energy|url = http://www.adb.org/sectors/energy/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> water supply and sanitation,<ref>{{Cite web|title = Water for All|url = http://www.adb.org/sectors/water/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> and urban development.<ref>{{Cite web|title = Urban Development|url = http://www.adb.org/themes/urban-development/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* Regional Cooperation and Integration - Regional cooperation and integration (RCI) was introduced by President Kuroda when he joined the ADB in 2004. It was seen as a long-standing priority of the Japanese government as a process by which national economies become more regionally connected. It plays a critical role in accelerating economic growth, reducing poverty and economic disparity, raising productivity and employment, and strengthening institutions.<ref>{{Cite web|title = Regional Cooperation and Integration|url = http://www.adb.org/themes/regional-cooperation/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+* Private Sector Lending - This priority was introduced into the ADB's activities at the insistence of the Reagan Administration. However, that effort was never a true priority until the administration of President Tadeo Chino who in turn brought in a seasoned American banker - Robert Bestani. From then on, the Private Sector Operations Department (PSOD) grew at a very rapid pace, growing from the smallest financing unit of the ADB to the largest in terms of financing volume. As noted earlier, this culminated in the Long Term Strategic Framework (LTSF) which was adopted by the Board in March 2008.
+
+==Lending==
+The ADB offers [[Soft loan|"hard" loans]] on commercial terms primarily to middle income countries in Asia and "[[Soft loan|soft" loans]] with lower interest rates to poorer countries in the region. Based on a new policy, both types of loans will be sourced starting January 2017 from the bank’s ordinary capital resources (OCR), which functions as its general operational fund.<ref>{{Cite web|title = ADF-OCR Merger to Boost Support for Region’s Poor|url = http://www.adb.org/news/adf-ocr-merger-boost-support-region-s-poor|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-27|first = Asian Development|last = Bank}}</ref>
+
+In 2014, ADB lent $11.2 billion to its member governments – known as "sovereign" lending – and invested another $1.7 billion in private enterprises, as part of its "nonsovereign" operations. ADB’s operations in 2014, including grants and other assistance, totaled $22.93 billion.<ref>{{Cite web|title = ADB Annual Report 2014|url = http://www.adb.org/documents/adb-annual-report-2014|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-27|first = Asian Development|last = Bank}}</ref>
+
+ADB obtains its funding by issuing bonds on the world's capital markets. It also relies on the contributions of member countries, retained earnings from lending operations, and the repayment of loans.<ref>{{Cite web|title = FAQs|url = http://www.adb.org/about/faqs|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-11-27|last = admin}}</ref>
+
+==Private sector investments==
+ADB provides direct financial assistance, in the form of debt, equity and mezzanine finance to private sector companies, for projects that have clear social benefits beyond the financial rate of return. ADB’s participation is usually limited but it leverages a large amount of funds from commercial sources to finance these projects by holding no more than 25% of any given transaction.<ref>{{Cite web|title = Private Sector (Nonsovereign) Financing|url = http://www.adb.org/site/private-sector-financing/main|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+
+==Cofinancing==
+ADB partners with other development organizations on some projects to increase the amount of funding available. In 2014, $9.2 billion—or nearly half—of ADB’s $22.9 billion in operations were financed by other organizations.<ref>{{Cite web|title = Official Cofinancing|url = http://www.adb.org/site/public-sector-financing/official-cofinancing|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> According to [[Jason Rush]], Principal Communication Specialist, the Bank communicates with many other multilateral organizations.
+
+==Funds and resources==
+More than 50 financing partnership facilities, trust funds, and other funds – totalling several billion each year – are administered by ADB and put toward projects that promote social and economic development in Asia and the Pacific.<ref>{{Cite web|title = Funds|url = http://www.adb.org/site/funds/funds|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> ADB has raised Rs 5 billion or around Rs 500 crores from its issuance of 5-year offshore Indian rupee (INR) linked bonds. Also, plans to raise around $20 billion from the capital markets in 2016.<ref>http://www.business-standard.com/article/pti-stories/adb-raises-rs-500-cr-in-rupee-linked-bonds-116072800207_1.html</ref>
+
+==Access to information==
+ADB has an information disclosure policy that presumes all information that is produced by the institution should be disclosed to the public unless there is a specific reason to keep it confidential. The police calls for accountability and transparency in operations and the timely response to requests for information and documents.<ref>{{Cite web|title = Overview|url = http://www.adb.org/site/disclosure/overview|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref> ADB does not disclose information that jeopardizes personal privacy, safety and security, certain financial and commercial information, as well as other exceptions.<ref>{{Cite web|title = Exceptions to Disclosure|url = http://www.adb.org/site/disclosure/public-communications-policy/exceptions|website = Asian Development Bank|publisher = adb.org|accessdate = 2015-12-14|last = admin}}</ref>
+
+==Notable projects and technical assistance==
+{{Self-published|Source|date=September 2010}}
+* [[Afghanistan]]: Hairatan to Mazar-e-Sharif Railway Project<ref>{{Cite web|title = Hairatan to Mazar-i-Sharif railway {{!}} Railways of Afghanistan|url = http://www.andrewgrantham.co.uk/afghanistan/railways/hairatan-to-mazar-i-sharif/|website = www.andrewgrantham.co.uk|accessdate = 2015-11-27}}</ref>
+* [[Armenia]]: Water Supply and Sanitation Sector Project<ref>{{Cite web|title = Water Supply and Sanitation Sector Project - Additional Financing in Armenia: General Procurement Notice {{!}} Devex|url = https://www.devex.com/projects/tenders/water-supply-and-sanitation-sector-project-additional-financing-in-armenia-general-procurement-notice/7292|website = www.devex.com|accessdate = 2015-11-27}}</ref>
+* [[Bhutan]]: Green Power Development Project<ref>{{Cite web|title = Proposed Green Power Development Project in Bhutan {{!}} Devex|url = https://www.devex.com/projects/tenders/proposed-green-power-development-project-in-bhutan/50258|website = www.devex.com|accessdate = 2015-11-27}}</ref>
+* [[India]]: Rural Roads Sector II Investment Program<ref>{{Cite web|title = Government signs loan agreement with ADB for Rural Roads Sector II Investment Program–Project 4, Special Content -  Association Releases - ConstructionBiz360,ConstructionBiz360|url = http://www.constructionbiz360.com/article/45/2009090820090908180955234905dd67f/Government-signs-loan-agreement-with-ADB-for-Rural-Roads-Sector-II-Investment-Program%25E2%2580%2593Project-4.html|website = www.constructionbiz360.com|accessdate = 2015-11-27}}</ref>
+* [[Indonesia]]: Vocational Education Strengthening Project<ref>{{Cite web|title = ADB supports vocational education in Indonesia|url = http://www.antaranews.com/en/news/84768/adb-supports-vocational-education-in-indonesia|website = www.antaranews.com|accessdate = 2015-11-27}}</ref>
+* [[Lao People’s Democratic Republic]]: Northern and Central Regions Water Supply and Sanitation Sector Project<ref>{{Cite web|title = Oudomxay hosts belated opening ceremony for water treatment plant|url = https://laospdrnews.wordpress.com/2012/06/01/oudomxay-hosts-belated-opening-ceremony-for-water-treatment-plant/|website = Lao People's Democratic Republic|accessdate = 2015-11-27|first = B. J.|last = Murphy}}</ref>
+* [[Mongolia]]: Food and Nutrition Social Welfare Program and Project<ref>{{Cite web|title = Food and Nutrition Social Welfare Programme and Project (Capacity Development Project - M&E)|url = http://www.opml.co.uk/projects/food-and-nutrition-social-welfare-programme-and-project-capacity-development-project-me|website = Oxford Policy Management|accessdate = 2015-11-27}}</ref>
+* [[Solomon Islands]]: Pacific Private Sector Development Initiative<ref>{{Cite web|title = Pacific banks go branchless to reach the unbanked {{!}} Scoop News|url = http://www.scoop.co.nz/stories/WO1401/S00030/pacific-banks-go-branchless-to-reach-the-unbanked.htm|website = www.scoop.co.nz|accessdate = 2015-11-27}}</ref>
+{{Self-published|Source|date=September 2010}}
+<!-- Deleted image removed: [[Image:Adb large.jpg|300px|thumb|right|View of the ADB from the West Parking.]] -->
+
+==Criticism==
+Since the ADB's early days, critics have charged that the two major donors, Japan and the United States, have had extensive influence over lending, policy and staffing decisions.<ref name="Kilby">
+{{Cite journal
+  | last = Kilby
+  | first = Christopher
+  | coauthors =
+  | title = Donor Influence in MDBs: The Case of the Asian Development Bank
+  | journal = The Review of International Organizations
+  | volume = 68
+  | issue = 4
+  | pages = 509–528
+  | publisher =
+  | year = 2002
+  | url = http://www.williams.edu/Economics/neudc/papers/ADB.3.pdf
+  | doi =
+  | accessdate = 2010-09-16}}
+</ref>
+
+[[Oxfam]] Australia has criticized the Asian Development Bank for insensitivity to local communities. "Operating at a global and international level, these banks can undermine people's human rights through projects that have detrimental outcomes for poor and marginalized communities."<ref>{{cite web|url=http://www.oxfam.org.au/campaigns/adb/|title=The Asian Development Bank and Food Security|work=Oxfam Australia}}</ref> The bank also received criticism from the [[United Nations Environmental Program]], stating in a report that "much of the growth has bypassed more than 70 percent of its rural population, many of whom are directly dependent on natural resources for livelihoods and incomes."<ref>{{cite web|url=http://ipsnews.net/news.asp?idnews=38568|title=Inter Press Service - News and Views from the Global South|publisher=}}</ref>
+
+There had been criticism that ADB's large scale projects cause social and environmental damage due to lack of oversight. One of the most controversial ADB-related projects is [[Thailand]]'s Mae Moh [[coal-fired power station]]. Environmental and human rights activists say ADB's environmental safeguards policy as well as policies for [[indigenous peoples]] and [[involuntary resettlement]], while usually up to international standards on paper, are often ignored in practice, are too vague or weak to be effective, or are simply not enforced by bank officials.<ref>{{cite web|url=http://search.japantimes.co.jp/cgi-bin/nn20070508a5.html|title=Large-scale ADB projects draw criticism|work=The Japan Times}}</ref><ref>{{cite web|url=http://www.rfi.fr/actuen/articles/113/article_3679.asp|title=RFI - NGO criticises ADB and questions its ability to reduce poverty|publisher=rfi.fr}}</ref>
+
+The bank has been criticized over its role and relevance in the [[food crisis]]. The ADB has been accused by civil society of ignoring warnings leading up the crisis and also contributing to it by pushing loan conditions that many say unfairly pressure governments to [[deregulate]] and [[privatize]] agriculture, leading to problems such as the rice supply shortage in [[Southeast Asia]].<ref>[http://www.bicusa.org/en/Article.3746.aspx "ADB to meet amid food crisis, growing poverty"] {{webarchive |url=https://web.archive.org/web/20110717063923/http://www.bicusa.org/en/Article.3746.aspx |date=July 17, 2011 }}</ref>
+
+The bank has also been criticized by [[Vietnam War]] [[Vietnam veteran|veterans]] for funding projects in Laos, because of the United States' 15% stake in the bank, underwritten by taxes.<ref>{{Cite news|first=Denny |last=Walsh |title=Laos plot case back in federal court |url=http://www.sacbee.com/101/story/882584.html |publisher=Sacramento Bee |date=2008-04-23 |accessdate=2008-04-23 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> Laos became a [[communist]] country after the U.S. withdrew from Vietnam, and the [[Laotian Civil War]] was won by the [[Pathet Lao]], which is widely understood to have been supported by the [[North Vietnamese Army]].
+
+In 2009, the bank endorsed a $2.9 billion funding strategy for proposed projects in India. The projects in this strategy were only indicative and still needed to be further approved by the bank's board of directors; however, PRC Foreign Ministry spokesman Qin Gang claimed, "The Asian Development Bank, regardless of the major concerns of China, approved the India Country Partnership strategy which involves the territorial dispute between China and India. China expresses its strong dissatisfaction over this.... The bank's move not only seriously tarnishes its own name, but also undermines the interests of its members."<ref>{{Cite news| title=China slams ADB over India funding | url=http://english.sina.com/china/2009/0618/249531.html | publisher=SINA English | date=2009-06-19 | accessdate=2009-06-24 }}</ref>
+
+There has been considerable criticism of management for its reluctance to implement the Long Term Strategic Framework (LTSF) which (as noted above) was formally adopted in March 2008. Indeed, whereas the Private Sector Operations Department (PSOD) closed out that year with financings of $2.4 billion, the ADB has significantly dropped below that level in the years since and is clearly not on the path to achieving its stated goal of 50% of financings to the private sector by 2020. Critics also point out that the PSOD is the only Department that actually makes money for the ADB. Hence, with the vast majority of loans going to concessionary (sub-market) loans to the public sector, the ADB is facing considerable financial difficulty and continuous operating losses.
+
+==List of 20 largest countries and regions by subscribed capital and voting power==
+The following table are amounts for 20 largest countries by subscribed capital and voting power at the Asian Development Bank as of December 2014.<ref name="adb.org1">{{cite web|url=http://www.adb.org/sites/default/files/institutional-document/158032/oi-appendix1.pdf|format=PDF|title=Members, Capital Stock, and Voting Power |date=December 2014|publisher=adb.org}}</ref>
+
+{| class="wikitable sortable" style="text-align: right"
+|+ The 20 largest countries and regions by subscribed capital and voting power at the Asian Development Bank
+! Rank !! Country !! Subscribed capital<br>(% of total) !! Rank !! Country !! Voting power<br>(% of total)
+|-
+|  || align=left|'''''[[World]]''''' || 100.000 ||   || align=left|'''''[[World]]''''' || 100.000
+|-
+| 1 || align=left|{{JPN}} || 15.677 ||   || align=left|''{{EU}}'' || 15.724
+|-
+| 2 || align=left|{{USA}} || 15.567 || 1 || align=left|{{JPN}} || 12.840
+|-
+|   || align=left|''{{EU}}'' || 14.429 || 2 || align=left|{{USA}} || 12.752
+|-
+| 3 || align=left|{{CHN}} || 6.473 || 3 || align=left|{{CHN}} || 5.477
+|-
+| 4 || align=left|{{IND}} || 6.359 || 4 || align=left|{{IND}} || 5.386
+|-
+| 5 || align=left|{{AUS}} || 5.812 || 5 || align=left|{{AUS}} || 4.948
+|-
+| 6 || align=left|{{CAN}} || 5.254 || 6 || align=left|{{CAN}} || 4.502
+|-
+| 7 || align=left|{{IDN}} || 5.131 || 7 || align=left|{{IDN}} || 4.404
+|-
+| 8 || align=left|{{KOR}} || 5.060 || 8 || align=left|{{KOR}} || 4.347
+|-
+| 9 || align=left|{{DEU}} || 4.345 || 9 || align=left|{{DEU}} || 3.775
+|-
+| 10 || align=left|{{MYS}} || 2.735 || 10 || align=left|{{MYS}} || 2.487
+|-
+| 11 || align=left|{{PHL}} || 2.393 || 11 || align=left|{{PHL}} || 2.213
+|-
+| 12 || align=left|{{FRA}} || 2.338 || 12 || align=left|{{FRA}} || 2.169
+|-
+| 13 || align=left|{{PAK}} || 2.188 || 13 || align=left|{{PAK}} || 2.049
+|-
+| 14 || align=left|{{GBR}} || 2.051 || 14 || align=left|{{GBR}} || 1.940
+|-
+| 15 || align=left|{{ITA}} || 1.815 || 15 || align=left|{{ITA}} || 1.751
+|-
+| 16 || align=left|{{NZL}} || 1.543 || 16 || align=left|{{NZL}} || 1.533
+|-
+| 17 || align=left|{{THA}} || 1.368 || 17 || align=left|{{THA}} || 1.393
+|-
+| 18 || align=left|{{TWN}} || 1.094 || 18 || align=left|{{TWN}} || 1.174
+|-
+| 19 || align=left|{{NED}} || 1.030 || 19 || align=left|{{NED}} || 1.123
+|-
+| 20 || align=left|{{BAN}} || 1.026 || 20 || align=left|{{BAN}} || 1.119
+|}
+
+==Members==
+[[Image:Asian Development Bank (DMC Stages).png|right|thumb|300px|Asian Development Bank - [[Developing countries|Developing Member Countries]] (DMC) graduation stages<ref>{{cite web|url=http://www.adb.org/documents/graduation-policy-banks-dmcs|title=A Graduation Policy for the Bank's DMCs|work=Asian Development Bank}}</ref>
+{{legend|#0000ff|Outside regions}} {{legend|#007f00|Asia-Pacific region [[developed countries|developed members]]}} {{legend|#7f4000|DMC graduated from assistance, Group-D}} {{legend|#ff7f40|Ordinary Capital Resources (OCR) financing, Group-C}} {{legend|#ff00ff|OCR and ADF blended financing, Group-B}} {{legend|#ff0000|Asian Development Fund (ADF) financing, Group-A}}]]
+
+ADB has 67 members (as of 2 February 2007): 48 members from the Asian and Pacific Region, 19 members from Other Regions.<ref name="adb.org">{{cite web|url=http://www.adb.org/about/members|title=Members|work=Asian Development Bank}}</ref> The non-member nations wholly or primarily in Asia are [[Bahrain]], [[Iran]], [[Iraq]], [[Israel]], [[Jordan]], [[Kuwait]], [[Lebanon]], [[North Korea]], [[Oman]], [[Qatar]], [[Russia]], [[Saudi Arabia]], [[Syria]], the [[United Arab Emirates]], and [[Yemen]]. ''Names are as recognized by ADB.''<br /> The year after a member's name indicates the year of membership. At the time a country ceases to be a member, the Bank shall arrange for the repurchase of such country's shares by the Bank as a part of the settlement of accounts with such country in accordance with the provisions of paragraphs 3 and 4 of Article 43.<ref>{{Cite book
+|url=http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter
+|title=Agreement Establishing the Asian Development Bank
+|publisher=Asian Development Bank
+|accessdate=2007-12-10
+|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref>
+
+{| style="border-collapse: collapse; background: transparent;"
+|-
+| style="vertical-align: top;" |
+{| class="wikitable sortable"
+|-
+! Country
+! Date of accession
+|-
+|{{flag|Afghanistan}} || 1966
+|-
+|{{flag|Australia}} || 1966
+|-
+|{{flag|Cambodia}} || 1966
+|-
+|{{flag|India}} || 1966
+|-
+|{{flag|Indonesia}} || 1966
+|-
+|{{flag|Japan}} || 1966
+|-
+|{{flag|Korea, Republic of}} || 1966
+|-
+|{{flag|Lao People's Democratic Republic}}<ref>Joined as {{Flag|Kingdom of Laos}}, succeeded by Lao PDR in 1975</ref> || 1966
+|-
+|{{flag|Malaysia}} || 1966
+|-
+|{{flag|Nepal}} || 1966
+|-
+|{{flag|New Zealand}} || 1966
+|-
+|{{flag|Pakistan}} || 1966
+|-
+|{{flag|Philippines}} || 1966
+|-
+|{{flag|Samoa}} || 1966
+|-
+|{{flag|Singapore}} || 1966
+|-
+|{{flag|Sri Lanka}} || 1966
+|-
+|{{flag|ROC|name=Taiwan}}<ref>{{cite web|url=http://www.adb.org/publications/taipei-china-fact-sheet|title=Asian Development Bank and Taipei,China: Fact Sheet|work=Asian Development Bank}}</ref><ref>Joined as {{Flag|Republic of China|name = China, Republic of}} representing not only [[Taiwan Area]], but also nominally [[Mainland China]] until 1986. However, its share of Bank capital was based on the size of Taiwan's capital, unlike the World Bank and IMF where the government in Taiwan had had a share. The representation was succeeded by {{Flag|China|name = People's Republic of China}} in 1986. However, the ROC was allowed to retain its membership, but under the name of Taipei, China [http://www.amcham.com.tw/content/view/2834/ (space deliberately omitted after the comma)] — a name it protests. Uniquely, this allows both sides of the Taiwan Straits to be represented at the institution.</ref> || 1966
+|-
+|{{flag|Thailand}} || 1966
+|-
+|{{flag|Vietnam|name=Viet Nam, Socialist Republic of}}<ref>Formerly {{Flag|South Vietnam|name = Viet Nam, Republic of}} until 1975</ref> || 1966
+|-
+|{{flag|Hong Kong}}<ref>Joined as "British Hong Kong", not "Hong Kong SAR"</ref> || 1969
+|-
+|{{flag|Fiji}} || 1970
+|-
+|{{flag|Papua New Guinea}} || 1971
+|-
+|{{flag|Tonga}} || 1972
+|-
+|{{flag|Bangladesh}} || 1973
+|-
+|{{flag|Burma}} || 1973
+|-
+|{{flag|Solomon Islands}} || 1973
+|-
+|{{flag|Kiribati}} || 1974
+|-
+|{{flag|Cook Islands}} || 1976
+|-
+|{{flag|Maldives}} || 1978
+|-
+|{{flag|Vanuatu}} || 1981
+|-
+|{{flag|Bhutan}} || 1982
+|-
+|{{flag|China, People's Republic of}} || 1986
+|-
+|{{flag|Marshall Islands}} || 1990
+|-
+|{{flag|Micronesia, Federated States of}} || 1990
+|-
+|{{flag|Mongolia}} || 1991
+|-
+|{{flag|Nauru}} || 1991
+|-
+|{{flag|Tuvalu}} || 1993
+|-
+|{{flag|Kazakhstan}} || 1994
+|-
+|{{flag|Kyrgyzstan|name=Kyrgyz Republic}} || 1994
+|-
+|{{flag|Uzbekistan}} || 1995
+|-
+|{{flag|Tajikistan}} || 1998
+|-
+|{{flag|Azerbaijan}} || 1999
+|-
+|{{flag|Turkmenistan}} || 2000
+|-
+|{{flag|Timor-Leste}} || 2002
+|-
+|{{flag|Palau}} || 2003
+|-
+|{{flag|Armenia}} || 2005
+|-
+|{{flag|Brunei Darussalam}} || 2006
+|-
+|{{flag|Georgia}} || 2007
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable sortable"
+|-
+! Country
+! Date of accession
+|-
+|{{flag|Austria}} || 1966
+|-
+|{{flag|Belgium}} || 1966
+|-
+|{{flag|Canada}} || 1966
+|-
+|{{flag|Denmark}} || 1966
+|-
+|{{flag|Finland}} || 1966
+|-
+|{{flag|Germany}}<ref>Founding member; joined as [[West Germany]].</ref> || 1966
+|-
+|{{flag|Italy}} || 1966
+|-
+|{{flag|Netherlands}} || 1966
+|-
+|{{flag|Norway}} || 1966
+|-
+|{{flag|Sweden}} || 1966
+|-
+|{{flag|United Kingdom}} || 1966
+|-
+|{{flag|United States}} || 1966
+|-
+|{{flag|Switzerland}} || 1967
+|-
+|{{flag|France}} || 1970
+|-
+|{{flag|Spain}} || 1986
+|-
+|{{flag|Turkey}} || 1991
+|-
+|{{flag|Portugal}} || 2002
+|-
+|{{flag|Luxembourg}} || 2003
+|-
+|{{flag|Ireland}} || 2006
+|-
+|}
+|}
+
+==See also==
+* [[African Development Bank]]
+* [[Asian Clearing Union]]
+* [[Asian Development Bank Institute]] (ADBI)
+* [[Asian Infrastructure Investment Bank]] (AIIB)
+* [[Asia Cooperation Dialogue]]
+* [[Caribbean Development Bank]]
+* [[International Monetary Fund]]
+* [[South Asia Subregional Economic Cooperation]]
+* [[World Bank]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Asian Development Bank}}
+* {{official website|http://www.adb.org }}
+* [http://www.bicusa.org/ Bank Information Center]
+* [http://www.adbi.org ADB Institute]
+* [http://www.dollarsandsense.org/archives/2007/1107miller.html "Inequality Worsens across Asia"], ''[[Dollars & Sense]]'' magazine, November/December 2007. Article discussing recent reports from the ADB.
+* [http://www.dandc.eu/en/article/fight-youth-unemployment-asia-needs-more-jobs-not-more-schools "The right business environment"] Youth unemployment in Asia. An interview with Jesus Felipe, advisor in the Economics and Research Department of ADB.
+
+{{South-South}}
+{{Pacific Islands Forum (PIF)}}
+{{Authority control}}
+
+[[Category:Banking institutes]]
+[[Category:Supranational banks]]
+[[Category:Organizations based in Manila]]
+[[Category:International development multilaterals]]
+[[Category:Multilateral development banks]]
+[[Category:United Nations General Assembly observers]]
+[[Category:International banking institutions]]
+[[Category:Intergovernmental organizations established by treaty]]

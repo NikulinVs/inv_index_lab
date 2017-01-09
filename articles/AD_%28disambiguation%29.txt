@@ -1,0 +1,115 @@
+AD_%28disambiguation%29.txt	{{Wiktionary|AD|ad-|ad}}
+An '''ad''' ([[advertisement]]) is a form of marketing communication.
+
+'''[[AD]]''' (''Anno Domini'') is a designation used to label years following 1 BC in the Julian and Gregorian calendars.
+
+'''AD''', '''A.D.''' or '''Ad''' may also refer to:
+{{TOC right}}
+
+==In entertainment and media==
+===Film and television===
+* [[Assistant director]], a film crew member
+* [[A.D. (film)|''A.D.'' (film)]], a 2010 animated zombie horror film
+* [[A.D. (miniseries)|''A.D.'' (miniseries)]], a 1985 television miniseries set in ancient Rome
+* ''[[A.D. The Bible Continues]]'', a television miniseries expected to air in 2015
+* ''[[American Dad!]]'', a animated television program
+* [[Animation Domination]], a television programming block
+* [[Arrested Development (TV series)|''Arrested Development'' (TV series)]]
+* [[Audio description]] track, a narration track for visually impaired consumers of visual media
+
+===Music===
+* [[AD (band)]], a Christian Rock band
+* ''[[A.D. (album)]]'', by Solace
+
+===Writing and periodicals===
+* [[Art director]], for a magazine or newspaper
+* ''[[A.D.: New Orleans After the Deluge]]'', a nonfiction graphic novel about Hurricane Katrina
+* ''[[Algemeen Dagblad]]'', a Dutch newspaper
+* ''[[Architectural Digest]]''
+
+==Businesses and organizations==
+* [[Action Directe (terrorist group)]], in France
+* [[Analog Devices]], a semiconductor company
+* [[Democratic Action]] (Spanish: ''Acción Democrática''), a Venezuelan political party
+* [[Democratic Alternative (Malta)]] (Maltese: ''Alternattiva Demokratika''), a Maltese political party
+* ''Akcionersko društvo'' (aкционерско друштво), Macedonian name for a [[joint-stock company]]
+* ''Aktsionerno drujestvo'' (акционерно дружество), a [[Types of business entity#Bulgaria|Bulgarian name for a type of company]]
+
+==Military==
+* [[Accidental discharge]], the mistaken firing of a firearm
+* [[Active duty]], a status of full duty or service, usually in the armed forces
+* [[Air defense]], anti-aircraft weaponry and systems
+* [[Air Department]], part of the British Admiralty
+* AD, the United States Navy hull classification symbol for "[[destroyer tender]]", a type of support ship
+* AD was also the original designation for the Navy attack aircraft, the [[Douglas Skyraider]]
+
+==People==
+* [[Ad (name)]], a given name, and a list of people with the name
+* [[‘Ad]], great-grandson of Shem, son of Noah
+* [[A. D. Loganathan]], Indian major general
+* [[A. D. Whitfield]], American football player
+* [[A. D. Winans]], American author
+* [[Adrian Peterson]], American football player
+
+==Places==
+* [[Andorra]] (ISO 3166-1 country code AD)
+** [[.ad]], the top level domain for Andorra
+* [[Abu Dhabi]]
+
+==Science and technology==
+===Biology and medicine===
+* [[Addison's disease]], an endocrine disorder
+* [[Adenovirus]], viruses of the family ''Adenoviridae''
+* [[Alzheimer's disease]], a neural disease
+* [[Anaerobic digestion]], a biological process
+* [[Anti-diarrheal]], a medication
+* [[Approximate digestibility]], an index measure of the digestibility of animal feed
+* [[Atopic dermatitis]], a type of skin disorder
+* [[Atypical depression]], a mood disorder
+* [[Autosomal dominant]], a classification of genetic traits
+* [[Autonomic dysreflexia]], a reaction to overstimulation
+
+===Chemistry===
+* [[Adamantyl]], abbreviated "Ad" in organic chemistry
+* [[Sharpless asymmetric dihydroxylation]], a type of organic chemical reaction
+
+===Computing===
+* [[.ad]], the top level domain for Andorra
+* [[Active Directory]], software by Microsoft for the central management of Windows domains
+* [[Administrative domain]], a computer networking facility
+* [[Analog-to-digital converter]], a type of electronic circuit
+* [[Automatic differentiation]], a set of computer programming techniques to speedily compute derivatives
+* AD<sub>16</sub>, the hexadecimal number equal to decimal number [[173 (number)|173]]
+
+===Mathematics===
+* [[Adjoint representation]] of a Lie group, abbreviated "Ad" in mathematics
+* [[Axiom of determinacy]], a set theory axiom
+
+===Physics===
+* [[Antiproton Decelerator]], a device at the CERN physics laboratory
+* [[Autodynamics]], a physics theory
+
+===Other uses in science and technology===
+* [[Active Disassembly]], a technology supporting the cost-effective deconstruction of complex materials
+* [[Audio description]], a narration track for blind and visually impaired viewers of media such as TV and film
+
+==Transportation==
+* [[Azul Brazilian Airlines]] (IATA code AD)
+* [[Air Paradise]], a defunct Indonesian airline (IATA code AD)
+* [[Airworthiness Directive]], an aircraft maintenance requirement notice
+* [[Dennis Dragon]], a type of bus
+
+==Other uses==
+* [[ʿĀd]], an ancient Arab tribe, mentioned in the Quran
+* [[United States Academic Decathlon]], a high school academic competition
+* [[Aggregate demand]], in macroeconomics
+* [[Anno Diocletiani]], an alternative year numbering system
+* [[Athletic director]], the administrator of an athletics program
+
+==See also==
+* [[Anno Domini (disambiguation)]]
+* {{lookfrom|ad}}
+* {{intitle|ad}}
+
+{{disambiguation}}
+{{DEFAULTSORT:Ad (Disambiguation)}}

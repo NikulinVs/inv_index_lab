@@ -1,0 +1,52 @@
+Amalasuntha.txt	{{Infobox royalty
+|image=Nuremberg chronicles f 143r 3.jpg
+|name=Amalasuntha
+|caption=Amalasiuntha regina – woodcut from the [[Nuremberg Chronicle]] (1493)
+|birth_date=ca. 495
+|death_date={{death year and age|535|495}}
+|father=[[Theoderic the Great]]
+|mother=[[Audofleda]]
+|spouse=Traguilla<br />[[Eutharic]]
+|issue=[[Athalaric]]<br />[[Matasuntha]]
+}}
+
+'''Amalasuntha''' (also known as '''Amalasuentha''', '''Amalaswintha''', '''Amalasuintha''', '''Amalswinthe''' or '''Amalasontha''') (c. 495 – 30 April 534/535) was a regent of the [[Ostrogoths]] from 526 to 534. She was the youngest daughter of [[Theoderic the Great]],<ref name=":0">{{Cite journal|title=Amalasuntha|url=http://www.oxfordreference.com/view/10.1093/acref/9780195046526.001.0001/acref-9780195046526-e-0199|isbn=978-0-19-518792-2}}</ref>  and firmly believed in the upholding of Roman virtues and values. She is most well known for her diplomatic relationship with [[Justinian I]], who would invade Italy in response to her assassination.<ref name=":3" />
+
+== Life and regency ==
+Amalasuntha was married in 515 to [[Eutharic]] (c. 480 – 522), an Ostrogoth noble of the old [[Amali|Amal]] line, who had previously been living in [[Visigoths|Visigothic]] [[Hispania]], son of Widerich (born c. 450), grandson of Berismund (born c. 410), and great-grandson of [[Valamir|Thorismund]] (died after 400), [[King of the Ostrogoths]] c. 400. It was important to Amalasuntha's father, [[Theoderic the Great]], that she marry into a legitimate royal family, lest her own family's legitimacy be questioned.<ref name=":1" />
+
+She was very much an intellectual, and was well known for her extensive knowledge, which included the study of three languages, Latin, Greek and Gothic. In addition, she was a student of philosophy, said to bear the wisdom of Solomon.<ref name=":1">{{Cite journal|last=Vitiello|first=Massimiliano|date=2006|title="Nourished at the Breast of Rome": The Queens of Ostrogothic Italy and the Education of the Roman Elite|url=http://www.rhm.uni-koeln.de/149/Vitiello.pdf|journal=Rheinisches Museum für Philologie |volume=149|doi=|pmid=|access-date=}}</ref> Amalasuntha was also described in her day as possessing all of the central Roman virtues expected of a noble woman, like happiness, fertility, and patience, though more emphasis was placed on her virtues within the political realm versus the feminine, something that separates her from other Ostrogoth princesses.<ref name=":1" />
+
+Her husband died, apparently in the early years of her marriage, leaving her with two children, [[Athalaric]] and [[Matasuntha]] (c. 517 – after 550), wife c. 550 of [[Germanus (cousin of Justinian I)|Germanus]].  On the death of her father in 526, her son succeeded him at the age of ten,<ref name=":2">{{Cite journal|last=Grierson|first=P.|date=1941|title=Election and Inheritance in Early Germanic Kingship|jstor=3020840|journal=The Cambridge Historical Journal |volume=7 |issue=1|doi=|pmid=}}</ref> but she held the power as [[regent]] for her son. Her tremendous influence in her position as regent can be seen in a diptych she appears in alongside her son, Athalaric, in 530.<ref name=":0" /> Deeply imbued with the old Roman culture, she gave to that son's education a more refined and literary turn than suited the ideas of her Gothic subjects.  Conscious of her unpopularity she banished, and afterwards put to death, three Gothic nobles whom she suspected of intriguing against her rule, and at the same time opened negotiations with the emperor [[Justinian I]] with the view of removing herself and the Gothic treasure to [[Constantinople]]. Her son's death in 534 made little change in the posture of affairs.
+
+== Rule and death ==
+After Athalaric's death, Amalasuntha became queen, ruling independently only for a short while before making her cousin [[Theodahad]] partner of her throne (not, as sometimes stated, her husband, for his wife was still living), with the intent of strengthening her position. Theodahad was a prominent leader of the Gothic military aristocracy, the very group that so opposed her pro-Roman stances. Amalasuntha believed this pairing would help to make supporters out of her harshest critics.<ref name=":0" /> The choice was unfortunate, for Theodahad fostered the disaffection of the Goths, and either by his orders or with his permission, Amalasuntha was imprisoned in the island of Martana in the Tuscan [[Lake Bolsena|lake of Bolsena]], where on 30 April in the spring of 534/535 she was murdered in her bath.
+
+The death of Amalasuntha would give [[Justinian I|Justinian]] a reason to go to war with the Ostrogoths and attempt to take Italy. According to the Byzantine historian [[Procopius]], it is believed that Amalasuntha and Justinian I had a very close diplomatic relationship. More specifically, Procopius believed that Amalasuntha was thinking about handing over Italy to Justinian around the time of her death.<ref name=":3">{{Cite journal|last=Sarantis|first=Alexander|date=2009|title=War and Diplomacy in Pannonia and the Northwest Balkans during the Reign of Justinian: The Gepid Threat and Imperial Responses|jstor=41219761|journal=Dumbarton Oaks Papers |volume=63|doi=|pmid=}}</ref> Shortly after Amalasuntha's murder, Theodahad would be replaced by [[Vitiges|Witigis]], Amalasuntha's son-in-law. With the people's support, Witigis would have Theodahad put to death.<ref name=":2" />
+
+== Sources ==
+The letters of [[Cassiodorus]], chief minister and literary adviser of Amalasuntha, and the histories of [[Procopius]] and [[Jordanes]], give us our chief information as to the character of Amalasuntha. Cassiodorus was a part of a greater pro-Roman party that desired to Romanize the traditional Ostrogothic kingship, further evidence of the pro-Roman circle that Amalasuntha surrounded herself with.<ref>{{Cite journal|last=Foote|first=David|date=2009|title=Reviewed Work: Il principe, il filosofo, il guerriero: Lineamenti di pensiero politico nell'Italia ostrogota by Massimiliano Vitiell|jstor=42586872|journal=Mediaevistik |volume=22|doi=|pmid=}}</ref>
+
+The life of Amalasunta was made the subject of a [[tragedy]], the first play written by the young [[Carlo Goldoni]] and presented at [[Milan]] in (1733).
+
+[[Asteroid]] [[650 Amalasuntha]] is named in her honour.
+
+== References ==
+{{Reflist}}
+*{{EB1911|wstitle=Amalasuntha}}
+
+{{Authority control}}
+
+[[Category:Year of birth unknown]]
+[[Category:535 deaths]]
+[[Category:6th-century female rulers]]
+[[Category:Gothic women]]
+[[Category:Ostrogothic kings]]
+[[Category:Amali dynasty]]
+[[Category:Ostrogothic Italy]]
+[[Category:6th-century monarchs in Europe]]
+[[Category:6th-century Italian people]]
+[[Category:Murdered royalty]]
+[[Category:Murdered monarchs]]
+[[Category:Queens]]
+[[Category:6th-century Gothic people]]

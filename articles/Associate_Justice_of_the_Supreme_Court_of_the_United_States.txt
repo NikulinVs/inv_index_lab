@@ -1,0 +1,926 @@
+Associate_Justice_of_the_Supreme_Court_of_the_United_States.txt	{{refimprove|date=February 2013}}
+{{SCOTUS series}}
+{{Politics of the United States}}
+'''Associate Justices of the Supreme Court of the United States''' are the members of the [[Supreme Court of the United States]] other than the [[Chief Justice of the United States]]. The number of Associate Justices is determined by the [[United States Congress]] and is currently set at eight by the [[Judiciary Act of 1869]].
+
+Like the Chief Justice, Associate Justices are nominated by the [[President of the United States]] and are confirmed by the [[United States Senate]] by majority vote. This is provided for in [[Article Two of the United States Constitution|Article II]] of the [[United States Constitution|Constitution]], which states that the President "shall nominate, and by and with the [[Advice and consent|Advice and Consent]] of the Senate, shall appoint... Judges of the supreme Court." Although the Constitution refers to them as "Judges of the Supreme Court", the title actually used is "Associate Justice", introduced in the [[Judiciary Act of 1789]].<ref>http://memory.loc.gov/cgi-bin/ampage?collId=llac&fileName=002/llac002.db&recNum=481</ref> Associate justices were traditionally styled "Mr. Justice" in court opinions, but the title was shortened to "Justice" in 1980, a year before the first female justice was appointed.<ref name="Biskupic">Joan Biskupic, ''Sandra Day O'Connor: How the First Woman on the Supreme Court Became Its Most Influential Justice'' (New York: HarperCollins, 2005), 101.</ref>
+
+[[Article Three of the United States Constitution|Article III]] of the Constitution specifies that Associate Justices, and all other [[United States federal judge]]s "shall hold their Offices during good Behavior". This language means that the appointments are effectively [[Life tenure|for life]], and that, once [[Appointment and confirmation to the Supreme Court of the United States#Confirmation|confirmed]], one's tenure of office ends only when a justice [[Death|dies]], [[Retirement|retires]], or is removed from office following [[Impeachment in the United States|impeachment]] by the [[United States House of Representatives|House of Representatives]] and conviction by the Senate.
+
+Each of the Justices of the Supreme Court has a single vote in deciding the cases argued before it; the Chief Justice's vote counts no more than that of any other Justice. However, in drafting opinions, the Chief Justice enjoys additional influence in case disposition if in the majority through his power to assign who writes the opinion. Otherwise, the senior justice in the majority assigns the writing of a decision. Furthermore, the Chief Justice leads the discussion of the case among the justices. The Chief Justice has certain administrative responsibilities that the other Justices do not and is paid slightly more ($255,500 per year for the Chief Justice and $244,400 per year for each Associate Justice<ref name="wapo-salaries">{{Cite news|first = Bill|last = Mears|authorlink = |title = Supreme Court justices: They do OK financially|date = 2014-06-20|publisher = |url = http://www.cnn.com/2014/06/20/politics/supreme-court-pay/|work = CNN|pages = |accessdate = 2010-02-17|language = }}</ref>).
+
+Associate Justices have seniority by order of appointment, although the Chief Justice is always considered to be the most senior. If two justices are appointed on the same day, the older is designated the senior Justice of the two. Currently, the senior Associate Justice is [[Anthony Kennedy]]. By tradition, when the Justices are in conference deliberating the outcome of cases before the Court, the justices state their views in order of seniority. Also, under [[Title 28 of the United States Code|28 USC]] [http://www.law.cornell.edu/uscode/28/3.html 3], when the Chief Justice is unable to discharge his functions, or that office is vacant, his duties are carried out by the most senior Associate Justice until the disability or the vacancy ends.
+
+==Current Associate Justices==
+Currently, there are seven Associate Justices on the Court (the eighth position has been vacant since the February 13, 2016 death of Justice [[Antonin Scalia]]). The Justices, ordered by seniority, are:
+<gallery widths="140px" heights="140px" >
+File:Anthony Kennedy official SCOTUS portrait.jpg| '''[[Anthony Kennedy]]'''<br>{{birth date and age|1936|7|23}}
+File:Clarence Thomas official SCOTUS portrait.jpg| '''[[Clarence Thomas]]'''<br>{{birth date and age|1948|6|23}}
+File:Ruth Bader Ginsburg official SCOTUS portrait.jpg| '''[[Ruth Bader Ginsburg]]'''<br>{{birth date and age|1933|3|15}}
+File:Stephen Breyer, SCOTUS photo portrait.jpg| '''[[Stephen Breyer]]'''<br>{{birth date and age|1938|8|15}}
+</gallery>
+<gallery widths="140px" heights="140px" >
+File:010 alito.jpg| '''[[Samuel Alito]]'''<br>{{birth date and age|1950|4|1}}
+File:Sonia Sotomayor in SCOTUS robe.jpg| '''[[Sonia Sotomayor]]'''<br>{{birth date and age|1954|6|25}}
+File:Elena Kagan Official SCOTUS Portrait (2013).jpg| '''[[Elena Kagan]]'''<br>{{birth date and age|1960|4|28}}
+</gallery>
+
+==Retired Associate Justices==
+When Justices retire, they have the opportunity to assume duties similar to the [[senior status]] assumed by District and Circuit Judges. This means that the Justice keeps his or her title, and may serve by assignment on panels of the U.S. Courts of Appeals, or even the US District Courts if so requested and assigned. Retired Justices may choose to keep a set of chambers in the Supreme Court building, as well as to employ law clerks. The names of retired Associate Justices continue to appear alongside those of the active Justices of the Court on the Bound Volumes of Supreme Court decisions. However, retired Associate Justices (unlike judges on senior status) take no part in the consideration or decision of any cases before their former court (the Supreme Court), although they may be appointed by the Chief Justice to sit on lower courts. When, after his resignation, [[William O. Douglas]] attempted to take a more active role than is usual for a retired associate justice, maintaining that he could assume senior status on the Court, he was admonished and rebuffed by Chief Justice [[Warren Burger]].<ref>[[Bob Woodward|Woodward, Robert]] and [[Scott Armstrong (journalist)|Armstrong, Scott]]. ''[[The Brethren (non-fiction)|The Brethren: Inside the Supreme Court]]'' (1979), pp.480–88, 526. ISBN 978-0-380-52183-8; ISBN 0-380-52183-0. ISBN 978-0-671-24110-0; ISBN 0-671-24110-9; ISBN 0-7432-7402-4; ISBN 978-0-7432-7402-9.</ref>
+
+Currently, there are three retired Associate Justices: [[Sandra Day O'Connor]], who retired on January 31, 2006, [[David H. Souter]], who retired on June 29, 2009, and [[John Paul Stevens]], who retired on June 29, 2010. Both O'Connor and Souter occasionally serve on panels of the Courts of Appeals of various circuits. As of present, Stevens has chosen not to so serve.
+
+==List of Associate Justices==
+
+Since the Supreme Court was established in 1789, the following 100 persons have served as Associate Justice:<ref>{{Cite web|title = U.S. Senate: Supreme Court Nominations: 1789-Present|url = http://www.senate.gov/pagelayout/reference/nominations/Nominations.htm|website = www.senate.gov|access-date = February 17, 2016}}</ref><ref>{{cite web|title = Timeline of the Justices|url = http://supremecourthistory.org/history_timeline.html|publisher = The Supreme Court Historical Society|website = www.supremecourthistory.org|accessdate = November 11, 2016}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;" 
+! colspan=3 | Associate Justice
+! Replacing 
+! class = "unsortable"| Date confirmed<br/>(Vote)
+! Tenure
+! Appointed by
+! class = "unsortable"| Prior position{{Efn|name="position"}}
+|-
+| data-sort-value="Rutledge, John"| 1 
+| [[Image:John Rutledge.jpg|100px]] 
+| '''[[John Rutledge]]'''
+| ''(new seat)'' 
+| September 26, 1789<br/>([[Acclamation]])
+| {{sort|001|September 26, 1789}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1791</span><br/><small><span class="date" style="white-space: nowrap;">(Resigned)</span></small>{{Efn|name="Rutledge"}}</span>
+| rowspan=8 |[[George Washington]]
+| 1st<br>[[Governor of South Carolina]]<br/>(1779-1782)
+|-
+| data-sort-value="Cushing, William"| 2 
+| [[Image:WilliamCushing.jpg|100px]] 
+| '''[[William Cushing]]'''
+| ''(new seat)'' 
+| September 26, 1789<br/>(Acclamation)
+| {{sort|002|September 27, 1789}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 13, 1810</span><br/><small>(Died)</small>
+| [[Chief Justice]] of the<br>[[Massachusetts Superior Court]]<br>(1777-1789)
+|-
+| data-sort-value="Wilson, James"| 3 
+| [[Image:JusticeJamesWilson.jpg|100px]] 
+| '''[[James Wilson]]'''
+| ''(new seat)'' 
+| September 26, 1789<br/>(Acclamation)
+| {{sort|003|September 29, 1789}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 21, 1798</span><br/><small>(Died)</small>
+| Delegate to the [[Constitutional Convention (United States)|Constitutional Convention]]<br>(1787)
+|-
+| data-sort-value="Blair, John Jr."| 4 
+| [[Image:JohnBlair.jpg|100px]] 
+| '''[[John Blair, Jr.|John Blair]]'''
+| ''(new seat)'' 
+| September 26, 1789<br/>(Acclamation)
+| {{sort|004|September 30, 1789}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 25, 1795</span><br/><small>(Resigned)</small>
+| Member of the [[Virginia House of Burgesses]]<br>(1766-1770)
+|-
+| data-sort-value="Iredell, James"| 5 
+| [[Image:JamesIredell.jpg|100px]] 
+| '''[[James Iredell]]'''
+| ''(new seat)'' 
+| February 10, 1790<br/>(Acclamation)
+| {{sort|005|May 12, 1790}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 20, 1799</span><br/><small>(Died)</small>
+| 2nd<br>[[Attorney General of North Carolina]]<br>(1779-1782)
+|-
+| data-sort-value="Johnson, Thomas"| 6 
+| [[Image:Thomas Johnson (governor).jpeg|100px]] 
+| '''[[Thomas Johnson (jurist)|Thomas Johnson]]'''
+| J. Rutledge 
+| November 7, 1791<br/>(Acclamation)
+| {{sort|006|August 5, 1792}}{{Efn|name="recess"}}{{Efn|name="Johnson"}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 16, 1793</span><br/><small>(Resigned)</small>
+| 1st<br>[[Governor of Maryland]]<br>(1777-1779)
+|-
+| data-sort-value="Paterson, William"| 7 
+| [[Image:William Paterson copy.jpg|100px]] 
+| '''[[William Paterson (judge)|William Paterson]]'''
+| T.&nbsp;Johnson 
+| March 4, 1793<br/>(Acclamation)
+| {{sort|007|March 4, 1793}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 8, 1806</span><br/><small>(Died)</small>
+| [[List of Governors of New Jersey|2nd]]<br>[[Governor of New Jersey]]<br>(1790-1793)
+|-
+| data-sort-value="Chase, Samuel"| 8 
+| [[Image:Samuel Chase.jpg|100px]] 
+| '''[[Samuel Chase]]'''{{efn|name="impeached"}}
+| Blair 
+| January 27, 1796<br/>(Acclamation)
+| {{sort|008|January 27, 1796}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 19, 1811</span><br/><small>(Died)</small>
+| Chief Justice of the<br>Maryland General Court<br>(1791-1796) 
+|-
+| data-sort-value="Washington, Bushrod"| 9 
+| [[Image:BushrodWashington.jpg|100px]] 
+| '''[[Bushrod Washington]]'''
+| Wilson 
+| December 20, 1798<br/>(Acclamation)
+| {{sort|009|December 20, 1798}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 26, 1829</span><br/><small>(Died)</small>
+| rowspan=2 | [[John Adams]]
+| Delegate to the [[Virginia Ratifying Convention]]<br>(1788)
+|-
+| data-sort-value="Moore, Alfred"| 10 
+| [[Image:AlfredMoore.jpg|100px]] 
+| '''[[Alfred Moore]]'''
+| Iredell 
+| December 9, 1799<br/>(Acclamation)
+| {{sort|010|December 10, 1799}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 26, 1804</span><br/><small>(Resigned)</small>
+| 3rd<br>[[Attorney General of North Carolina]]<br>(1782-1791)
+|-
+| data-sort-value="Johnson, William"| 11 
+| [[Image:WilliamJohnson.jpg|100px]] 
+| '''[[William Johnson (judge)|William Johnson]]'''
+| Moore 
+| March 24, 1804<br/>(Acclamation)
+| {{sort|011|May 7, 1804}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 4, 1834</span><br/><small>(Died)</small>
+| rowspan=3 | [[Thomas Jefferson]]
+| Speaker of the<br> [[South Carolina House of Representatives]]<br>(1798-1800)
+|-
+| data-sort-value="Livingston, Henry B."| 12 
+| [[Image:Henry Brockholst Livingston.jpg|100px]] 
+| '''[[Henry Brockholst Livingston]]'''
+| Paterson 
+| December 17, 1806<br/>(Acclamation)
+| {{sort|012|January 20, 1807}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 18, 1823</span><br/><small>(Died)</small>
+| Justice of the [[New York Supreme Court]]<br>(1802-1807)
+|-
+| data-sort-value="Todd, Thomas"| 13 
+| [[Image:Thomas Todd SCOTUS.jpg|100px]] 
+| '''[[Thomas Todd]]'''
+| ''(new seat)'' 
+| March 2, 1807<br/>(Acclamation)
+| {{sort|013|March 3, 1807}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 7, 1826</span><br/><small>(Died)</small>
+| [[Chief Justice]] of the<br>[[Kentucky Court of Appeals]]<br>(1806-1807)
+|-
+| data-sort-value="Duvall, Gabriel"| 14 
+| [[Image:GabrielDuvall.jpg|100px]] 
+| '''[[Gabriel Duvall]]'''
+| Chase 
+| November 18, 1811<br/>(Acclamation)
+| {{sort|014|November 23, 1811}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 12, 1835</span><br/><small>(Resigned)</small>
+| rowspan=2 | [[James Madison]]
+| [[United States House of Representatives|U.S. Representative]] for<br> [[Maryland's 2nd congressional district|Maryland's 2nd]]<br>(1794-1796)
+|-
+| data-sort-value="Story, Joseph"| 15 
+| [[File:Daguerreotype of Joseph Story, 1844 (edit).jpg|100px]] 
+| '''[[Joseph Story]]'''
+| Cushing 
+| November 18, 1811<br/>(Acclamation)
+| {{sort|015|February 3, 1812}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 10, 1845</span><br/><small>(Died)</small>
+| [[United States House of Representatives|U.S. Representative]] for<br> [[Massachusetts's 2nd congressional district|Massachusetts's 2nd]]<br>(1808-1809)
+|-
+| data-sort-value="Thompson, Smith"| 16 
+| [[Image:SmithThompson.jpg|100px]] 
+| '''[[Smith Thompson]]'''
+| Livingston 
+| December 9, 1823<br/>(Acclamation)
+| {{sort|016|September 1, 1823}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">December 18, 1843</span><br/><small>(Died)</small>
+| [[James Monroe]]
+| 6th<br>[[United States Secretary of the Navy]]<br>(1819-1823)
+|-
+| data-sort-value="Trimble, Robert"| 17 
+| [[Image:RobertTrimble.jpg|100px]] 
+| '''[[Robert Trimble]]'''
+| Todd 
+| May 9, 1826<br/>(25-5)
+| {{sort|017|May 9, 1826}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 25, 1828</span><br/><small>(Died)</small>
+| [[John Quincy Adams]]
+| Judge of the<br>[[United States District Court for the District of Kentucky|United States District Court for the<br> District of Kentucky]]<br>(1817-1826)
+|-
+| data-sort-value="McLean, John"| 18 
+| [[Image:Justice John McLean daguerreotype by Mathew Brady 1849.jpg|100px]] 
+| '''[[John McLean]]'''
+| Trimble 
+| March 7, 1829<br/>(Acclamation)
+| {{sort|018|March 7, 1829}}<br/>–<br/><span class="date" style="white-space: nowrap;">April 4, 1861</span><br/><small>(Died)</small>
+| rowspan=5 | [[Andrew Jackson]]
+| 6th<br>[[United States Postmaster General]]<br>(1823-1829)
+|-
+| data-sort-value="Baldwin, Henry"| 19 
+| [[Image:Henry baldwin (justice).jpg|100px]] 
+| '''[[Henry Baldwin (judge)|Henry Baldwin]]'''
+| Washington 
+| January 6, 1830<br/>(41-2)
+| {{sort|019|January 6, 1830}}<br/>–<br/><span class="date" style="white-space: nowrap;">April 21, 1844</span><br/><small>(Died)</small>
+| [[United States House of Representatives|U.S. Representative]] for<br> [[Pennsylvania's 14th congressional district|Pennsylvania's 14th]]<br>(1817-1822)
+|-
+| data-sort-value="Wayne, James M."| 20 
+| [[Image:James Moore Wayne - Brady-Handy.jpg|100px]] 
+| '''[[James Moore Wayne]]'''
+| W.&nbsp;Johnson 
+| January 9, 1835<br/>(Acclamation)
+| {{sort|020|January 14, 1835}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 5, 1867</span><br/><small>(Died)</small>
+| [[United States House of Representatives|U.S. Representative]] for<br> [[Georgia's at-large congressional district|Georgia's at-large]]<br>(1829-1835) 
+|-
+| data-sort-value="Barbour, Philip P."| 21 
+| [[Image:PPBarbour.jpg|100px]] 
+| '''[[Philip Pendleton Barbour]]'''
+| Duvall 
+| March 15, 1836<br/>(30-11)
+| {{sort|021|March 15, 1836}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 25, 1841</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States District Court for the Eastern District of Virginia|United States District Court<br> for the Eastern District of Virginia]]<br>(1830-1836)
+|-
+| data-sort-value="Catron, John"| 22 
+| [[Image:John Catron - Brady-Handy.jpg|100px]] 
+| '''[[John Catron]]'''
+| ''(new seat)'' 
+| March 8, 1837<br/>(28-15)
+| {{sort|022|March 8, 1837}}<br/>–<br/><span class="date" style="white-space: nowrap;">May 30, 1865</span><br/><small>(Died)</small>
+| Judge of the<br>[[Tennessee Supreme Court of Errors and Appeals|Tennessee Supreme Court<br>of Errors and Appeals]]<br>(1824-1834)
+|-
+| data-sort-value="McKinley, John"| 23 
+| [[Image:John McKinley.jpg|100px]] 
+| '''[[John McKinley]]'''
+| ''(new seat)'' 
+| September 25, 1837 <br/>(Acclamation)
+| {{sort|023|April 22, 1837}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 19, 1852</span><br/><small>(Died)</small>
+| rowspan=2 | [[Martin Van Buren]]
+| [[United States Senate|United States Senator]] from [[Alabama]]<br>(1826-1831, 1837)
+|-
+| data-sort-value="Daniel, Peter V."| 24 
+| [[Image:PVDaniel.jpg|100px]] 
+| '''[[Peter Vivian Daniel]]'''
+| Barbour 
+| March 2, 1841<br/>(25-5)
+| {{sort|024|March 3, 1841}}<br/>–<br/><span class="date" style="white-space: nowrap;">May 31, 1860</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States District Court for the Eastern District of Virginia|United States District Court<br> for the Eastern District of Virginia]]<br>(1836-1841)
+|-
+| data-sort-value="Nelson, Samuel"| 25 
+| [[Image:Samuel Nelson - Brady-Handy.jpg|100px]] 
+| '''[[Samuel Nelson]]'''
+| Thompson 
+| February 14, 1845<br/>(Acclamation)
+| {{sort|025|February 14, 1845}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 28, 1872</span><br/><small>(Retired)</small>
+| [[John Tyler]]
+| Chief Justice of the [[New York Supreme Court]]<br>(1831-1845)
+|-
+| data-sort-value="Woodbury, Levi"| 26 
+| [[Image:LeviWoodbury.png|100px]] 
+| '''[[Levi Woodbury]]'''
+| Story 
+| January 31, 1846<br/>(Acclamation)
+| {{sort|026|September 20, 1845}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 4, 1851</span><br/><small>(Died)</small>
+| rowspan=2 | [[James K. Polk]]
+| 13th<br>[[United States Secretary of the Treasury]]<br>(1834-1841)
+|-
+| data-sort-value="Grier, Robert C."| 27 
+| [[Image:Robert Cooper Grier - Brady-Handy.jpg|100px]] 
+| '''[[Robert Cooper Grier]]'''
+| Baldwin 
+| August 4, 1846<br/>(Acclamation)
+| {{sort|027|August 4, 1846}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 31, 1870</span><br/><small>(Retired)</small>
+| Judge for the<br>Pennsylvania state District Court<br> for [[Allegheny County, Pennsylvania|Allegheny County]]<br>(1833-1846)
+|-
+| data-sort-value="Curtis, Benjamin R."| 28 
+| [[Image:BRCurtis.jpg|100px]] 
+| '''[[Benjamin Robbins Curtis]]'''
+| Woodbury 
+| December 20, 1851<br/>(Acclamation)
+| {{sort|028|September 22, 1851}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 30, 1857</span><br/><small>(Resigned)</small>
+| [[Millard Fillmore]]
+| [[Massachusetts House of Representatives|Massachusetts State Representative]]
+|-
+| data-sort-value="Campbell, John A."| 29 
+| [[Image:John Archibald Campbell - Brady-Handy.jpg|100px]] 
+| '''[[John Archibald Campbell]]'''
+| McKinley 
+| March 22, 1853<br/>(Acclamation)
+| {{sort|029|March 23, 1853}}<br/>–<br/><span class="date" style="white-space: nowrap;">April 30, 1861</span><br/><small>(Resigned)</small>
+| [[Franklin Pierce]]
+| [[Alabama House of Representatives|Alabama State Representative]]
+|-
+| data-sort-value="Clifford, Nathan"| 30 
+| [[Image:NClifford.jpg|100px]] 
+| '''[[Nathan Clifford]]'''
+| Curtis 
+| January 12, 1858<br/>(26-23)
+| {{sort|030|January 12, 1858}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 25, 1881</span><br/><small>(Died)</small>
+| [[James Buchanan]]
+| 19th<br>[[United States Attorney General]]<br>(1846-1848)
+|-
+| data-sort-value="Swayne, Noah H."| 31 
+| [[Image:Noah Haynes Swayne, photo, head and shoulders, seated.jpg|100px]] 
+| '''[[Noah Haynes Swayne]]'''
+| McLean 
+| January 24, 1862<br/>(38-1)
+| {{sort|031|January 24, 1862}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 24, 1881</span><br/><small>(Retired)</small>
+| rowspan=4 | [[Abraham Lincoln]]
+| [[U.S. Attorney]] for the<br>District of [[Ohio]]<br>(1830-1834)
+|-
+| data-sort-value="Miller, Samuel F."| 32 
+| [[Image:Samuel Freeman Miller - Brady-Handy.jpg|100px]] 
+| '''[[Samuel Freeman Miller]]'''
+| Daniel 
+| July 16, 1862<br/>(Acclamation)
+| {{sort|032|July 16, 1862}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 13, 1890</span><br/><small>(Died)</small>
+| [[Lawyer]],<br/>Private practice
+|-
+| data-sort-value="Davis, David"| 33 
+| [[Image:DDavis.jpg|100px]] 
+| '''[[David Davis (senator)|David Davis]]'''
+| Campbell 
+| December 8, 1862<br/>(Acclamation)
+| {{sort|033|October 17, 1862}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 3, 1877</span><br/><small>(Resigned)</small>
+| Judge of the<br>[[Illinois circuit courts|Illinois 3rd Circuit Court]]<br>(1848-1862)
+|-
+| data-sort-value="Field, Stephen J."| 34 
+| [[Image:Stephen Johnson Field, photo half length seated, 1875.jpg|100px]] 
+| '''[[Stephen Johnson Field]]'''
+| ''(new seat)'' 
+| March 10, 1863<br/>(Acclamation)
+| {{sort|034|March 10, 1863}}<br/>–<br/><span class="date" style="white-space: nowrap;">December 1, 1897</span><br/><small>(Retired)</small>
+| 5th<br>[[Supreme Court of California#List of chief justices|Chief Justice of California]]<br>(1859-1863)
+|-
+| data-sort-value="Strong, William"| 35 
+| [[Image:William Strong judge - Brady-Handy.jpg|100px]] 
+| '''[[William Strong (Pennsylvania judge)|William Strong]]'''
+| Grier 
+| February 18, 1870
+| {{sort|035|February 18, 1870}}<br/>–<br/><span class="date" style="white-space: nowrap;">December 14, 1880</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Ulysses S. Grant]]
+| [[United States House of Representatives|U.S. Representative]]<br>for [[Pennsylvania's 9th congressional district|Pennsylvania's 9th]]<br>(1847-1851)
+|-
+| data-sort-value="Bradley, Joseph P."| 36 
+| [[Image:Joseph Philo Bradley - Brady-Handy.jpg|100px]] 
+| '''[[Joseph Philo Bradley]]'''
+| ''(new seat)'' 
+| March 21, 1870<br/>(46-9)
+| {{sort|036|March 21, 1870}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 22, 1892</span><br/><small>(Died)</small>
+| [[Lawyer]],<br/>Private practice
+|-
+| data-sort-value="Hunt, Ward"| 37 
+| [[Image:Ward Hunt - Brady-Handy.jpg|100px]] 
+| '''[[Ward Hunt]]'''
+| Nelson 
+| December 11, 1872<br/>(Acclamation)
+| {{sort|037|December 11, 1872}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 27, 1882</span><br/><small>(Retired)</small>
+| Chief Judge of the<br>[[New York Court of Appeals]]<br>(1868-1872)
+|-
+| data-sort-value="Harlan, John M."| 38 
+| [[Image:JudgeJMHarlan.jpg|100px]] 
+| '''[[John Marshall Harlan]]'''
+| Davis 
+| November 29, 1877<br/>(Acclamation)
+| {{sort|038|November 29, 1877}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 14, 1911</span><br/><small>(Died)</small>
+| rowspan=2 | [[Rutherford B. Hayes]]
+| 14th<br>[[Attorney General of Kentucky]]<br>(1863-1867) 
+|-
+| data-sort-value="Woods, William B."| 39 
+| [[Image:William Burnham Woods.jpg|100px]] 
+| '''[[William Burnham Woods]]'''
+| Strong 
+| December 21, 1880<br/>(39-8)
+| {{sort|039|December 21, 1880}}<br/>–<br/><span class="date" style="white-space: nowrap;">May 14, 1887</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States Court of Appeals for the Fifth Circuit|United States Court of Appeals<br>for the Fifth Circuit]]<br>(1869-1880)
+|-
+| data-sort-value="Matthews, Stanley"| 40 
+| [[Image:Thomas Stanley Matthews - Brady-Handy.jpg|100px]] 
+| '''[[Stanley Matthews (lawyer)|Stanley Matthews]]'''
+| Swayne 
+| May 12, 1881<br/>(24-23)
+| {{sort|040|May 12, 1881}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 22, 1889</span><br/><small>(Died)</small>
+| [[James Garfield]]
+| [[United States Senate|United States Senator]] from [[Ohio]]<br>(1877-1879)
+|-
+| data-sort-value="Gray, Horace"| 41 
+| [[Image:Horacegrayphoto.jpg|100px]] 
+| '''[[Horace Gray]]'''
+| Clifford 
+| December 20, 1881<br/>(51-5)
+| {{sort|041|December 20, 1881}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 15, 1902</span><br/><small>(Died)</small>
+| rowspan=2 | [[Chester A. Arthur]]
+| Chief Justice of the<br>[[Massachusetts Supreme Judicial Court]]<br>(1873-1881) 
+|-
+| data-sort-value="Blatchford, Samuel"| 42 
+| [[Image:Samuel Blatchford.jpg|100px]] 
+| '''[[Samuel Blatchford]]'''
+| Hunt 
+
+| March 22, 1882<br/>(Acclamation)
+| {{sort|042|March 22, 1882}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 7, 1893</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States Court of Appeals for the Second Circuit|United States Court of Appeals<br>for the Second Circuit]]<br>(1878-1882
+|-
+| data-sort-value="Lamar, Lucius Q. C. II"| 43 
+|[[Image:Lucius Quintus Cincinnatus Lamar II - Brady-Handy.jpg|100px]] 
+| '''[[Lucius Quintus Cincinnatus Lamar II|Lucius Quintus<br>Cincinnatus Lamar II]]'''
+| Woods 
+| January 16, 1888<br/>(32-28)
+| {{sort|043|January 16, 1888}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 23, 1893</span><br/><small>(Died)</small>
+| [[Grover Cleveland]]
+| 16th<br>[[United States Secretary of the Interior]]<br>(1885-1888)
+|-
+| data-sort-value="Brewer, David J."| 44 
+| [[Image:DavidBrewer.jpg|100px]] 
+| '''[[David Josiah Brewer]]'''
+| Matthews 
+| December 18, 1889<br/>(53-11)
+| {{sort|044|December 18, 1889}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 28, 1910</span><br/><small>(Died)</small>
+| rowspan=4 | [[Benjamin Harrison]]
+| Judge of the<br>[[United States Court of Appeals for the Eighth Circuit|United States Court of Appeals<br>for the Eighth Circuit]]<br>(1884-1889)
+|-
+| data-sort-value="Brown, Henry B."| 45 
+| [[Image:Henry Billings Brown 2.jpg|100px]] 
+| '''[[Henry Billings Brown]]'''
+| Miller 
+| December 29, 1890<br/>(Acclamation)
+| {{sort|045|December 29, 1890}}<br/>–<br/><span class="date" style="white-space: nowrap;">May 28, 1906</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States District Court for the Eastern District of Michigan|United States District Court<br>for the Eastern District of Michigan]]<br>(1875-1890)
+|-
+| data-sort-value="Shiras, George Jr."| 46 
+| [[Image:George Shiras Jr.jpg|100px]] 
+| '''[[George Shiras, Jr.]]''' 
+| Bradley 
+| July 26, 1892<br/>(Acclamation)
+| {{sort|046|July 26, 1892}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 23, 1903</span><br/><small>(Retired)</small>
+| [[Lawyer]],<br/>Private practice
+|-
+| data-sort-value="Jacksn, Howell E."| 47 
+| [[Image:Justice Howell Jackson2.jpg|100px]] 
+| '''[[Howell Edmunds Jackson]]'''
+| L. Lamar 
+| February 18, 1893<br/>(Acclamation)
+| {{sort|047|February 18, 1893}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 8, 1895</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States Court of Appeals for the Sixth Circuit|United States Court of Appeals<br> for the Sixth Circuit]]<br>(1891-1893)
+|-
+| data-sort-value="White, Edward D."| 48 
+| [[Image:Edward White, head-and-shoulders portrait, facing slightly left, 1905.jpg|100px]] 
+| '''[[Edward Douglass White]]'''
+| Blatchford 
+| February 19, 1894<br/>(Acclamation)
+| {{sort|048|February 19, 1894}}<br/>–<br/><span class="date" style="white-space: nowrap;">December 18, 1910</span><br/><small><span class="date" style="white-space: nowrap;">(Continued as chief justice)</span></small>{{Efn|name="White"}}</span>
+| rowspan=2 | [[Grover Cleveland]]
+| [[United States Senate|United States Senator]] from [[Louisiana]]<br>(1891-1894)
+|-
+| data-sort-value="Peckham, Rufus W."| 49 
+| [[Image:Rufus Wheeler Peckham cph.3b30513.jpg|100px]] 
+| '''[[Rufus Wheeler Peckham]]'''
+| H. Jackson
+| December 9, 1895<br/>(Acclamation)
+| {{sort|049|December 9, 1895}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 24, 1909</span><br/><small>(Died)</small>
+| [[Associate Justice|Associate Judge]] of the<br>[[New York Court of Appeals]] 
+|-
+| data-sort-value="McKenna, Joseph"| 50 
+| [[Image:Joseph McKenna (assoc justice).jpg|100px]] 
+| '''[[Joseph McKenna]]'''
+| Field 
+| January 21, 1898<br/>(Acclamation)
+| {{sort|050|January 21, 1898}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 5, 1925</span><br/><small>(Retired)</small>
+| [[William McKinley]]
+| 42nd<br>[[United States Attorney General]]<br>(1897-1898)
+|-
+| data-sort-value="Holmes, Oliver W."| 51 
+| [[Image:Oliver Wendell Holmes, 1902.jpg|100px]] 
+| '''[[Oliver Wendell Holmes, Jr.]]'''
+| Gray 
+| December 4, 1902<br/>(Acclamation)
+| {{sort|051|December 4, 1902}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 12, 1932</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Theodore Roosevelt]]
+| [[Chief Justice]] of the<br>[[Massachusetts Supreme Judicial Court]]<br>(1899-1902)
+|-
+| data-sort-value="Day, William R."| 52 
+| [[Image:William Rufus Day cph.3b31004.jpg|100px]] 
+| '''[[William R. Day]]'''
+| Shiras 
+| February 23, 1903<br/>(Acclamation)
+| {{sort|052|February 23, 1903}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 13, 1922</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States Court of Appeals for the Sixth Circuit|United States Court of Appeals<br> for the Sixth Circuit]]<br>(1899-1903)
+|-
+| data-sort-value="Moody, William H."| 53 
+| [[Image:WHMoody.jpg|100px]] 
+| '''[[William Henry Moody]]'''
+| Brown 
+| December 12, 1906<br/>(Acclamation)
+| {{sort|053|December 12, 1906}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 20, 1910</span><br/><small>(Retired)</small>
+| 45th<br>[[United States Attorney General]]<br>(1904-1906)
+|-
+| data-sort-value="Lurton, Horace H."| 54 
+| [[Image:HoraceHarmonLurton.jpg|100px]] 
+| '''[[Horace Harmon Lurton]]'''
+| Peckham 
+| December 20, 1909<br/>(Acclamation)
+| {{sort|054|December 20, 1909}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 12, 1914</span><br/><small>(Died)</small>
+| rowspan=5 | [[William Howard Taft]]
+| Judge of the<br>[[U.S. Court of Appeals for the Sixth Circuit|United States Court of Appeals<br> for the Sixth Circuit]]<br>(1893-1909)
+|-
+| data-sort-value="Hughes, Charles E."| 55 
+| [[Image:Chief Justice Charles Evans Hughes.jpg|100px]] 
+| '''[[Charles Evans Hughes]]'''
+| Brewer 
+| May 2, 1910<br/>(Acclamation)
+| {{sort|055|October 10, 1910}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 10, 1916</span><br/><small><span class="date" style="white-space: nowrap;">(Resigned)</span></small>{{Efn|name="Hughes"}}</span>
+| 36th<br>[[Governor of New York]]<br>(1907-1910)
+|-
+| data-sort-value="Van Deventer, Willis"| 56 
+| [[Image:Willis Van Devanter.jpg|100px]] 
+| '''[[Willis Van Devanter]]'''
+| E.D. White 
+| December 15, 1910<br/>(Acclamation)
+| {{sort|056|December 16, 1910}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 2, 1937</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States Court of Appeals for the Eighth Circuit|United States Court of Appeals<br>for the Eighth Circuit]]<br>(1903-1910)
+|-
+| data-sort-value="lamar, Joseph R."| 57 
+| [[Image:Joseph Lamar.jpg|100px]] 
+| '''[[Joseph Rucker Lamar]]'''
+| Moody 
+| December 15, 1910<br/>(Acclamation)
+| {{sort|057|December 17, 1910}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 2, 1916</span><br/><small>(Died)</small>
+| [[Associate Justice]] of the<br>[[Supreme Court of Georgia (U.S. state)|Supreme Court of Georgia]]<br>(1901-1905)
+|-
+| data-sort-value="Pitney,Mahlon"| 58 
+| [[Image:Mahlon Pitney cph.3b30300.jpg|100px]] 
+| '''[[Mahlon Pitney]]'''
+| J. Harlan 
+| March 13, 1912<br/>(50-26)
+| {{sort|058|March 13, 1912}}<br/>–<br/><span class="date" style="white-space: nowrap;">December 31, 1922</span><br/><small>(Resigned)</small>
+| [[United States House of Representatives|U.S. Representative]] for<br>[[New Jersey's 4th congressional district|New Jersey's 4th]]<br>(1895-1899)
+|-
+| data-sort-value="McReynolds, James C."| 59 
+| [[Image:Jamescmcreynolds.jpg|100px]] 
+| '''[[James Clark McReynolds]]''' 
+| Lurton 
+| August 29, 1914<br/>(44-6)
+| {{sort|059|August 29, 1914}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 31, 1941</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Woodrow Wilson]]
+| 48th<br>[[United States Attorney General]]<br>(1913-1914)
+|-
+| data-sort-value="Brandeis Lewis"| 60 
+| [[Image:Brandeisl.jpg|100px]] 
+| '''[[Louis Brandeis]]'''
+| J. Lamar 
+| June 1, 1916<br/>(47-22)
+| {{sort|060|June 1, 1916}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 13, 1939</span><br/><small>(Retired)</small>
+| [[Lawyer]],<br/>Private practice:<br/>[[Nutter McClennen & Fish|Brandeis Dunbar & Nutter]]<ref>Diana Klebanow, Franklin L. Jonas, ''People's Lawyers: Crusaders for Justice in American History'' (M. E. Sharpe, 2003), ISBN 978-0765606730, p. 61.[https://books.google.com/books?id=iwd4Ez3g_vgC&pg=PA61 Excerpts available] at [[Google Books]].</ref> 
+|-
+| data-sort-value="Clarke, John H."| 61 
+| [[Image:JohnHessinClarke.jpg|100px]] 
+| '''[[John Hessin Clarke]]'''
+| Hughes 
+| July 24, 1916<br/>(Acclamation)
+| {{sort|061|July 24, 1916}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 5, 1922</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States District Court for the Northern District of Ohio|United States District Court for the<br>Northern District of Ohio]]<br>(1914-1916)
+|-
+| data-sort-value="Sutherland, George"| 62 
+| [[Image:Justice George Sutherland 5.jpg|100px]] 
+| '''[[George Sutherland]]'''
+| Clarke 
+| September 5, 1922<br/>(Acclamation)
+| {{sort|062|September 5, 1922}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 17, 1938</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Warren G. Harding]]
+| [[United States Senate|United States Senator]] from [[Utah]]<br>(1905-1917)
+|-
+| data-sort-value="Butler, Pierce"| 63 
+| [[Image:Pierce Butler.jpg|100px]] 
+| '''[[Pierce Butler (justice)|Pierce Butler]]'''
+| Day 
+| December 21, 1922<br/>(61-8)
+| {{sort|063|December 21, 1922}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 16, 1939</span><br/><small>(Died)</small>
+| [[List of Minnesota State Bar Association Presidents|President]] of the<br>[[Minnesota State Bar Association]]
+|-
+| data-sort-value="Sanford, Edward T."| 64 
+| [[Image:Justice Edward Terry Sanford.jpg|100px]] 
+| '''[[Edward Terry Sanford]]'''
+| Pitney 
+| January 29, 1923<br/>(Acclamation)
+| {{sort|064|January 29, 1923}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 8, 1930</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States District Court for the Middle District of Tennessee|United States District Court for the<br>Middle District of Tennessee]]<br>(1908-1923)
+|-
+| data-sort-value="Stone, Harlan F."| 65 
+| [[Image:Chief Justice Harlan Fiske Stone photograph circa 1927-1932.jpg|100px]] 
+| '''[[Harlan F. Stone]]'''
+| McKenna 
+| February 5, 1925<br/>(71-6)
+| {{sort|065|February 5, 1925}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 3, 1941</span><br/><small><span class="date" style="white-space: nowrap;">(Continued as chief justice)</span></small>{{Efn|name="Stone"}}</span>
+| [[Calvin Coolidge]]
+| 52nd<br>[[United States Attorney General]]<br>(1924-1925)
+|-
+| data-sort-value="Roberts, Owen J."| 66 
+| [[Image:Owen J. Roberts cph.3b11988.jpg|100px]] 
+| '''[[Owen Josephus Roberts]]'''
+| Sanford 
+| May 20, 1930<br/>(Acclamation)
+| {{sort|066|May 20, 1930}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 31, 1945</span><br/><small>(Resigned)</small>
+| rowspan=2 | [[Herbert Hoover]]
+| Assistant District Attorney for [[Philadelphia]]
+|-
+| data-sort-value="Cardozo, Benjamin N."| 67 
+| [[Image:Justice Benjamin N Cardozo 2.jpg|100px]] 
+| '''[[Benjamin N. Cardozo]]'''
+| Holmes 
+| February 24, 1932<br/>(Acclamation)
+| {{sort|067|March 2, 1932}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 9, 1938</span><br/><small>(Died)</small>
+| Chief Judge of the<br>[[New York Court of Appeals]]<br>(1927-1932)
+|-
+| data-sort-value="Black, Hugo"| 68 
+| [[Image:HugoLaFayetteBlack.jpg|100px]] 
+| '''[[Hugo Black]]'''
+| Van&nbsp;Devanter 
+| August 17, 1937<br/>(63-16)
+| {{sort|068|August 18, 1937}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 17, 1971</span><br/><small>(Retired)</small>
+| rowspan=8 | [[Franklin D. Roosevelt]]
+| [[United States Senate|United States Senator]] from [[Alabama]]<br>(1927-1937)
+|-
+| data-sort-value="Reed, Stanley F."| 69 
+| [[Image:Stanley Forman Reed.jpg|100px]] 
+| '''[[Stanley Forman Reed]]'''
+| Sutherland 
+| January 25, 1938<br/>(Acclamation)
+| {{sort|069|January 27, 1938}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 25, 1957</span><br/><small>(Retired)</small>
+| 22nd<br>[[United States Solicitor General]]<br>(1935-1938)
+|-
+| data-sort-value="Frankfurter, Felix"| 70 
+| [[Image:Frankfurter-Felix-LOC.jpg|100px]] 
+| '''[[Felix Frankfurter]]'''
+| Cardozo 
+| January 17, 1939<br/>(Acclamation)
+| {{sort|070|January 20, 1939}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 28, 1962</span><br/><small>(Retired)</small>
+| Chairman of [[Harvard Law School]]
+|-
+| data-sort-value="Douglass, William O."| 71 
+| [[Image:Justice William O Douglas.jpg|100px]] 
+| '''[[William O. Douglas]]'''
+| Brandeis 
+| April 4, 1939<br/>(62-4)
+| {{sort|071|April 15, 1939}}<br/>–<br/><span class="date" style="white-space: nowrap;">November 12, 1975</span><br/><small>(Retired)</small>
+| 3rd<br>[[U.S. Securities and Exchange Commission|Chairman of the Securities<br>and Exchange Commission]]<br>(1937-1939)
+|-
+| data-sort-value="Murphy, Frank"| 72 
+| [[Image:Justice Frank Murphy.jpg|100px]] 
+| '''[[Frank Murphy]]'''
+| Butler 
+| January 16, 1940<br/>(Acclamation)
+| {{sort|072|January 18, 1940}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 19, 1949</span><br/><small>(Died)</small>
+| 56th<br>[[United States Attorney General]]<br>(1939-1940)
+|-
+| data-sort-value="Byrnes, James F."| 73 
+| [[Image:James F. Byrnes cph.3c32232.jpg|100px]] 
+| '''[[James F. Byrnes]]'''
+| McReynolds 
+| June 12, 1941<br/>(Acclamation)
+| {{sort|073|July 8, 1941}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 3, 1942</span><br/><small>(Resigned)</small>
+| [[United States Senate|United States Senator]] from [[South Carolina]]<br>(1931-1941)
+|-
+| data-sort-value="Jackson, Robert H."| 74 
+| [[Image:Roberthjackson.jpg|100px]] 
+| '''[[Robert H. Jackson]]'''
+| Stone 
+| July 7, 1941<br/>(Acclamation)
+| {{sort|074|July 11, 1941}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 9, 1954</span><br/><small>(Died)</small>
+| 57th<br>[[United States Attorney General]]<br>(1940-1941)
+|-
+| data-sort-value="Rutledge, Wiley B."| 75 
+| [[Image:Wiley Rutledge.jpg|100px]] 
+| '''[[Wiley Blount Rutledge]]'''
+| Byrnes 
+| February 8, 1943<br/>(Acclamation)
+| {{sort|075|February 11, 1943}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 10, 1949</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States Court of Appeals for the District of Columbia Circuit|United States Court of Appeals for the<br>District of Columbia Circuit]]
+|-
+| data-sort-value="Burton, Harold H."| 76 
+| [[Image:Harold Burton.jpg|100px]] 
+| '''[[Harold Hitz Burton]]'''
+| Roberts 
+| September 19, 1945<br/>(Acclamation)
+| {{sort|076|September 22, 1945}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 13, 1958</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Harry S. Truman]]
+| [[United States Senate|United States Senator]] from [[Ohio]]<br>(1944-1945)
+|-
+| data-sort-value="Clark, Tom C."| 77 
+| [[Image:Tom C. Clark.jpg|100px]] 
+| '''[[Tom C. Clark]]'''
+| Murphy 
+| August 18, 1949<br/>(73-8)
+| {{sort|077|August 19, 1949}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 12, 1967</span><br/><small>(Retired)</small>
+| 59th<br>[[Attorney General of the United States]]<br>(1945-1949)
+|-
+| data-sort-value="Minton, Sherman"| 78 
+| [[Image:Sherman Minton's official United States Supreme Court photograph.jpg|100px]] 
+| '''[[Sherman Minton]]'''
+| W. Rutledge 
+| October 4, 1949<br/>(48-16)
+| {{sort|078|October 12, 1949}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 15, 1956</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States Court of Appeals for the Seventh Circuit|United States Court of Appeals<br>for the Seventh Circuit]]<br>(1941-1949)
+|-
+| data-sort-value="Harlan, John M. II"| 79 
+| [[Image:John Marshall Harlan II official.jpg|100px]] 
+| '''[[John Marshall Harlan II]]'''
+| R. Jackson 
+| March 16, 1955<br/>(71-11)
+| {{sort|079|March 17, 1955}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 23, 1971</span><br/><small>(Retired)</small>
+| rowspan=4 | [[Dwight D. Eisenhower]]
+| Judge of the<br>[[United States Court of Appeals for the Second Circuit|United States Court of Appeals<br>for the Second Circuit]]<br>(1954-1955)
+|-
+| data-sort-value="Brennan, William J."| 80 
+| [[Image:US Supreme Court Justice William Brennan - 1976 official portrait.jpg|100px]] 
+| '''[[William J. Brennan]]'''
+| Minton 
+| March 19, 1957<br/>(Acclamation)
+| {{sort|080|October 15, 1956}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 20, 1990</span><br/><small>(Retired)</small>
+| Associate Justice of the<br>[[Supreme Court of New Jersey]]<br>(1951-1956)
+|-
+| data-sort-value="Whittaker, Charles E."| 81 
+| [[Image:Charles Whittaker.jpg|100px]] 
+| '''[[Charles Evans Whittaker]]'''
+| Reed 
+| March 19, 1957<br/>(Acclamation)
+| {{sort|081|March 22, 1957}}<br/>–<br/><span class="date" style="white-space: nowrap;">March 31, 1962</span><br/><small>(Resigned)</small>
+| Judge of the<br>[[United States Court of Appeals for the Eighth Circuit|United States Court of Appeals<br>for the Eighth Circuit]]<br>(1956-1957)
+|-
+| data-sort-value="Potter, Stewart"| 82 
+| [[Image:US Supreme Court Justice Potter Stewart - 1976 official portrait.jpg|100px]] 
+| '''[[Potter Stewart]]'''
+| Burton 
+| May 5, 1959<br/>(70-17)
+| {{sort|082|October 14, 1958}}{{Efn|name="recess"}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 3, 1981</span><br/><small>(Retired)</small>
+| Judge of the<br>[[United States Court of Appeals for the Sixth Circuit|United States Court of Appeals<br>for the Sixth Circuit]]<br>(1954-1958)
+|-
+| data-sort-value="White, Byron"| 83 
+| [[Image:Justice White Official.jpg|100px]] 
+| '''[[Byron White]]'''
+| Whittaker 
+| April 11, 1962<br/>(Acclamation)
+| {{sort|083|April 16, 1962}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 28, 1993</span><br/><small>(Retired)</small>
+| rowspan=2 | [[John F. Kennedy]]
+| 4th<br>[[United States Deputy Attorney General]]<br>(1961-1962)
+|-
+| data-sort-value="Goldberg, Arthur"| 84 
+| [[Image:Arthur Goldberg (1971).jpg|100px]] 
+| '''[[Arthur Goldberg]]'''
+| Frankfurter  
+| September 25, 1962<br/>(Acclamation)
+| {{sort|084|September 28, 1962}}<br/>–<br/><span class="date" style="white-space: nowrap;">July 26, 1965</span><br/><small>(Resigned)</small>
+| 9th<br>[[United States Secretary of Labor]]<br>(1961-1962)
+|-
+| data-sort-value="Fortas, Abe"| 85 
+| [[Image:SCOTUS Justice Abe Fortas.jpeg|100px]] 
+| '''[[Abe Fortas]]'''
+| Goldberg 
+| August 11, 1965<br/>(Acclamation)
+| {{sort|085|October 4, 1965}}<br/>–<br/><span class="date" style="white-space: nowrap;">May 14, 1969</span><br/><small>(Resigned)</small>
+| rowspan=2 | [[Lyndon B. Johnson]]
+| [[United States Deputy Secretary of the Interior|United States Under Secretary of the Interior]]
+|-
+| data-sort-value="Marshall, Thurgood"| 86 
+| [[Image:Thurgood-marshall-2.jpg|100px]] 
+| '''[[Thurgood Marshall]]''' 
+| Clark 
+| August 30, 1967<br/>(69-11)
+| {{sort|086|October 2, 1967}}<br/>–<br/><span class="date" style="white-space: nowrap;">October 1, 1991</span><br/><small>(Retired)</small>
+| 32nd<br>[[United States Solicitor General]]<br>(1965-1967)
+|-
+| data-sort-value="Blackman, Harry"| 87 
+| [[Image:Justice Blackmun Official.jpg|100px]] 
+| '''[[Harry Blackmun]]'''
+| Fortas  
+| May 12, 1970<br/>(94-0)
+| {{sort|087|June 9, 1970}}<br/>–<br/><span class="date" style="white-space: nowrap;">August 3, 1994</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Richard Nixon]]
+| Judge of the<br>[[United States Court of Appeals for the Eighth Circuit|United States Court of Appeals<br>for the Eighth Circuit]]<br>(1959-1970)
+|-
+| data-sort-value="Powell, Lewis F. Jr."| 88 
+| [[Image:US Supreme Court Justice Lewis Powell - 1976 official portrait.jpg|100px]]  
+| '''[[Lewis Franklin Powell, Jr.]]'''
+| Black 
+| December 6, 1971<br/>(89-1)
+| {{sort|088|January 7, 1972}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 26, 1987</span><br/><small>(Retired)</small>
+| President of the<br>[[American Bar Association]]<br>(1964-1965)
+|-
+| data-sort-value="Rehnquist, William"| 89 
+| [[Image:William Rehnquist.jpg|100px]] 
+| '''[[William Rehnquist]]'''
+| J. Harlan II 
+| December 10, 1971<br/>(68-26)
+| {{sort|089|January 7, 1972}}<br/>–<br/><span class="date" style="white-space: nowrap;">September 26, 1986</span><br/><small><span class="date" style="white-space: nowrap;">(Continued as chief justice)</span></small>{{Efn|name="Rehnquist"}}</span>
+| [[Office of Legal Counsel|United States Assistant Attorney General<br>for the Office of Legal Counsel]]<br>(1969-1971)
+|-
+| data-sort-value="Stevens, John P."| 90 
+| [[Image:John Paul Stevens, SCOTUS photo portrait.jpg|100px]] 
+| '''[[John Paul Stevens]]'''
+| Douglas 
+| December 17, 1975<br/>(98-0)
+| {{sort|090|December 19, 1975}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 29, 2010</span><br/><small>(Retired)</small>
+| [[Gerald Ford]]
+| Judge of the<br>[[United States Court of Appeals for the Seventh Circuit|United States Court of Appeals<br>for the Seventh Circuit]]<br>(1970-1975)
+|-
+| data-sort-value="O'Connor, Sandra D."| 91 
+| [[Image:Sandra Day O'Connor.jpg|100px]] 
+| '''[[Sandra Day O'Connor]]'''
+| Stewart 
+| September 21, 1981<br/>(99-0)
+| {{sort|091|September 25, 1981}}<br/>–<br/><span class="date" style="white-space: nowrap;">January 31, 2006</span><br/><small>(Retired)</small>
+| rowspan=3 | [[Ronald Reagan]]
+| Judge of the<br>[[Arizona Court of Appeals]]<br>(1979-1981)
+|-
+| data-sort-value="Scalia, Antonin"| 92 
+| [[Image:Antonin Scalia, SCOTUS photo portrait.jpg|100px]] 
+| '''[[Antonin Scalia]]'''
+| Rehnquist 
+| September 17, 1986<br/>(98-0)
+| {{sort|092|September 26, 1986}}<br/>–<br/><span class="date" style="white-space: nowrap;">February 13, 2016</span><br/><small>(Died)</small>
+| Judge of the<br>[[United States Court of Appeals for the District of Columbia Circuit|United States Court of Appeals<br>for the District of Columbia Circuit]]<br>(1982-1986) 
+|- style="background:#FFF;"
+| data-sort-value="Kennedy, Anthony"| 93 
+| [[Image:Anthony Kennedy official SCOTUS portrait.jpg|100px]] 
+| '''[[Anthony Kennedy]]'''
+| Powell 
+| February 3, 1988<br/>(97-0)
+| {{sort|093|February 18, 1988}}<br/>–<br/>[[Incumbent]]
+| Judge of the<br>[[United States Court of Appeals for the Ninth Circuit|United States Court of Appeals<br>for the Ninth Circuit]]<br>(1975-1988)
+|- 
+| data-sort-value="Souter, David"| 94 
+| [[Image:DavidSouter.jpg|100px]] 
+| '''[[David Souter]]'''
+| Brennan 
+| October 2, 1990<br/>(90-9)
+| {{sort|094|October 9, 1990}}<br/>–<br/><span class="date" style="white-space: nowrap;">June 29, 2009</span><br/><small>(Retired)</small>
+| rowspan=2 | [[George H. W. Bush]]
+| Judge of the<br>[[United States Court of Appeals for the First Circuit|United States Court of Appeals<br>for the First Circuit]]<br>(1990)
+|- style="background:#FFF;"
+| data-sort-value="Thomas, Clarence"| 95 
+| [[Image:Clarence Thomas official SCOTUS portrait.jpg|100px]] 
+| '''[[Clarence Thomas]]'''
+| Marshall 
+| October 15, 1991<br/>(52-48)
+| {{sort|095|October 23, 1991}}<br/>–<br/>Incumbent
+| Judge of the<br>[[United States Court of Appeals for the District of Columbia Circuit|United States Court of Appeals<br>for the District of Columbia Circuit]]<br>(1990-1991)
+|- style="background:#FFF;"
+| data-sort-value="Ginsburg, Ruth B."| 96 
+| [[Image:Ruth Bader Ginsburg official SCOTUS portrait.jpg|100px]] 
+| '''[[Ruth Bader Ginsburg]]'''
+| B. White 
+| August 3, 1993<br/>(96-3)
+| {{sort|096|August 10, 1993}}<br/>–<br/>Incumbent
+| style="background:#f9f9f9;" rowspan=2 | [[Bill Clinton]]
+| Judge of the<br>[[United States Court of Appeals for the District of Columbia Circuit|United States Court of Appeals<br>for the District of Columbia Circuit]]<br>(1980-1993)
+|- style="background:#FFF;"
+| data-sort-value="Breyer, Stephen"| 97 
+| [[Image:Stephen Breyer, SCOTUS photo portrait.jpg|100px]] 
+| '''[[Stephen Breyer]]'''
+| Blackmun 
+| July 29, 1994<br/>(87-9)
+| {{sort|097|August 3, 1994}}<br/>–<br/>Incumbent
+| Chief Judge of the<br>[[United States Court of Appeals for the First Circuit|United States Court of Appeals<br>for the First Circuit]]<br>(1990-1994)
+|- style="background:#FFF;"
+| data-sort-value="Alito, Samuel"| 98 
+| [[Image:010 alito.jpg|100px]] 
+| '''[[Samuel Alito]]'''
+| O'Connor 
+| January 31, 2006<br/>(58-42)
+| {{sort|098|January 31, 2006}}<br/>–<br/>Incumbent
+| style="background:#f9f9f9;" | [[George W. Bush]]
+| Judge of the<br>[[United States Court of Appeals for the Third Circuit|United States Court of Appeals<br>for the Third Circuit]]<br>(1990-2006)
+|- style="background:#FFF;"
+| data-sort-value="Soromayor, Sonia"| 99 
+| [[Image:Sonia Sotomayor in SCOTUS robe.jpg|100px]] 
+| '''[[Sonia Sotomayor]]'''
+| Souter 
+| August 6, 2009<br/>(68-31)
+| {{sort|099|August 8, 2009}}<br/>–<br/>Incumbent
+| style="background:#f9f9f9;" rowspan=2 | [[Barack Obama]]
+| Judge of the<br>[[United States Court of Appeals for the Second Circuit|United States Court of Appeals<br>for the Second Circuit]]<br>(1998-2009)
+|- style="background:#FFF;"
+| data-sort-value="Kagan, Elena"| 100 
+| [[Image:Elena Kagan Official SCOTUS Portrait (2013).jpg|100px]] 
+| '''[[Elena Kagan]]'''
+| Stevens 
+| August 5, 2010<br/>(63-37)
+| {{sort|100|August 7, 2010}}<br/>–<br/>Incumbent
+| 45th<br>[[Solicitor General of the United States]]<br>(2009-2010)
+|}
+===Notes===
+{{notelist|40em|refs=
+{{Efn|name="position"|Listed here (unless otherwise noted) is the position&mdash;either with a U.S. state or the federal government, or with a private corporation&mdash;held by the individual immediately prior to becoming an Associate Justice of the Supreme Court.}}
+{{Efn|name="Rutledge"|Later served chief justice, June 30&ndash;December 28, 1795.}}
+{{Efn|name="recess"|Recess appointment.}}
+{{Efn|name="Johnson"|Received recess appointment on August 5, 1791, but was not sworn in until August 6, 1792.}}
+{{Efn|name="impeached"|Was impeached, but not convicted (remained in office).}}
+{{Efn|name="White"|Served as chief justice, December 19, 1910&ndash;May 19, 1921.}}
+{{Efn|name="Hughes"|Later served as chief justice, February 13, 1930&ndash;June 30, 1941.}}
+{{Efn|name="Stone"|Served as chief justice, July 3, 1941&ndash;April 22, 1946.}}
+{{Efn|name="Rehnquist"|Served as chief justice, September 26, 1986&ndash;September 3, 2005.}}
+}}
+
+==See also==
+*[[Associate Justice]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+*{{Cite book|last=Abraham |first=Henry J. |title=Justices and Presidents: A Political History of Appointments to the Supreme Court |edition=3rd |publisher=[[Oxford University Press]] |year=1992 |location=New York |isbn=0-19-506557-3 }}
+*[http://www.supremecourthistory.org/04_library/subs_volumes/04_c20_e.html Christensen, George A. (1983) ''Here Lies the Supreme Court: Gravesites of the Justices'', Yearbook]. [[Supreme Court Historical Society]].
+*Christensen, George A., ''Here Lies the Supreme Court: Revisited'', ''Journal of Supreme Court History'', Volume 33 Issue 1, Pages 17 – 41 (19 February 2008), [[University of Alabama]].
+*{{Cite book|last=Cushman |first=Clare |title=The Supreme Court Justices: Illustrated Biographies, 1789–1995 |edition=2nd |publisher=([[Supreme Court Historical Society]], Congressional Quarterly Books) |year=2001 |isbn=1-56802-126-7}}
+*{{Cite book|last=Frank |first=John P. |editor-last=Friedman |editor-first=Leon |editor2-last=Israel |editor2-first=Fred L. |title=The Justices of the United States Supreme Court: Their Lives and Major Opinions |publisher=Chelsea House Publishers |year=1995 |isbn=0-7910-1377-4}}
+*{{Cite book|editor-last=Hall |editor-first=Kermit L. |title=The Oxford Companion to the Supreme Court of the United States |publisher=Oxford University Press |year=1992 |location=New York |isbn=0-19-505835-6 }}
+*{{Cite book|last=Martin |first=Fenton S. |author2=Goehlert, Robert U. |title=The U.S. Supreme Court: A Bibliography |publisher=Congressional Quarterly Books |year=1990 |location=Washington, D.C. |isbn=0-87187-554-3 }}
+*{{Cite book|last=Toobin|first=Jeffrey|title=The Nine. Inside the Secret World of the Supreme Court. |edition=1st |publisher=Anchor Books |year=2008 |location=New York |isbn=978-1-4000-9679-4 }}
+*{{Cite book|last=Urofsky |first=Melvin I. |title=The Supreme Court Justices: A Biographical Dictionary |publisher=Garland Publishing |year=1994 |location=New York |pages=590 |isbn=0-8153-1176-1 }}
+
+==External links==
+*[http://supct.law.cornell.edu/supct/cases/judges.htm Historic collection of Supreme Court decisions and biographies] indexed by judge name
+*[{{SCOTUS URL|about/members.pdf}}  Members of the Supreme Court of the United States] from the Court's website.
+
+{{SCOTUS horizontal}}
+{{US Order of Precedence}}
+
+{{DEFAULTSORT:Associate Justice Of The Supreme Court Of The United States}}
+[[Category:Supreme Court of the United States people]]
+[[Category:United States federal judges]]
+[[Category:Legal professions]]

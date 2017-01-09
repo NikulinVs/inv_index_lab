@@ -1,0 +1,63 @@
+Aa_River.txt	{{User:RMCD bot/subject notice|1=Aa (river)|2=Talk:Aa River#Requested move 28 December 2016 }}
+{{Use dmy dates|date=June 2013}}
+'''Aa''' is the name of a large number of small European rivers. Aa originated from an Indo-European word meaning water, and it can be seen in the German ''Ach'' or ''Aach'' or the North Germanic ''A'' or ''Aa''.<!--<ref name=EA>{{cite encyclopedia |editor-first=Patricia |editor-last=Bayer |encyclopedia=Encyclopedia Americana |title=A |edition=First |year=2000  |publisher=Grolier Incorporated |volume=I A-Anjou |location=Danbury, CT |isbn=0-7172-0133-3 |pages=1 }}</ref>-->
+{{TOC right}}
+==Rivers by country==
+===Belgium===
+*Aa, a river in Antwerp, which joins the [[Nete (river)|Nete]]
+*[[Große Aa (Belgium)]], a headstream of the [[Aa of Weerijs]] in the Province of Antwerp
+
+===France===
+*[[Aa (river, France)]], a river in northern France
+
+===Germany===
+*[[Aabach (Afte)]], formerly called the Große Aa, a river in North Rhine-Westphalia
+*[[Aa (Möhne)]], a river in North Rhine-Westphalia
+*[[Aa (Nethe)]], a river in North Rhine-Westphalia
+*[[Aa (Werre)]], a river in North Rhine-Westphalia
+*[[Kleine Aa (Aabach)]], a tributary of the Aabach in North Rhine-Westphalia
+*[[Große Aa]], a tributary of the Ems in Lower Saxony
+*[[Große Aa (Aabach)]], a tributary of the Aabach in North Rhine-Westphalia
+*[[Münstersche Aa]], a river in Germany, one of several Westphalian rivers called Aa
+
+===Netherlands===
+*[[Aa (Meuse)]], a river in North Brabant
+*[[Aa of Weerijs]], a river in North Brabant, which joins the Mark at Breda
+*[[Drentsche Aa]], a river in Drenthe and Groningen
+*[[Kleine Aa (Someren)]], headwater stream of the [[Aa (Meuse)]] in the province of North Brabant
+*[[Mussel Aa]], a river in [[Westerwolde]], Groningen
+*[[Pekel Aa]], a river in [[Westerwolde]], Groningen
+*[[Ruiten Aa]], a river in [[Westerwolde]], Groningen
+*[[Westerwoldsche Aa]], a river in [[Westerwolde]], Groningen
+
+===Switzerland===
+*[[Aabach (Aare)]], a tributary of the Aare in canton of Aargau
+*[[Aabach (Greifensee)]], or Usterner Aa, a river in canton of Zurich
+*[[Aabach (Obersee)]], a tributary of Obersee (Zurichsee), in canton of St. Gallen
+*[[Aabach (Seetal)]], a river in the cantons of Lucerne and Aargau, runs through Lake Hallwyl
+*[[Aach (Romanshorn)]], a tributary of the Lake Constance in canton of Thurgau
+*[[Aach (Aarbon)]], a tributary of the Lake Constance in canton of Thurgau
+*[[Aachbach (Necker)]], a creek in canton of St. Gallen, a tributary of the Necker
+*[[Chli Aa (Schwyz)]], a river in canton of Schwyz, a tributary of Obersee (Zurichsee)
+*[[Chli Aa (Sempachersee)]], a tributary of Lake Sempach in the canton of Lucerne
+*[[Engelberger Aa]], a river in the cantons of Obwalden and Nidwalden, tributary of Lake Lucerne
+*[[Gross Aa (Sempachersee)]], a tributary of Lake Sempach in the canton of Lucerne
+*[[Mönchaltorfer Aa]], a tributary of Greifensee in canton of Zurich
+*[[Sarner Aa]], a river in Obwalden, tributary of Lake Lucerne
+*[[Rigiaa]], a creek on the Rigi in canton of Schwyz
+*[[Steiner Aa]], a creek in canton of Schwyz
+*[[Le Torrent de l'Aâ]], a river in canton of Valais
+*[[Wägitaler Aa]], a creek in canton of Schwyz
+*[[Aare]], a tributary of the High Rhine
+
+== Former names ==
+
+*[[Gauja]], a river in Latvia, formerly known as ''Livländische Aa''
+*[[Lielupe]], a river in Latvia, formerly known as ''Kurländische Aa''
+
+==See also==
+*[[Aabach (disambiguation)]]
+*[[Aach (toponymy)]]
+*[[AA (disambiguation)]]
+
+{{geodis}}
