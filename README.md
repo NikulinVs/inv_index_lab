@@ -9,4 +9,4 @@ Run shell script file "run.sh"
 
 2)Usage
 
-./find_article.py "list of words"
+./find_articles.py "list of words"
